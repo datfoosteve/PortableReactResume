@@ -1,0 +1,22 @@
+*{
+    background-color:black !important;
+}
+
+.PDFviewer{
+    background-color: #020101;
+    display: block;
+    justify-content: center;
+    align-items: center;
+    height: 800px;
+    overflow-y: auto;
+    margin-bottom: 10px;
+    margin-left:1000px;
+  }
+  .PDFContainer{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100%;
+    width: 100%;
+    margin-left: 1000px;
+  }

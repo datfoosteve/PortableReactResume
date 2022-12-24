@@ -18,5 +18,9 @@
   },
   "license": "MIT",
   "keywords": [],
-  "description": ""
+  "description": "",
+  "main": "index.js",
+  "repository": "https://github.com/datfoosteve/PortableReactResume.git",
+  "author": "Stephen Puthenpurackal <datfoosteve@gmail.com>",
+  "private": false
 }

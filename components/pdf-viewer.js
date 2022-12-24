@@ -33,10 +33,8 @@ export default function PDFViewer() {
   return (
     <div>
       <div>
-        <label htmlFor="file">Load from file:</label>{" "}
-        <input onChange={onFileChange} type="file" />
       </div>
-      <div>
+      <div className= "PDFContainer" >
         <Document file={file} onLoadSuccess={onDocumentLoadSuccess}>
           {Array.from({ length: numPages }, (_, index) => (
             <Page
