@@ -4,13 +4,10 @@
 
 .PDFviewer{
     background-color: #020101;
-    display: block;
+    display: -webkit-flex;
     justify-content: center;
     align-items: center;
-    height: 800px;
     overflow-y: auto;
-    margin-bottom: 10px;
-    margin-left:1000px;
     width: 100%;
     border: 5px solid #000;
   }
@@ -20,5 +17,5 @@
     align-items: center;
     height: 100%;
     width: 100%;
-    margin-left: 1000px;
+    margin-left: 1px;
   }
