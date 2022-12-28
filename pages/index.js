@@ -1,8 +1,17 @@
-import dynamic from "next/dynamic";
-const PDFViewer = dynamic(() => import("../components/pdf-viewer"), {
-  ssr: false
+import dynamic from 'next/dynamic';
+import react from 'react';
+
+const PDFViewer = dynamic(() => import('../components/pdf-viewer'), {
+    ssr: false,
 });
 
 export default function PDF() {
-  return <PDFViewer />;
+    return (
+        <div className="container" mx-auto="true" px-4>
+            
+            <div className="flex justify-center">
+            <PDFViewer />
+            </div>
+        </div>
+    );
 }

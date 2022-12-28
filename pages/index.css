@@ -11,6 +11,8 @@
     overflow-y: auto;
     margin-bottom: 10px;
     margin-left:1000px;
+    width: 100%;
+    border: 5px solid #000;
   }
   .PDFContainer{
     display: flex;
