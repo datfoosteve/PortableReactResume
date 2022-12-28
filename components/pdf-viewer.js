@@ -14,7 +14,7 @@ export default function PDFViewer() {
     setFile(event.target.files[0]);
   }
   useEffect(() => {
-    fetch('sample.pdf').then(res => {
+    fetch('sample2.pdf').then(res => {
       // res.blob().then(b => {
       //   console.log(b)
       //   setFile(b)
@@ -24,7 +24,7 @@ export default function PDFViewer() {
         setFile(buf)
       })
     })
-  }, [])
+  }, [ ])
 
   function onDocumentLoadSuccess({ numPages: nextNumPages }) {
     setNumPages(nextNumPages);
@@ -37,11 +37,13 @@ export default function PDFViewer() {
       <div className= "PDFContainer" >
         <Document file={file} onLoadSuccess={onDocumentLoadSuccess}>
           {Array.from({ length: numPages }, (_, index) => (
-            <Page
+            <Page 
               key={`page_${index + 1}`}
               pageNumber={index + 1}
-              renderAnnotationLayer={false}
+              renderAnnotationLayer={true}
               renderTextLayer={false}
+              renderInteractiveForms={true}
+              customTextRenderer={true}
             />
           ))}
         </Document>

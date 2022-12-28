@@ -7,11 +7,13 @@ const PDFViewer = dynamic(() => import('../components/pdf-viewer'), {
 
 export default function PDF() {
     return (
-        <div className="container" mx-auto="true" px-4>
+        <div className="container" mx-auto px-4>
+        <div className="container mx-auto px-4" mx-auto px-4>
             
-            <div className="flex justify-center">
+            <div className="flex justify-center"flex justify-center>
             <PDFViewer />
             </div>
+        </div>
         </div>
     );
 }
