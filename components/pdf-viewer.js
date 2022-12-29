@@ -1,22 +1,20 @@
 import { useState, useEffect } from 'react';
-import FileSaver from 'file-saver';
 import { LinkAnnotation, Document, Page, pdfjs } from 'react-pdf';
 import workerSrc from '../pdf-worker';
 
 // Set the workerSrc property of the GlobalWorkerOptions object to use a custom worker
 pdfjs.GlobalWorkerOptions.workerSrc = workerSrc;
 
-<LinkAnnotation
-                    style={{
-                        position: 'fixed',
-                        top: '300px',
-                        left: '0',
-                        right: '0',
-                        bottom: '0',
-                        width: '100%',
-                        height: '100%',
-                    }}
-                />
+<LinkAnnotation source={{ type: "URL", url: "http://example.com" }} style={{
+  position: 'fixed',
+  top: '300px',
+  left: '0',
+  right: '0',
+  bottom: '0',
+  width: '100%',
+  height: '100%'
+}} />
+
 
 export default function PDFViewer() {
     // Declare state variables to store the file, the number of pages in the file, and the URL of the file
@@ -55,11 +53,11 @@ export default function PDFViewer() {
     function onDocumentLoadSuccess({ numPages: nextNumPages }) {
         setNumPages(nextNumPages);
     }
-
+    
     // Declare an event handler to cycle through the PDFs when the button is clicked
     function onNextPdfClick() {
-        // Increment the current PDF index, wrapping around to 0 when it reaches the end
-        setCurrentPdfIndex((currentPdfIndex + 1) % 2);
+      // Increment the current PDF index, wrapping around to 0 when it reaches the end
+      setCurrentPdfIndex((currentPdfIndex + 1) % 4);
     }
 
     return (
