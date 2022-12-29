@@ -4,7 +4,7 @@
 
 .PDFviewer{
     background-color: #020101;
-    display: -webkit-flex;
+    display: inline-block;
     justify-content: center;
     align-items: center;
     overflow-y: auto;
@@ -12,10 +12,14 @@
     border: 5px solid #000;
   }
   .PDFContainer{
-    display: flex;
+    display: block !important;
     justify-content: center;
     align-items: center;
     height: 100%;
     width: 100%;
     margin-left: 1px;
+  }
+  .annotation {
+    position: absolute;
+    z-index: 10;
   }
