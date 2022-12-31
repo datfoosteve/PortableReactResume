@@ -61,6 +61,7 @@ export default function PDFViewer() {
     }
 
     return (
+      <div className="md:max-xl:flex md:justify-center">
         <div
             className="container"
             style={{
@@ -111,6 +112,7 @@ export default function PDFViewer() {
                 
                 <div />
             </div>
+        </div>
         </div>
     );
 } 

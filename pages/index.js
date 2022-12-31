@@ -1,6 +1,6 @@
 import dynamic from 'next/dynamic';
-import react from 'react';
-
+import FloatingPop from '../components/FloatingPop';
+import FloatingTabs from '../components/FloatingTabs';
 
 const PDFViewer = dynamic(() => import('../components/pdf-viewer'), {
     ssr: false,
@@ -8,9 +8,13 @@ const PDFViewer = dynamic(() => import('../components/pdf-viewer'), {
 
 export default function PDF() {
     return (
-            <div >
-            <PDFViewer/>
+        <div>
+             <FloatingTabs />
+
+            <FloatingPop />
+           
+            <PDFViewer />
             </div>
       
     );
-} 
+}

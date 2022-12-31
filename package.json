@@ -8,6 +8,8 @@
     "post-update": "yarn upgrade --latest"
   },
   "dependencies": {
+    "@headlessui/react": "^1.7.7",
+    "@heroicons/react": "v1",
     "@types/node": "^18.11.17",
     "@types/react": "^18.0.26",
     "@typescript-eslint/eslint-plugin": "^5.47.0",
