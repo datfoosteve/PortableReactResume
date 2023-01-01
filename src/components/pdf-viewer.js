@@ -64,13 +64,15 @@ export default function PDFViewer() {
                     {Array.from({ length: numPages }, (_, index) => (
                         <Page
                             className={'border-slate-900 border-4'}
-                            pageLayout={'twoPageLeft','twoColumnLeft'}
+                            pageLayout={'twoColumnLeft'}
                             key={`page_${index + 1}`}
                             pageNumber={index + 1}
+                            renderMode={'canvas'}
                             renderAnnotationLayer={false}
                             renderInteractiveForms
                             renderTextLayer={false}
                             customTextRenderer={false}
+                            fixed={true}
                         />
                     ))}
                     <button className="resumeDownload" onClick={onPrevPdfClick}><div className="download">Previous PDF</div></button>
