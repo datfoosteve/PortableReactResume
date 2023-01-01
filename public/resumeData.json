@@ -1,0 +1,183 @@
+{
+    "main": {
+        "name": "Stephen Puthenpurackal",
+        "occupation": "Software Developer, Software Engineeer, Computer Science Student",
+        "description": "Learning and developing on the web while engineering and fabricating in life.",
+        "image": "profilepic.png",
+        "bio": "",
+        "contactmessage": "Please feel free to contact me via email or phone.",
+        "email": "puthenpurackalstephen@gmail.com.com",
+        "phone": "469-735-7590",
+        "address": {
+          "street": "815 Dandelion Dr",
+          "city": "Dallas",
+          "state": "TX",
+          "zip": "75149"
+        },
+        "website": "github.com/datfoosteve",
+        "resumedownload": "github.com/datfoosteve",
+        "social": [
+          {
+            "network": "twitter",
+            "link": "https://twitter.com/",
+            "pic": "twitter.svg"
+          },
+          {
+            "network": "linkedin",
+            "link": "https://www.linkedin.com/Puthenpurackalstephen",
+            "pic": "linkedin.svg"
+          },
+          {
+            "network": "github",
+            "link": "https://github.com/datfoosteve",
+            "pic": "github.svg"
+          }
+        ]
+      },
+      "resume": {
+        "skillmessage": "Experience with : ",
+        "education": [
+          {
+            "school": "Midwestern State University, Wichita Falls, TX",
+            "degree": "Bachelor's Degree in Science, Computer Science",
+            "graduated": "Dec 2020",
+            "description": "Bachelor's Degree in Science, Computer Science, Students learn the fundamentals of computer science, including data structures, algorithms, and programming languages."
+          },
+          {
+            "school": "SMU Full Stack Engineering Bootcamp, Dallas, TX",
+            "graduated": "Dec 2022",
+            "description": "Full Stack Web Development, Students learn the fundamentals of web development, including HTML, CSS, JavaScript, jQuery, Bootstrap, Node.js, Express.js, MySQL, MongoDB, React, and more."
+          }
+        ],
+        "work": [
+          {
+            "company": "Searching",
+            "title": "Building in the Web3 space ",
+            "years": "October 2020 - Present",
+            "description": "Previous CNC (CAD/CAM) plasma specialist."
+          }
+        ],
+        "skills": [
+          {
+            "name": "React",
+            "src": "react.svg",
+            "url": "https://reactjs.org/docs/getting-started.html"
+          },
+          {
+            "name": "Next",
+            "src": "next.svg",
+            "url": "https://nextjs.org/docs"
+          },
+          {
+            "name": "Apollo",
+            "src": "apollo.svg",
+            "url": "https://www.apollographql.com/docs/apollo-server/"
+          },
+          {
+            "name": "Graphql",
+            "src": "graphql.svg",
+            "url": "https://graphql.org/graphql-js/"
+          },
+          {
+            "name": "Tailwind",
+            "src": "tailwind.svg",
+            "url": "https://tailwindcss.com/docs/installation"
+          },
+          {
+            "name": "Typescript",
+            "src": "ts.svg",
+            "url": "https://www.typescriptlang.org/docs/"
+          },
+          {
+            "name": "Nodejs",
+            "src": "node.svg",
+            "url": "https://nodejs.org/en/docs/guides/getting-started-guide/"
+          },
+          {
+            "name": "Ethereum",
+            "src": "ethereum.svg",
+            "url": "https://ethereum.org/en/"
+          },
+          {
+            "name": "Solidity",
+            "src": "solidity.svg",
+            "url": "https://docs.soliditylang.org/en/v0.8.13/"
+          },
+          {
+            "name": "Firebase",
+            "src": "firebase.svg",
+            "url": "https://firebase.google.com/"
+          },
+          {
+            "name": "Oauth",
+            "src": "oauth.svg",
+            "url": "https://oauth.net/getting-started/"
+          },
+          {
+            "name": "Javascript",
+            "src": "js.svg",
+            "url": "https://www.javascript.com/"
+          }
+        ],
+        "certificates": [
+          {
+            "name": "Full Stack Web Development",
+            "src": "odyssey-cert.png",
+            "url": "https://github.com/datfoosteve"
+          }
+        ]
+      },
+    
+      "portfolio": {
+        "projects": [
+          {
+            "title": "Lyrical Hackers - Musical Artist Search Engine",
+            "description": "This website allowed a user to search for their favorite artist’s albums, songs, and upcoming events. In doing so, the user would be taken to external links that would allow him or her to explore the album, find lyrics to their favorite songs, or buy tickets to the next concert.",
+            "category": "Bootstrap, Moment, server-side API's, Google Fonts, HTML, CSS, JavaScript",
+            "image": "poh.png",
+            "url": "HTTPS://COLINMCHALE.GITHUB.IO/PROJECTFORHACKERS"
+          },
+          {
+            "title": "JATE",
+            "description": "This program is a text editor that runs in a browser window. It is a single application that meets the PWA(Progressive Web Application) criteria and features a number of data persistence techniques that can also serves as redundancy, in such that, when a browser doesn’t support it. In other words, this application will function offline.This application consists of methods that are used for retrieving and storing data to an IndexedDB database, and uses a package called idb. The package idb is a lightweight wrapper which is used in tandem with the indexedDB API and database. The API used for storing and retrieving data is also used by companies like Google and Mozilla.",
+            "category": "Progressive Web APP",
+            "image": "winsome-tenley.png",
+            "url": "HTTPS://TEXT-JEDITOR.HEROKUAPP.COM/"
+          },
+          {
+            "title": "Example Title",
+            "description": "Example Description",
+            "category": "Example Catagory",
+            "image": "specto-black.png",
+            "url": "https://github.com/datfoosteve"
+          },
+          {
+            "title": "Example Title",
+            "description": "Example Description",
+            "category": "Example Catagory",
+            "image": "musedao.png",
+            "url": "https://github.com/datfoosteve"
+          }
+        ]
+      },
+      "testimonials": {
+        "testimonials": [
+          {
+            "text": "omg he did great work on the project and was very responsive to feedback. I would definitely work with him again. 10/10",
+            "user": "kimberly jones - CEO of company xyz"
+          },
+          {
+            "text": "HOLY COW! He is a genius! I would hire him again in a heartbeat.",
+            "user": "jane doe - CEO of company xyz"
+          },
+          {
+            "text": "Insane work ethic. He is a true professional.",
+            "user": "The arbitrator - CEO of company xyz"
+          },
+          {
+            "text": "sexy looking code and naughty comments in the code. i think he is a genuine jewel of a dev ops professional.",
+            "user": "God - CEO of company Heaven"
+          }
+        ]
+      }
+    }

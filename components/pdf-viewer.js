@@ -60,8 +60,13 @@ export default function PDFViewer() {
       setCurrentPdfIndex((currentPdfIndex + 1) % 4);
     }
 
+    function onPrevPdfClick() {
+      // Decrement the current PDF index, wrapping around to 3 when it reaches 0
+      setCurrentPdfIndex((currentPdfIndex - 1 + 4) % 4);
+    }
+
     return (
-      <div className="md:max-xl:flex md:justify-center">
+      <div className="relative flex min-h-screen flex-col justify-center overflow-hidden bg-gray-50 py-6 sm:py-12">
         <div
             className="container"
             style={{
@@ -71,17 +76,7 @@ export default function PDFViewer() {
                 backgroundAttachment: 'scroll',
             }}
         >
-            <a
-                style={{
-                    position: 'flex',
-                    width: '100%',
-                    border: '6px solid rgba(black, black, black, 0.1)',
-                }}
-                href={fileUrl}
-                download="myfile.pdf"
-            >
-                Download PDF
-            </a>
+            
 
             <div
                 className="PDFContainer"
@@ -97,7 +92,8 @@ export default function PDFViewer() {
             >
                 <Document file={file} onLoadSuccess={onDocumentLoadSuccess}>
                     {Array.from({ length: numPages }, (_, index) => (
-                        <Page
+                        <Page className={"border-4 border-red-900"}
+                            pageLayout={'twoColumnLeft'}
                             key={`page_${index + 1}`}
                             pageNumber={index + 1}
                             renderAnnotationLayer={false}
@@ -106,14 +102,27 @@ export default function PDFViewer() {
                             customTextRenderer={false}
                         />
                     ))}
-
+                    <button onClick={onPrevPdfClick}>Previous PDF</button>
                     <button onClick={onNextPdfClick}>Next PDF</button>
+                    <button >
+                    <a
+                style={{
+                    position: 'flex',
+                    width: '100%',
+                    border: '6px solid rgba(black, black, black, 0.1)',
+                }}
+                href={fileUrl}
+                download="myfile.pdf"
+            >
+                Download PDF
+            </a>
+            </button>
                 </Document>
                 
                 <div />
             </div>
         </div>
-        </div>
+         </div>
     );
 } 
 
