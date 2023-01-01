@@ -8,7 +8,7 @@ module.exports = {
         colors: {
           blue: '#0F4C8',
           slate: '#E1E1E8',
-        },
+        }
         // backgroundImage: {
         //   'header-background': "url('/images/header-background.jpg')",
         // },

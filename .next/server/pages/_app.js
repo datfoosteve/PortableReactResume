@@ -1,267 +1,75 @@
+/*
+ * ATTENTION: An "eval-source-map" devtool has been used.
+ * This devtool is neither made for production nor for readable output files.
+ * It uses "eval()" calls to create a separate source file with attached SourceMaps in the browser devtools.
+ * If you are trying to read the output file, select a different devtool (https://webpack.js.org/configuration/devtool/)
+ * or disable the default devtool with "devtool: false".
+ * If you are looking for production-ready output files, see mode: "production" (https://webpack.js.org/configuration/mode/).
+ */
 (() => {
 var exports = {};
-exports.id = 888;
-exports.ids = [888];
+exports.id = "pages/_app";
+exports.ids = ["pages/_app"];
 exports.modules = {
 
-/***/ 5:
+/***/ "./src/components/FloatingPop.js":
+/*!***************************************!*\
+  !*** ./src/components/FloatingPop.js ***!
+  \***************************************/
 /***/ ((module, __webpack_exports__, __webpack_require__) => {
 
 "use strict";
-__webpack_require__.a(module, async (__webpack_handle_async_dependencies__, __webpack_async_result__) => { try {
-/* harmony export */ __webpack_require__.d(__webpack_exports__, {
-/* harmony export */   "Z": () => (__WEBPACK_DEFAULT_EXPORT__)
-/* harmony export */ });
-/* harmony import */ var react_jsx_runtime__WEBPACK_IMPORTED_MODULE_0__ = __webpack_require__(997);
-/* harmony import */ var react_jsx_runtime__WEBPACK_IMPORTED_MODULE_0___default = /*#__PURE__*/__webpack_require__.n(react_jsx_runtime__WEBPACK_IMPORTED_MODULE_0__);
-/* harmony import */ var react__WEBPACK_IMPORTED_MODULE_1__ = __webpack_require__(689);
-/* harmony import */ var react__WEBPACK_IMPORTED_MODULE_1___default = /*#__PURE__*/__webpack_require__.n(react__WEBPACK_IMPORTED_MODULE_1__);
-/* harmony import */ var _headlessui_react__WEBPACK_IMPORTED_MODULE_2__ = __webpack_require__(185);
-/* harmony import */ var _heroicons_react_outline__WEBPACK_IMPORTED_MODULE_3__ = __webpack_require__(768);
-/* harmony import */ var _heroicons_react_outline__WEBPACK_IMPORTED_MODULE_3___default = /*#__PURE__*/__webpack_require__.n(_heroicons_react_outline__WEBPACK_IMPORTED_MODULE_3__);
-var __webpack_async_dependencies__ = __webpack_handle_async_dependencies__([_headlessui_react__WEBPACK_IMPORTED_MODULE_2__]);
-_headlessui_react__WEBPACK_IMPORTED_MODULE_2__ = (__webpack_async_dependencies__.then ? (await __webpack_async_dependencies__)() : __webpack_async_dependencies__)[0];
-
-
-
-
-const FloatingPop = ()=>{
-    return /*#__PURE__*/ react_jsx_runtime__WEBPACK_IMPORTED_MODULE_0__.jsx("div", {
-        className: "floatingPop",
-        children: /*#__PURE__*/ (0,react_jsx_runtime__WEBPACK_IMPORTED_MODULE_0__.jsxs)(_headlessui_react__WEBPACK_IMPORTED_MODULE_2__.Popover, {
-            children: [
-                /*#__PURE__*/ react_jsx_runtime__WEBPACK_IMPORTED_MODULE_0__.jsx(_headlessui_react__WEBPACK_IMPORTED_MODULE_2__.Popover.Button, {
-                    className: "popoverButton hover:shadow-blue",
-                    children: /*#__PURE__*/ react_jsx_runtime__WEBPACK_IMPORTED_MODULE_0__.jsx(_heroicons_react_outline__WEBPACK_IMPORTED_MODULE_3__.MenuIcon, {
-                        className: "menuIcon"
-                    })
-                }),
-                /*#__PURE__*/ react_jsx_runtime__WEBPACK_IMPORTED_MODULE_0__.jsx(_headlessui_react__WEBPACK_IMPORTED_MODULE_2__.Popover.Panel, {
-                    children: /*#__PURE__*/ (0,react_jsx_runtime__WEBPACK_IMPORTED_MODULE_0__.jsxs)("div", {
-                        className: "popoverPanel bg-blue tracking-wider text-red",
-                        children: [
-                            /*#__PURE__*/ react_jsx_runtime__WEBPACK_IMPORTED_MODULE_0__.jsx("a", {
-                                className: "hover",
-                                href: "#home",
-                                children: "Home"
-                            }),
-                            /*#__PURE__*/ react_jsx_runtime__WEBPACK_IMPORTED_MODULE_0__.jsx("a", {
-                                className: "hover",
-                                href: "#about",
-                                children: "About"
-                            }),
-                            /*#__PURE__*/ react_jsx_runtime__WEBPACK_IMPORTED_MODULE_0__.jsx("a", {
-                                className: "hover",
-                                href: "#education",
-                                children: "Resume"
-                            }),
-                            /*#__PURE__*/ react_jsx_runtime__WEBPACK_IMPORTED_MODULE_0__.jsx("a", {
-                                className: "hover",
-                                href: "#experience",
-                                children: "Works"
-                            }),
-                            /*#__PURE__*/ react_jsx_runtime__WEBPACK_IMPORTED_MODULE_0__.jsx("a", {
-                                className: "hover",
-                                href: "#skills",
-                                children: "Skills"
-                            }),
-                            /*#__PURE__*/ react_jsx_runtime__WEBPACK_IMPORTED_MODULE_0__.jsx("a", {
-                                className: "hover",
-                                href: "#projects",
-                                children: "Projects"
-                            }),
-                            /*#__PURE__*/ react_jsx_runtime__WEBPACK_IMPORTED_MODULE_0__.jsx("a", {
-                                className: "hover",
-                                href: "#contact",
-                                children: "Contact"
-                            })
-                        ]
-                    })
-                })
-            ]
-        })
-    });
-};
-/* harmony default export */ const __WEBPACK_DEFAULT_EXPORT__ = (FloatingPop);
-
-__webpack_async_result__();
-} catch(e) { __webpack_async_result__(e); } });
+eval("__webpack_require__.a(module, async (__webpack_handle_async_dependencies__, __webpack_async_result__) => { try {\n__webpack_require__.r(__webpack_exports__);\n/* harmony export */ __webpack_require__.d(__webpack_exports__, {\n/* harmony export */   \"default\": () => (__WEBPACK_DEFAULT_EXPORT__)\n/* harmony export */ });\n/* harmony import */ var react_jsx_dev_runtime__WEBPACK_IMPORTED_MODULE_0__ = __webpack_require__(/*! react/jsx-dev-runtime */ \"react/jsx-dev-runtime\");\n/* harmony import */ var react_jsx_dev_runtime__WEBPACK_IMPORTED_MODULE_0___default = /*#__PURE__*/__webpack_require__.n(react_jsx_dev_runtime__WEBPACK_IMPORTED_MODULE_0__);\n/* harmony import */ var react__WEBPACK_IMPORTED_MODULE_1__ = __webpack_require__(/*! react */ \"react\");\n/* harmony import */ var react__WEBPACK_IMPORTED_MODULE_1___default = /*#__PURE__*/__webpack_require__.n(react__WEBPACK_IMPORTED_MODULE_1__);\n/* harmony import */ var _headlessui_react__WEBPACK_IMPORTED_MODULE_2__ = __webpack_require__(/*! @headlessui/react */ \"@headlessui/react\");\n/* harmony import */ var _heroicons_react_outline__WEBPACK_IMPORTED_MODULE_3__ = __webpack_require__(/*! @heroicons/react/outline */ \"@heroicons/react/outline\");\n/* harmony import */ var _heroicons_react_outline__WEBPACK_IMPORTED_MODULE_3___default = /*#__PURE__*/__webpack_require__.n(_heroicons_react_outline__WEBPACK_IMPORTED_MODULE_3__);\nvar __webpack_async_dependencies__ = __webpack_handle_async_dependencies__([_headlessui_react__WEBPACK_IMPORTED_MODULE_2__]);\n_headlessui_react__WEBPACK_IMPORTED_MODULE_2__ = (__webpack_async_dependencies__.then ? (await __webpack_async_dependencies__)() : __webpack_async_dependencies__)[0];\n\n\n\n\nconst FloatingPop = ()=>{\n    return /*#__PURE__*/ (0,react_jsx_dev_runtime__WEBPACK_IMPORTED_MODULE_0__.jsxDEV)(\"div\", {\n        className: \"floatingPop\",\n        children: /*#__PURE__*/ (0,react_jsx_dev_runtime__WEBPACK_IMPORTED_MODULE_0__.jsxDEV)(_headlessui_react__WEBPACK_IMPORTED_MODULE_2__.Popover, {\n            children: [\n                /*#__PURE__*/ (0,react_jsx_dev_runtime__WEBPACK_IMPORTED_MODULE_0__.jsxDEV)(_headlessui_react__WEBPACK_IMPORTED_MODULE_2__.Popover.Button, {\n                    className: \"popoverButton hover:shadow-blue\",\n                    children: /*#__PURE__*/ (0,react_jsx_dev_runtime__WEBPACK_IMPORTED_MODULE_0__.jsxDEV)(_heroicons_react_outline__WEBPACK_IMPORTED_MODULE_3__.MenuIcon, {\n                        className: \"menuIcon\"\n                    }, void 0, false, {\n                        fileName: \"C:\\\\Users\\\\datfo\\\\repos\\\\stephen\\\\src\\\\components\\\\FloatingPop.js\",\n                        lineNumber: 10,\n                        columnNumber: 11\n                    }, undefined)\n                }, void 0, false, {\n                    fileName: \"C:\\\\Users\\\\datfo\\\\repos\\\\stephen\\\\src\\\\components\\\\FloatingPop.js\",\n                    lineNumber: 9,\n                    columnNumber: 9\n                }, undefined),\n                /*#__PURE__*/ (0,react_jsx_dev_runtime__WEBPACK_IMPORTED_MODULE_0__.jsxDEV)(_headlessui_react__WEBPACK_IMPORTED_MODULE_2__.Popover.Panel, {\n                    children: /*#__PURE__*/ (0,react_jsx_dev_runtime__WEBPACK_IMPORTED_MODULE_0__.jsxDEV)(\"div\", {\n                        className: \"popoverPanel bg-blue tracking-wider text-slate\",\n                        children: [\n                            /*#__PURE__*/ (0,react_jsx_dev_runtime__WEBPACK_IMPORTED_MODULE_0__.jsxDEV)(\"a\", {\n                                className: \"hover\",\n                                href: \"#home\",\n                                children: \"Home\"\n                            }, void 0, false, {\n                                fileName: \"C:\\\\Users\\\\datfo\\\\repos\\\\stephen\\\\src\\\\components\\\\FloatingPop.js\",\n                                lineNumber: 15,\n                                columnNumber: 13\n                            }, undefined),\n                            /*#__PURE__*/ (0,react_jsx_dev_runtime__WEBPACK_IMPORTED_MODULE_0__.jsxDEV)(\"a\", {\n                                className: \"hover\",\n                                href: \"#about\",\n                                children: \"About\"\n                            }, void 0, false, {\n                                fileName: \"C:\\\\Users\\\\datfo\\\\repos\\\\stephen\\\\src\\\\components\\\\FloatingPop.js\",\n                                lineNumber: 18,\n                                columnNumber: 13\n                            }, undefined),\n                            /*#__PURE__*/ (0,react_jsx_dev_runtime__WEBPACK_IMPORTED_MODULE_0__.jsxDEV)(\"a\", {\n                                className: \"hover\",\n                                href: \"#education\",\n                                children: \"Resume\"\n                            }, void 0, false, {\n                                fileName: \"C:\\\\Users\\\\datfo\\\\repos\\\\stephen\\\\src\\\\components\\\\FloatingPop.js\",\n                                lineNumber: 21,\n                                columnNumber: 13\n                            }, undefined),\n                            /*#__PURE__*/ (0,react_jsx_dev_runtime__WEBPACK_IMPORTED_MODULE_0__.jsxDEV)(\"a\", {\n                                className: \"hover\",\n                                href: \"#experience\",\n                                children: \"Works\"\n                            }, void 0, false, {\n                                fileName: \"C:\\\\Users\\\\datfo\\\\repos\\\\stephen\\\\src\\\\components\\\\FloatingPop.js\",\n                                lineNumber: 24,\n                                columnNumber: 13\n                            }, undefined),\n                            /*#__PURE__*/ (0,react_jsx_dev_runtime__WEBPACK_IMPORTED_MODULE_0__.jsxDEV)(\"a\", {\n                                className: \"hover\",\n                                href: \"#skills\",\n                                children: \"Skills\"\n                            }, void 0, false, {\n                                fileName: \"C:\\\\Users\\\\datfo\\\\repos\\\\stephen\\\\src\\\\components\\\\FloatingPop.js\",\n                                lineNumber: 27,\n                                columnNumber: 13\n                            }, undefined),\n                            /*#__PURE__*/ (0,react_jsx_dev_runtime__WEBPACK_IMPORTED_MODULE_0__.jsxDEV)(\"a\", {\n                                className: \"hover\",\n                                href: \"#projects\",\n                                children: \"Projects\"\n                            }, void 0, false, {\n                                fileName: \"C:\\\\Users\\\\datfo\\\\repos\\\\stephen\\\\src\\\\components\\\\FloatingPop.js\",\n                                lineNumber: 30,\n                                columnNumber: 13\n                            }, undefined),\n                            /*#__PURE__*/ (0,react_jsx_dev_runtime__WEBPACK_IMPORTED_MODULE_0__.jsxDEV)(\"a\", {\n                                className: \"hover\",\n                                href: \"#contact\",\n                                children: \"Contact\"\n                            }, void 0, false, {\n                                fileName: \"C:\\\\Users\\\\datfo\\\\repos\\\\stephen\\\\src\\\\components\\\\FloatingPop.js\",\n                                lineNumber: 33,\n                                columnNumber: 13\n                            }, undefined)\n                        ]\n                    }, void 0, true, {\n                        fileName: \"C:\\\\Users\\\\datfo\\\\repos\\\\stephen\\\\src\\\\components\\\\FloatingPop.js\",\n                        lineNumber: 14,\n                        columnNumber: 11\n                    }, undefined)\n                }, void 0, false, {\n                    fileName: \"C:\\\\Users\\\\datfo\\\\repos\\\\stephen\\\\src\\\\components\\\\FloatingPop.js\",\n                    lineNumber: 13,\n                    columnNumber: 9\n                }, undefined)\n            ]\n        }, void 0, true, {\n            fileName: \"C:\\\\Users\\\\datfo\\\\repos\\\\stephen\\\\src\\\\components\\\\FloatingPop.js\",\n            lineNumber: 8,\n            columnNumber: 7\n        }, undefined)\n    }, void 0, false, {\n        fileName: \"C:\\\\Users\\\\datfo\\\\repos\\\\stephen\\\\src\\\\components\\\\FloatingPop.js\",\n        lineNumber: 7,\n        columnNumber: 5\n    }, undefined);\n};\n/* harmony default export */ const __WEBPACK_DEFAULT_EXPORT__ = (FloatingPop);\n\n__webpack_async_result__();\n} catch(e) { __webpack_async_result__(e); } });//# sourceURL=[module]\n//# sourceMappingURL=data:application/json;charset=utf-8;base64,eyJ2ZXJzaW9uIjozLCJmaWxlIjoiLi9zcmMvY29tcG9uZW50cy9GbG9hdGluZ1BvcC5qcy5qcyIsIm1hcHBpbmdzIjoiOzs7Ozs7Ozs7Ozs7OztBQUFBO0FBQXlCO0FBQ2tCO0FBQ1E7QUFFbkQsTUFBTUcsY0FBYyxJQUFNO0lBQ3hCLHFCQUNFLDhEQUFDQztRQUFJQyxXQUFVO2tCQUNiLDRFQUFDSixzREFBT0E7OzhCQUNOLDhEQUFDQSw2REFBYztvQkFBQ0ksV0FBVTs4QkFDeEIsNEVBQUNILDhEQUFRQTt3QkFBQ0csV0FBVTs7Ozs7Ozs7Ozs7OEJBR3RCLDhEQUFDSiw0REFBYTs4QkFDWiw0RUFBQ0c7d0JBQUlDLFdBQVU7OzBDQUNiLDhEQUFDRztnQ0FBRUgsV0FBVTtnQ0FBUUksTUFBSzswQ0FBUTs7Ozs7OzBDQUdsQyw4REFBQ0Q7Z0NBQUVILFdBQVU7Z0NBQVFJLE1BQUs7MENBQVM7Ozs7OzswQ0FHbkMsOERBQUNEO2dDQUFFSCxXQUFVO2dDQUFRSSxNQUFLOzBDQUFhOzs7Ozs7MENBR3ZDLDhEQUFDRDtnQ0FBRUgsV0FBVTtnQ0FBUUksTUFBSzswQ0FBYzs7Ozs7OzBDQUd4Qyw4REFBQ0Q7Z0NBQUVILFdBQVU7Z0NBQVFJLE1BQUs7MENBQVU7Ozs7OzswQ0FHcEMsOERBQUNEO2dDQUFFSCxXQUFVO2dDQUFRSSxNQUFLOzBDQUFZOzs7Ozs7MENBR3RDLDhEQUFDRDtnQ0FBRUgsV0FBVTtnQ0FBUUksTUFBSzswQ0FBVzs7Ozs7Ozs7Ozs7Ozs7Ozs7Ozs7Ozs7Ozs7OztBQVFqRDtBQUVBLGlFQUFlTixXQUFXQSxFQUFBIiwic291cmNlcyI6WyJ3ZWJwYWNrOi8vcmVhY3QtcGRmLW5leHQtanMvLi9zcmMvY29tcG9uZW50cy9GbG9hdGluZ1BvcC5qcz85ZDE0Il0sInNvdXJjZXNDb250ZW50IjpbImltcG9ydCBSZWFjdCBmcm9tICdyZWFjdCdcclxuaW1wb3J0IHsgUG9wb3ZlciB9IGZyb20gJ0BoZWFkbGVzc3VpL3JlYWN0J1xyXG5pbXBvcnQgeyBNZW51SWNvbiB9IGZyb20gJ0BoZXJvaWNvbnMvcmVhY3Qvb3V0bGluZSdcclxuXHJcbmNvbnN0IEZsb2F0aW5nUG9wID0gKCkgPT4ge1xyXG4gIHJldHVybiAoXHJcbiAgICA8ZGl2IGNsYXNzTmFtZT1cImZsb2F0aW5nUG9wXCI+XHJcbiAgICAgIDxQb3BvdmVyPlxyXG4gICAgICAgIDxQb3BvdmVyLkJ1dHRvbiBjbGFzc05hbWU9XCJwb3BvdmVyQnV0dG9uIGhvdmVyOnNoYWRvdy1ibHVlXCI+XHJcbiAgICAgICAgICA8TWVudUljb24gY2xhc3NOYW1lPVwibWVudUljb25cIiAvPlxyXG4gICAgICAgIDwvUG9wb3Zlci5CdXR0b24+XHJcblxyXG4gICAgICAgIDxQb3BvdmVyLlBhbmVsPlxyXG4gICAgICAgICAgPGRpdiBjbGFzc05hbWU9XCJwb3BvdmVyUGFuZWwgYmctYmx1ZSB0cmFja2luZy13aWRlciB0ZXh0LXNsYXRlXCI+XHJcbiAgICAgICAgICAgIDxhIGNsYXNzTmFtZT1cImhvdmVyXCIgaHJlZj1cIiNob21lXCI+XHJcbiAgICAgICAgICAgICAgSG9tZVxyXG4gICAgICAgICAgICA8L2E+XHJcbiAgICAgICAgICAgIDxhIGNsYXNzTmFtZT1cImhvdmVyXCIgaHJlZj1cIiNhYm91dFwiPlxyXG4gICAgICAgICAgICAgIEFib3V0XHJcbiAgICAgICAgICAgIDwvYT5cclxuICAgICAgICAgICAgPGEgY2xhc3NOYW1lPVwiaG92ZXJcIiBocmVmPVwiI2VkdWNhdGlvblwiPlxyXG4gICAgICAgICAgICAgIFJlc3VtZVxyXG4gICAgICAgICAgICA8L2E+XHJcbiAgICAgICAgICAgIDxhIGNsYXNzTmFtZT1cImhvdmVyXCIgaHJlZj1cIiNleHBlcmllbmNlXCI+XHJcbiAgICAgICAgICAgICAgV29ya3NcclxuICAgICAgICAgICAgPC9hPlxyXG4gICAgICAgICAgICA8YSBjbGFzc05hbWU9XCJob3ZlclwiIGhyZWY9XCIjc2tpbGxzXCI+XHJcbiAgICAgICAgICAgICAgU2tpbGxzXHJcbiAgICAgICAgICAgIDwvYT5cclxuICAgICAgICAgICAgPGEgY2xhc3NOYW1lPVwiaG92ZXJcIiBocmVmPVwiI3Byb2plY3RzXCI+XHJcbiAgICAgICAgICAgICAgUHJvamVjdHNcclxuICAgICAgICAgICAgPC9hPlxyXG4gICAgICAgICAgICA8YSBjbGFzc05hbWU9XCJob3ZlclwiIGhyZWY9XCIjY29udGFjdFwiPlxyXG4gICAgICAgICAgICAgIENvbnRhY3RcclxuICAgICAgICAgICAgPC9hPlxyXG4gICAgICAgICAgPC9kaXY+XHJcbiAgICAgICAgPC9Qb3BvdmVyLlBhbmVsPlxyXG4gICAgICA8L1BvcG92ZXI+XHJcbiAgICA8L2Rpdj5cclxuICApXHJcbn1cclxuXHJcbmV4cG9ydCBkZWZhdWx0IEZsb2F0aW5nUG9wIl0sIm5hbWVzIjpbIlJlYWN0IiwiUG9wb3ZlciIsIk1lbnVJY29uIiwiRmxvYXRpbmdQb3AiLCJkaXYiLCJjbGFzc05hbWUiLCJCdXR0b24iLCJQYW5lbCIsImEiLCJocmVmIl0sInNvdXJjZVJvb3QiOiIifQ==\n//# sourceURL=webpack-internal:///./src/components/FloatingPop.js\n");
 
 /***/ }),
 
-/***/ 951:
+/***/ "./src/components/FloatingTabs.js":
+/*!****************************************!*\
+  !*** ./src/components/FloatingTabs.js ***!
+  \****************************************/
 /***/ ((module, __webpack_exports__, __webpack_require__) => {
 
 "use strict";
-__webpack_require__.a(module, async (__webpack_handle_async_dependencies__, __webpack_async_result__) => { try {
-/* harmony export */ __webpack_require__.d(__webpack_exports__, {
-/* harmony export */   "Z": () => (__WEBPACK_DEFAULT_EXPORT__)
-/* harmony export */ });
-/* harmony import */ var react_jsx_runtime__WEBPACK_IMPORTED_MODULE_0__ = __webpack_require__(997);
-/* harmony import */ var react_jsx_runtime__WEBPACK_IMPORTED_MODULE_0___default = /*#__PURE__*/__webpack_require__.n(react_jsx_runtime__WEBPACK_IMPORTED_MODULE_0__);
-/* harmony import */ var react__WEBPACK_IMPORTED_MODULE_1__ = __webpack_require__(689);
-/* harmony import */ var react__WEBPACK_IMPORTED_MODULE_1___default = /*#__PURE__*/__webpack_require__.n(react__WEBPACK_IMPORTED_MODULE_1__);
-/* harmony import */ var _headlessui_react__WEBPACK_IMPORTED_MODULE_2__ = __webpack_require__(185);
-var __webpack_async_dependencies__ = __webpack_handle_async_dependencies__([_headlessui_react__WEBPACK_IMPORTED_MODULE_2__]);
-_headlessui_react__WEBPACK_IMPORTED_MODULE_2__ = (__webpack_async_dependencies__.then ? (await __webpack_async_dependencies__)() : __webpack_async_dependencies__)[0];
-
-
-
-const FloatingTabs = ()=>{
-    return /*#__PURE__*/ react_jsx_runtime__WEBPACK_IMPORTED_MODULE_0__.jsx("div", {
-        className: "floatingTabs",
-        children: /*#__PURE__*/ react_jsx_runtime__WEBPACK_IMPORTED_MODULE_0__.jsx(_headlessui_react__WEBPACK_IMPORTED_MODULE_2__.Tab.Group, {
-            children: /*#__PURE__*/ (0,react_jsx_runtime__WEBPACK_IMPORTED_MODULE_0__.jsxs)(_headlessui_react__WEBPACK_IMPORTED_MODULE_2__.Tab.List, {
-                className: "tabList",
-                children: [
-                    /*#__PURE__*/ react_jsx_runtime__WEBPACK_IMPORTED_MODULE_0__.jsx(_headlessui_react__WEBPACK_IMPORTED_MODULE_2__.Tab, {
-                        className: ({ selected  })=>selected ? "text-blue" : "",
-                        children: /*#__PURE__*/ react_jsx_runtime__WEBPACK_IMPORTED_MODULE_0__.jsx("a", {
-                            className: "tab",
-                            href: "#home",
-                            children: "Home"
-                        })
-                    }),
-                    /*#__PURE__*/ react_jsx_runtime__WEBPACK_IMPORTED_MODULE_0__.jsx(_headlessui_react__WEBPACK_IMPORTED_MODULE_2__.Tab, {
-                        className: ({ selected  })=>selected ? "text-blue" : "",
-                        children: /*#__PURE__*/ react_jsx_runtime__WEBPACK_IMPORTED_MODULE_0__.jsx("a", {
-                            className: "tab",
-                            href: "#about",
-                            children: "About"
-                        })
-                    }),
-                    /*#__PURE__*/ react_jsx_runtime__WEBPACK_IMPORTED_MODULE_0__.jsx(_headlessui_react__WEBPACK_IMPORTED_MODULE_2__.Tab, {
-                        className: ({ selected  })=>selected ? "text-blue" : "",
-                        children: /*#__PURE__*/ react_jsx_runtime__WEBPACK_IMPORTED_MODULE_0__.jsx("a", {
-                            className: "tab",
-                            href: "#education",
-                            children: "Education"
-                        })
-                    }),
-                    /*#__PURE__*/ react_jsx_runtime__WEBPACK_IMPORTED_MODULE_0__.jsx(_headlessui_react__WEBPACK_IMPORTED_MODULE_2__.Tab, {
-                        className: ({ selected  })=>selected ? "text-blue" : "",
-                        children: /*#__PURE__*/ react_jsx_runtime__WEBPACK_IMPORTED_MODULE_0__.jsx("a", {
-                            className: "tab",
-                            href: "#experience",
-                            children: "Experience"
-                        })
-                    }),
-                    /*#__PURE__*/ react_jsx_runtime__WEBPACK_IMPORTED_MODULE_0__.jsx(_headlessui_react__WEBPACK_IMPORTED_MODULE_2__.Tab, {
-                        className: ({ selected  })=>selected ? "text-blue" : "",
-                        children: /*#__PURE__*/ react_jsx_runtime__WEBPACK_IMPORTED_MODULE_0__.jsx("a", {
-                            className: "tab",
-                            href: "#skills",
-                            children: "Skills"
-                        })
-                    }),
-                    /*#__PURE__*/ react_jsx_runtime__WEBPACK_IMPORTED_MODULE_0__.jsx(_headlessui_react__WEBPACK_IMPORTED_MODULE_2__.Tab, {
-                        className: ({ selected  })=>selected ? "text-blue" : "",
-                        children: /*#__PURE__*/ react_jsx_runtime__WEBPACK_IMPORTED_MODULE_0__.jsx("a", {
-                            className: "tab",
-                            href: "#projects",
-                            children: "Projects"
-                        })
-                    }),
-                    /*#__PURE__*/ react_jsx_runtime__WEBPACK_IMPORTED_MODULE_0__.jsx(_headlessui_react__WEBPACK_IMPORTED_MODULE_2__.Tab, {
-                        className: ({ selected  })=>selected ? "text-blue" : "",
-                        children: /*#__PURE__*/ react_jsx_runtime__WEBPACK_IMPORTED_MODULE_0__.jsx("a", {
-                            className: "tab",
-                            href: "#contact",
-                            children: "Contact"
-                        })
-                    })
-                ]
-            })
-        })
-    });
-};
-/* harmony default export */ const __WEBPACK_DEFAULT_EXPORT__ = (FloatingTabs);
-
-__webpack_async_result__();
-} catch(e) { __webpack_async_result__(e); } });
+eval("__webpack_require__.a(module, async (__webpack_handle_async_dependencies__, __webpack_async_result__) => { try {\n__webpack_require__.r(__webpack_exports__);\n/* harmony export */ __webpack_require__.d(__webpack_exports__, {\n/* harmony export */   \"default\": () => (__WEBPACK_DEFAULT_EXPORT__)\n/* harmony export */ });\n/* harmony import */ var react_jsx_dev_runtime__WEBPACK_IMPORTED_MODULE_0__ = __webpack_require__(/*! react/jsx-dev-runtime */ \"react/jsx-dev-runtime\");\n/* harmony import */ var react_jsx_dev_runtime__WEBPACK_IMPORTED_MODULE_0___default = /*#__PURE__*/__webpack_require__.n(react_jsx_dev_runtime__WEBPACK_IMPORTED_MODULE_0__);\n/* harmony import */ var react__WEBPACK_IMPORTED_MODULE_1__ = __webpack_require__(/*! react */ \"react\");\n/* harmony import */ var react__WEBPACK_IMPORTED_MODULE_1___default = /*#__PURE__*/__webpack_require__.n(react__WEBPACK_IMPORTED_MODULE_1__);\n/* harmony import */ var _headlessui_react__WEBPACK_IMPORTED_MODULE_2__ = __webpack_require__(/*! @headlessui/react */ \"@headlessui/react\");\nvar __webpack_async_dependencies__ = __webpack_handle_async_dependencies__([_headlessui_react__WEBPACK_IMPORTED_MODULE_2__]);\n_headlessui_react__WEBPACK_IMPORTED_MODULE_2__ = (__webpack_async_dependencies__.then ? (await __webpack_async_dependencies__)() : __webpack_async_dependencies__)[0];\n\n\n\nconst FloatingTabs = ()=>{\n    return /*#__PURE__*/ (0,react_jsx_dev_runtime__WEBPACK_IMPORTED_MODULE_0__.jsxDEV)(\"div\", {\n        className: \"floatingTabs\",\n        children: /*#__PURE__*/ (0,react_jsx_dev_runtime__WEBPACK_IMPORTED_MODULE_0__.jsxDEV)(_headlessui_react__WEBPACK_IMPORTED_MODULE_2__.Tab.Group, {\n            children: /*#__PURE__*/ (0,react_jsx_dev_runtime__WEBPACK_IMPORTED_MODULE_0__.jsxDEV)(_headlessui_react__WEBPACK_IMPORTED_MODULE_2__.Tab.List, {\n                className: \"tabList\",\n                children: [\n                    /*#__PURE__*/ (0,react_jsx_dev_runtime__WEBPACK_IMPORTED_MODULE_0__.jsxDEV)(_headlessui_react__WEBPACK_IMPORTED_MODULE_2__.Tab, {\n                        className: ({ selected  })=>selected ? \"text-blue\" : \"\",\n                        children: /*#__PURE__*/ (0,react_jsx_dev_runtime__WEBPACK_IMPORTED_MODULE_0__.jsxDEV)(\"a\", {\n                            className: \"tab\",\n                            href: \"#home\",\n                            children: \"Home\"\n                        }, void 0, false, {\n                            fileName: \"C:\\\\Users\\\\datfo\\\\repos\\\\stephen\\\\src\\\\components\\\\FloatingTabs.js\",\n                            lineNumber: 10,\n                            columnNumber: 13\n                        }, undefined)\n                    }, void 0, false, {\n                        fileName: \"C:\\\\Users\\\\datfo\\\\repos\\\\stephen\\\\src\\\\components\\\\FloatingTabs.js\",\n                        lineNumber: 9,\n                        columnNumber: 11\n                    }, undefined),\n                    /*#__PURE__*/ (0,react_jsx_dev_runtime__WEBPACK_IMPORTED_MODULE_0__.jsxDEV)(_headlessui_react__WEBPACK_IMPORTED_MODULE_2__.Tab, {\n                        className: ({ selected  })=>selected ? \"text-blue\" : \"\",\n                        children: /*#__PURE__*/ (0,react_jsx_dev_runtime__WEBPACK_IMPORTED_MODULE_0__.jsxDEV)(\"a\", {\n                            className: \"tab\",\n                            href: \"#about\",\n                            children: \"About\"\n                        }, void 0, false, {\n                            fileName: \"C:\\\\Users\\\\datfo\\\\repos\\\\stephen\\\\src\\\\components\\\\FloatingTabs.js\",\n                            lineNumber: 15,\n                            columnNumber: 13\n                        }, undefined)\n                    }, void 0, false, {\n                        fileName: \"C:\\\\Users\\\\datfo\\\\repos\\\\stephen\\\\src\\\\components\\\\FloatingTabs.js\",\n                        lineNumber: 14,\n                        columnNumber: 11\n                    }, undefined),\n                    /*#__PURE__*/ (0,react_jsx_dev_runtime__WEBPACK_IMPORTED_MODULE_0__.jsxDEV)(_headlessui_react__WEBPACK_IMPORTED_MODULE_2__.Tab, {\n                        className: ({ selected  })=>selected ? \"text-blue\" : \"\",\n                        children: /*#__PURE__*/ (0,react_jsx_dev_runtime__WEBPACK_IMPORTED_MODULE_0__.jsxDEV)(\"a\", {\n                            className: \"tab\",\n                            href: \"#education\",\n                            children: \"Education\"\n                        }, void 0, false, {\n                            fileName: \"C:\\\\Users\\\\datfo\\\\repos\\\\stephen\\\\src\\\\components\\\\FloatingTabs.js\",\n                            lineNumber: 20,\n                            columnNumber: 13\n                        }, undefined)\n                    }, void 0, false, {\n                        fileName: \"C:\\\\Users\\\\datfo\\\\repos\\\\stephen\\\\src\\\\components\\\\FloatingTabs.js\",\n                        lineNumber: 19,\n                        columnNumber: 11\n                    }, undefined),\n                    /*#__PURE__*/ (0,react_jsx_dev_runtime__WEBPACK_IMPORTED_MODULE_0__.jsxDEV)(_headlessui_react__WEBPACK_IMPORTED_MODULE_2__.Tab, {\n                        className: ({ selected  })=>selected ? \"text-blue\" : \"\",\n                        children: /*#__PURE__*/ (0,react_jsx_dev_runtime__WEBPACK_IMPORTED_MODULE_0__.jsxDEV)(\"a\", {\n                            className: \"tab\",\n                            href: \"#experience\",\n                            children: \"Experience\"\n                        }, void 0, false, {\n                            fileName: \"C:\\\\Users\\\\datfo\\\\repos\\\\stephen\\\\src\\\\components\\\\FloatingTabs.js\",\n                            lineNumber: 25,\n                            columnNumber: 13\n                        }, undefined)\n                    }, void 0, false, {\n                        fileName: \"C:\\\\Users\\\\datfo\\\\repos\\\\stephen\\\\src\\\\components\\\\FloatingTabs.js\",\n                        lineNumber: 24,\n                        columnNumber: 11\n                    }, undefined),\n                    /*#__PURE__*/ (0,react_jsx_dev_runtime__WEBPACK_IMPORTED_MODULE_0__.jsxDEV)(_headlessui_react__WEBPACK_IMPORTED_MODULE_2__.Tab, {\n                        className: ({ selected  })=>selected ? \"text-blue\" : \"\",\n                        children: /*#__PURE__*/ (0,react_jsx_dev_runtime__WEBPACK_IMPORTED_MODULE_0__.jsxDEV)(\"a\", {\n                            className: \"tab\",\n                            href: \"#skills\",\n                            children: \"Skills\"\n                        }, void 0, false, {\n                            fileName: \"C:\\\\Users\\\\datfo\\\\repos\\\\stephen\\\\src\\\\components\\\\FloatingTabs.js\",\n                            lineNumber: 30,\n                            columnNumber: 13\n                        }, undefined)\n                    }, void 0, false, {\n                        fileName: \"C:\\\\Users\\\\datfo\\\\repos\\\\stephen\\\\src\\\\components\\\\FloatingTabs.js\",\n                        lineNumber: 29,\n                        columnNumber: 11\n                    }, undefined),\n                    /*#__PURE__*/ (0,react_jsx_dev_runtime__WEBPACK_IMPORTED_MODULE_0__.jsxDEV)(_headlessui_react__WEBPACK_IMPORTED_MODULE_2__.Tab, {\n                        className: ({ selected  })=>selected ? \"text-blue\" : \"\",\n                        children: /*#__PURE__*/ (0,react_jsx_dev_runtime__WEBPACK_IMPORTED_MODULE_0__.jsxDEV)(\"a\", {\n                            className: \"tab\",\n                            href: \"#projects\",\n                            children: \"Projects\"\n                        }, void 0, false, {\n                            fileName: \"C:\\\\Users\\\\datfo\\\\repos\\\\stephen\\\\src\\\\components\\\\FloatingTabs.js\",\n                            lineNumber: 35,\n                            columnNumber: 13\n                        }, undefined)\n                    }, void 0, false, {\n                        fileName: \"C:\\\\Users\\\\datfo\\\\repos\\\\stephen\\\\src\\\\components\\\\FloatingTabs.js\",\n                        lineNumber: 34,\n                        columnNumber: 11\n                    }, undefined),\n                    /*#__PURE__*/ (0,react_jsx_dev_runtime__WEBPACK_IMPORTED_MODULE_0__.jsxDEV)(_headlessui_react__WEBPACK_IMPORTED_MODULE_2__.Tab, {\n                        className: ({ selected  })=>selected ? \"text-blue\" : \"\",\n                        children: /*#__PURE__*/ (0,react_jsx_dev_runtime__WEBPACK_IMPORTED_MODULE_0__.jsxDEV)(\"a\", {\n                            className: \"tab\",\n                            href: \"#contact\",\n                            children: \"Contact\"\n                        }, void 0, false, {\n                            fileName: \"C:\\\\Users\\\\datfo\\\\repos\\\\stephen\\\\src\\\\components\\\\FloatingTabs.js\",\n                            lineNumber: 40,\n                            columnNumber: 13\n                        }, undefined)\n                    }, void 0, false, {\n                        fileName: \"C:\\\\Users\\\\datfo\\\\repos\\\\stephen\\\\src\\\\components\\\\FloatingTabs.js\",\n                        lineNumber: 39,\n                        columnNumber: 11\n                    }, undefined)\n                ]\n            }, void 0, true, {\n                fileName: \"C:\\\\Users\\\\datfo\\\\repos\\\\stephen\\\\src\\\\components\\\\FloatingTabs.js\",\n                lineNumber: 8,\n                columnNumber: 9\n            }, undefined)\n        }, void 0, false, {\n            fileName: \"C:\\\\Users\\\\datfo\\\\repos\\\\stephen\\\\src\\\\components\\\\FloatingTabs.js\",\n            lineNumber: 7,\n            columnNumber: 7\n        }, undefined)\n    }, void 0, false, {\n        fileName: \"C:\\\\Users\\\\datfo\\\\repos\\\\stephen\\\\src\\\\components\\\\FloatingTabs.js\",\n        lineNumber: 6,\n        columnNumber: 5\n    }, undefined);\n};\n/* harmony default export */ const __WEBPACK_DEFAULT_EXPORT__ = (FloatingTabs);\n\n__webpack_async_result__();\n} catch(e) { __webpack_async_result__(e); } });//# sourceURL=[module]\n//# sourceMappingURL=data:application/json;charset=utf-8;base64,eyJ2ZXJzaW9uIjozLCJmaWxlIjoiLi9zcmMvY29tcG9uZW50cy9GbG9hdGluZ1RhYnMuanMuanMiLCJtYXBwaW5ncyI6Ijs7Ozs7Ozs7Ozs7O0FBQUE7QUFBeUI7QUFDYztBQUV2QyxNQUFNRSxlQUFlLElBQU07SUFDekIscUJBQ0UsOERBQUNDO1FBQUlDLFdBQVU7a0JBQ2IsNEVBQUNILHdEQUFTO3NCQUNSLDRFQUFDQSx1REFBUTtnQkFBQ0csV0FBVTs7a0NBQ2xCLDhEQUFDSCxrREFBR0E7d0JBQUNHLFdBQVcsQ0FBQyxFQUFFRyxTQUFRLEVBQUUsR0FBTUEsV0FBVyxjQUFhLEVBQUU7a0NBQzNELDRFQUFDQzs0QkFBRUosV0FBVTs0QkFBTUssTUFBSztzQ0FBUTs7Ozs7Ozs7Ozs7a0NBSWxDLDhEQUFDUixrREFBR0E7d0JBQUNHLFdBQVcsQ0FBQyxFQUFFRyxTQUFRLEVBQUUsR0FBTUEsV0FBVyxjQUFjLEVBQUU7a0NBQzVELDRFQUFDQzs0QkFBRUosV0FBVTs0QkFBTUssTUFBSztzQ0FBUzs7Ozs7Ozs7Ozs7a0NBSW5DLDhEQUFDUixrREFBR0E7d0JBQUNHLFdBQVcsQ0FBQyxFQUFFRyxTQUFRLEVBQUUsR0FBTUEsV0FBVyxjQUFjLEVBQUU7a0NBQzVELDRFQUFDQzs0QkFBRUosV0FBVTs0QkFBTUssTUFBSztzQ0FBYTs7Ozs7Ozs7Ozs7a0NBSXZDLDhEQUFDUixrREFBR0E7d0JBQUNHLFdBQVcsQ0FBQyxFQUFFRyxTQUFRLEVBQUUsR0FBTUEsV0FBVyxjQUFjLEVBQUU7a0NBQzVELDRFQUFDQzs0QkFBRUosV0FBVTs0QkFBTUssTUFBSztzQ0FBYzs7Ozs7Ozs7Ozs7a0NBSXhDLDhEQUFDUixrREFBR0E7d0JBQUNHLFdBQVcsQ0FBQyxFQUFFRyxTQUFRLEVBQUUsR0FBTUEsV0FBVyxjQUFjLEVBQUU7a0NBQzVELDRFQUFDQzs0QkFBRUosV0FBVTs0QkFBTUssTUFBSztzQ0FBVTs7Ozs7Ozs7Ozs7a0NBSXBDLDhEQUFDUixrREFBR0E7d0JBQUNHLFdBQVcsQ0FBQyxFQUFFRyxTQUFRLEVBQUUsR0FBTUEsV0FBVyxjQUFjLEVBQUU7a0NBQzVELDRFQUFDQzs0QkFBRUosV0FBVTs0QkFBTUssTUFBSztzQ0FBWTs7Ozs7Ozs7Ozs7a0NBSXRDLDhEQUFDUixrREFBR0E7d0JBQUNHLFdBQVcsQ0FBQyxFQUFFRyxTQUFRLEVBQUUsR0FBTUEsV0FBVyxjQUFjLEVBQUU7a0NBQzVELDRFQUFDQzs0QkFBRUosV0FBVTs0QkFBTUssTUFBSztzQ0FBVzs7Ozs7Ozs7Ozs7Ozs7Ozs7Ozs7Ozs7Ozs7O0FBUS9DO0FBRUEsaUVBQWVQLFlBQVlBLEVBQUEiLCJzb3VyY2VzIjpbIndlYnBhY2s6Ly9yZWFjdC1wZGYtbmV4dC1qcy8uL3NyYy9jb21wb25lbnRzL0Zsb2F0aW5nVGFicy5qcz9mZmI3Il0sInNvdXJjZXNDb250ZW50IjpbImltcG9ydCBSZWFjdCBmcm9tICdyZWFjdCdcclxuaW1wb3J0IHsgVGFiIH0gZnJvbSAnQGhlYWRsZXNzdWkvcmVhY3QnXHJcblxyXG5jb25zdCBGbG9hdGluZ1RhYnMgPSAoKSA9PiB7XHJcbiAgcmV0dXJuIChcclxuICAgIDxkaXYgY2xhc3NOYW1lPVwiZmxvYXRpbmdUYWJzXCI+XHJcbiAgICAgIDxUYWIuR3JvdXA+XHJcbiAgICAgICAgPFRhYi5MaXN0IGNsYXNzTmFtZT1cInRhYkxpc3RcIj5cclxuICAgICAgICAgIDxUYWIgY2xhc3NOYW1lPXsoeyBzZWxlY3RlZCB9KSA9PiAoc2VsZWN0ZWQgPyAndGV4dC1ibHVlJzogJycpfT5cclxuICAgICAgICAgICAgPGEgY2xhc3NOYW1lPVwidGFiXCIgaHJlZj1cIiNob21lXCI+XHJcbiAgICAgICAgICAgICAgSG9tZVxyXG4gICAgICAgICAgICA8L2E+XHJcbiAgICAgICAgICA8L1RhYj5cclxuICAgICAgICAgIDxUYWIgY2xhc3NOYW1lPXsoeyBzZWxlY3RlZCB9KSA9PiAoc2VsZWN0ZWQgPyAndGV4dC1ibHVlJyA6ICcnKX0+XHJcbiAgICAgICAgICAgIDxhIGNsYXNzTmFtZT1cInRhYlwiIGhyZWY9XCIjYWJvdXRcIj5cclxuICAgICAgICAgICAgICBBYm91dFxyXG4gICAgICAgICAgICA8L2E+XHJcbiAgICAgICAgICA8L1RhYj5cclxuICAgICAgICAgIDxUYWIgY2xhc3NOYW1lPXsoeyBzZWxlY3RlZCB9KSA9PiAoc2VsZWN0ZWQgPyAndGV4dC1ibHVlJyA6ICcnKX0+XHJcbiAgICAgICAgICAgIDxhIGNsYXNzTmFtZT1cInRhYlwiIGhyZWY9XCIjZWR1Y2F0aW9uXCI+XHJcbiAgICAgICAgICAgICAgRWR1Y2F0aW9uXHJcbiAgICAgICAgICAgIDwvYT5cclxuICAgICAgICAgIDwvVGFiPlxyXG4gICAgICAgICAgPFRhYiBjbGFzc05hbWU9eyh7IHNlbGVjdGVkIH0pID0+IChzZWxlY3RlZCA/ICd0ZXh0LWJsdWUnIDogJycpfT5cclxuICAgICAgICAgICAgPGEgY2xhc3NOYW1lPVwidGFiXCIgaHJlZj1cIiNleHBlcmllbmNlXCI+XHJcbiAgICAgICAgICAgICAgRXhwZXJpZW5jZVxyXG4gICAgICAgICAgICA8L2E+XHJcbiAgICAgICAgICA8L1RhYj5cclxuICAgICAgICAgIDxUYWIgY2xhc3NOYW1lPXsoeyBzZWxlY3RlZCB9KSA9PiAoc2VsZWN0ZWQgPyAndGV4dC1ibHVlJyA6ICcnKX0+XHJcbiAgICAgICAgICAgIDxhIGNsYXNzTmFtZT1cInRhYlwiIGhyZWY9XCIjc2tpbGxzXCI+XHJcbiAgICAgICAgICAgICAgU2tpbGxzXHJcbiAgICAgICAgICAgIDwvYT5cclxuICAgICAgICAgIDwvVGFiPlxyXG4gICAgICAgICAgPFRhYiBjbGFzc05hbWU9eyh7IHNlbGVjdGVkIH0pID0+IChzZWxlY3RlZCA/ICd0ZXh0LWJsdWUnIDogJycpfT5cclxuICAgICAgICAgICAgPGEgY2xhc3NOYW1lPVwidGFiXCIgaHJlZj1cIiNwcm9qZWN0c1wiPlxyXG4gICAgICAgICAgICAgIFByb2plY3RzXHJcbiAgICAgICAgICAgIDwvYT5cclxuICAgICAgICAgIDwvVGFiPlxyXG4gICAgICAgICAgPFRhYiBjbGFzc05hbWU9eyh7IHNlbGVjdGVkIH0pID0+IChzZWxlY3RlZCA/ICd0ZXh0LWJsdWUnIDogJycpfT5cclxuICAgICAgICAgICAgPGEgY2xhc3NOYW1lPVwidGFiXCIgaHJlZj1cIiNjb250YWN0XCI+XHJcbiAgICAgICAgICAgICAgQ29udGFjdFxyXG4gICAgICAgICAgICA8L2E+XHJcbiAgICAgICAgICA8L1RhYj5cclxuICAgICAgICA8L1RhYi5MaXN0PlxyXG4gICAgICA8L1RhYi5Hcm91cD5cclxuICAgIDwvZGl2PlxyXG4gIClcclxufVxyXG5cclxuZXhwb3J0IGRlZmF1bHQgRmxvYXRpbmdUYWJzIl0sIm5hbWVzIjpbIlJlYWN0IiwiVGFiIiwiRmxvYXRpbmdUYWJzIiwiZGl2IiwiY2xhc3NOYW1lIiwiR3JvdXAiLCJMaXN0Iiwic2VsZWN0ZWQiLCJhIiwiaHJlZiJdLCJzb3VyY2VSb290IjoiIn0=\n//# sourceURL=webpack-internal:///./src/components/FloatingTabs.js\n");
 
 /***/ }),
 
-/***/ 346:
+/***/ "./src/components/Layout.js":
+/*!**********************************!*\
+  !*** ./src/components/Layout.js ***!
+  \**********************************/
 /***/ ((module, __webpack_exports__, __webpack_require__) => {
 
 "use strict";
-__webpack_require__.a(module, async (__webpack_handle_async_dependencies__, __webpack_async_result__) => { try {
-/* harmony export */ __webpack_require__.d(__webpack_exports__, {
-/* harmony export */   "Z": () => (__WEBPACK_DEFAULT_EXPORT__)
-/* harmony export */ });
-/* harmony import */ var react_jsx_runtime__WEBPACK_IMPORTED_MODULE_0__ = __webpack_require__(997);
-/* harmony import */ var react_jsx_runtime__WEBPACK_IMPORTED_MODULE_0___default = /*#__PURE__*/__webpack_require__.n(react_jsx_runtime__WEBPACK_IMPORTED_MODULE_0__);
-/* harmony import */ var react__WEBPACK_IMPORTED_MODULE_1__ = __webpack_require__(689);
-/* harmony import */ var react__WEBPACK_IMPORTED_MODULE_1___default = /*#__PURE__*/__webpack_require__.n(react__WEBPACK_IMPORTED_MODULE_1__);
-/* harmony import */ var _FloatingPop__WEBPACK_IMPORTED_MODULE_2__ = __webpack_require__(5);
-/* harmony import */ var _FloatingTabs__WEBPACK_IMPORTED_MODULE_3__ = __webpack_require__(951);
-var __webpack_async_dependencies__ = __webpack_handle_async_dependencies__([_FloatingPop__WEBPACK_IMPORTED_MODULE_2__, _FloatingTabs__WEBPACK_IMPORTED_MODULE_3__]);
-([_FloatingPop__WEBPACK_IMPORTED_MODULE_2__, _FloatingTabs__WEBPACK_IMPORTED_MODULE_3__] = __webpack_async_dependencies__.then ? (await __webpack_async_dependencies__)() : __webpack_async_dependencies__);
-
-
-
-
-function Layout({ children  }) {
-    return /*#__PURE__*/ (0,react_jsx_runtime__WEBPACK_IMPORTED_MODULE_0__.jsxs)(react_jsx_runtime__WEBPACK_IMPORTED_MODULE_0__.Fragment, {
-        children: [
-            /*#__PURE__*/ react_jsx_runtime__WEBPACK_IMPORTED_MODULE_0__.jsx(_FloatingPop__WEBPACK_IMPORTED_MODULE_2__/* ["default"] */ .Z, {}),
-            /*#__PURE__*/ react_jsx_runtime__WEBPACK_IMPORTED_MODULE_0__.jsx(_FloatingTabs__WEBPACK_IMPORTED_MODULE_3__/* ["default"] */ .Z, {}),
-            children
-        ]
-    });
-}
-/* harmony default export */ const __WEBPACK_DEFAULT_EXPORT__ = (Layout);
-
-__webpack_async_result__();
-} catch(e) { __webpack_async_result__(e); } });
+eval("__webpack_require__.a(module, async (__webpack_handle_async_dependencies__, __webpack_async_result__) => { try {\n__webpack_require__.r(__webpack_exports__);\n/* harmony export */ __webpack_require__.d(__webpack_exports__, {\n/* harmony export */   \"default\": () => (__WEBPACK_DEFAULT_EXPORT__)\n/* harmony export */ });\n/* harmony import */ var react_jsx_dev_runtime__WEBPACK_IMPORTED_MODULE_0__ = __webpack_require__(/*! react/jsx-dev-runtime */ \"react/jsx-dev-runtime\");\n/* harmony import */ var react_jsx_dev_runtime__WEBPACK_IMPORTED_MODULE_0___default = /*#__PURE__*/__webpack_require__.n(react_jsx_dev_runtime__WEBPACK_IMPORTED_MODULE_0__);\n/* harmony import */ var react__WEBPACK_IMPORTED_MODULE_1__ = __webpack_require__(/*! react */ \"react\");\n/* harmony import */ var react__WEBPACK_IMPORTED_MODULE_1___default = /*#__PURE__*/__webpack_require__.n(react__WEBPACK_IMPORTED_MODULE_1__);\n/* harmony import */ var _FloatingPop__WEBPACK_IMPORTED_MODULE_2__ = __webpack_require__(/*! ./FloatingPop */ \"./src/components/FloatingPop.js\");\n/* harmony import */ var _FloatingTabs__WEBPACK_IMPORTED_MODULE_3__ = __webpack_require__(/*! ./FloatingTabs */ \"./src/components/FloatingTabs.js\");\nvar __webpack_async_dependencies__ = __webpack_handle_async_dependencies__([_FloatingPop__WEBPACK_IMPORTED_MODULE_2__, _FloatingTabs__WEBPACK_IMPORTED_MODULE_3__]);\n([_FloatingPop__WEBPACK_IMPORTED_MODULE_2__, _FloatingTabs__WEBPACK_IMPORTED_MODULE_3__] = __webpack_async_dependencies__.then ? (await __webpack_async_dependencies__)() : __webpack_async_dependencies__);\n\n\n\n\nfunction Layout({ children  }) {\n    return /*#__PURE__*/ (0,react_jsx_dev_runtime__WEBPACK_IMPORTED_MODULE_0__.jsxDEV)(react_jsx_dev_runtime__WEBPACK_IMPORTED_MODULE_0__.Fragment, {\n        children: [\n            /*#__PURE__*/ (0,react_jsx_dev_runtime__WEBPACK_IMPORTED_MODULE_0__.jsxDEV)(_FloatingPop__WEBPACK_IMPORTED_MODULE_2__[\"default\"], {}, void 0, false, {\n                fileName: \"C:\\\\Users\\\\datfo\\\\repos\\\\stephen\\\\src\\\\components\\\\Layout.js\",\n                lineNumber: 7,\n                columnNumber: 9\n            }, this),\n            /*#__PURE__*/ (0,react_jsx_dev_runtime__WEBPACK_IMPORTED_MODULE_0__.jsxDEV)(_FloatingTabs__WEBPACK_IMPORTED_MODULE_3__[\"default\"], {}, void 0, false, {\n                fileName: \"C:\\\\Users\\\\datfo\\\\repos\\\\stephen\\\\src\\\\components\\\\Layout.js\",\n                lineNumber: 8,\n                columnNumber: 9\n            }, this),\n            children\n        ]\n    }, void 0, true);\n}\n/* harmony default export */ const __WEBPACK_DEFAULT_EXPORT__ = (Layout);\n\n__webpack_async_result__();\n} catch(e) { __webpack_async_result__(e); } });//# sourceURL=[module]\n//# sourceMappingURL=data:application/json;charset=utf-8;base64,eyJ2ZXJzaW9uIjozLCJmaWxlIjoiLi9zcmMvY29tcG9uZW50cy9MYXlvdXQuanMuanMiLCJtYXBwaW5ncyI6Ijs7Ozs7Ozs7Ozs7OztBQUFBO0FBQXlCO0FBQ2M7QUFDRTtBQUV6QyxTQUFTRyxPQUFPLEVBQUVDLFNBQVEsRUFBRSxFQUFFO0lBQzFCLHFCQUFROzswQkFDSiw4REFBQ0gsb0RBQVdBOzs7OzswQkFDWiw4REFBQ0MscURBQVlBOzs7OztZQUNaRTs7O0FBR0w7QUFFSixpRUFBZUQsTUFBTUEsRUFBQSIsInNvdXJjZXMiOlsid2VicGFjazovL3JlYWN0LXBkZi1uZXh0LWpzLy4vc3JjL2NvbXBvbmVudHMvTGF5b3V0LmpzP2ZlNmIiXSwic291cmNlc0NvbnRlbnQiOlsiaW1wb3J0IFJlYWN0IGZyb20gJ3JlYWN0J1xyXG5pbXBvcnQgRmxvYXRpbmdQb3AgZnJvbSAnLi9GbG9hdGluZ1BvcCdcclxuaW1wb3J0IEZsb2F0aW5nVGFicyBmcm9tICcuL0Zsb2F0aW5nVGFicydcclxuXHJcbmZ1bmN0aW9uIExheW91dCh7IGNoaWxkcmVuIH0pIHtcclxuICAgIHJldHVybiAoPD5cclxuICAgICAgICA8RmxvYXRpbmdQb3AgLz5cclxuICAgICAgICA8RmxvYXRpbmdUYWJzIC8+XHJcbiAgICAgICAge2NoaWxkcmVufVxyXG4gICAgPC8+XHJcbiAgICApO1xyXG4gICAgfVxyXG5cclxuZXhwb3J0IGRlZmF1bHQgTGF5b3V0Il0sIm5hbWVzIjpbIlJlYWN0IiwiRmxvYXRpbmdQb3AiLCJGbG9hdGluZ1RhYnMiLCJMYXlvdXQiLCJjaGlsZHJlbiJdLCJzb3VyY2VSb290IjoiIn0=\n//# sourceURL=webpack-internal:///./src/components/Layout.js\n");
 
 /***/ }),
 
-/***/ 114:
+/***/ "./src/pages/_app.js":
+/*!***************************!*\
+  !*** ./src/pages/_app.js ***!
+  \***************************/
 /***/ ((module, __webpack_exports__, __webpack_require__) => {
 
 "use strict";
-__webpack_require__.a(module, async (__webpack_handle_async_dependencies__, __webpack_async_result__) => { try {
-__webpack_require__.r(__webpack_exports__);
-/* harmony export */ __webpack_require__.d(__webpack_exports__, {
-/* harmony export */   "default": () => (__WEBPACK_DEFAULT_EXPORT__)
-/* harmony export */ });
-/* harmony import */ var react_jsx_runtime__WEBPACK_IMPORTED_MODULE_0__ = __webpack_require__(997);
-/* harmony import */ var react_jsx_runtime__WEBPACK_IMPORTED_MODULE_0___default = /*#__PURE__*/__webpack_require__.n(react_jsx_runtime__WEBPACK_IMPORTED_MODULE_0__);
-/* harmony import */ var react__WEBPACK_IMPORTED_MODULE_1__ = __webpack_require__(689);
-/* harmony import */ var react__WEBPACK_IMPORTED_MODULE_1___default = /*#__PURE__*/__webpack_require__.n(react__WEBPACK_IMPORTED_MODULE_1__);
-/* harmony import */ var _styles_globals_css__WEBPACK_IMPORTED_MODULE_2__ = __webpack_require__(632);
-/* harmony import */ var _styles_globals_css__WEBPACK_IMPORTED_MODULE_2___default = /*#__PURE__*/__webpack_require__.n(_styles_globals_css__WEBPACK_IMPORTED_MODULE_2__);
-/* harmony import */ var _components_Layout__WEBPACK_IMPORTED_MODULE_3__ = __webpack_require__(346);
-var __webpack_async_dependencies__ = __webpack_handle_async_dependencies__([_components_Layout__WEBPACK_IMPORTED_MODULE_3__]);
-_components_Layout__WEBPACK_IMPORTED_MODULE_3__ = (__webpack_async_dependencies__.then ? (await __webpack_async_dependencies__)() : __webpack_async_dependencies__)[0];
-
-
-
-
-function MyApp({ Component , pageProps  }) {
-    return /*#__PURE__*/ react_jsx_runtime__WEBPACK_IMPORTED_MODULE_0__.jsx(_components_Layout__WEBPACK_IMPORTED_MODULE_3__/* ["default"] */ .Z, {
-        children: /*#__PURE__*/ react_jsx_runtime__WEBPACK_IMPORTED_MODULE_0__.jsx(Component, {
-            ...pageProps
-        })
-    });
-}
-/* harmony default export */ const __WEBPACK_DEFAULT_EXPORT__ = (MyApp);
-
-__webpack_async_result__();
-} catch(e) { __webpack_async_result__(e); } });
+eval("__webpack_require__.a(module, async (__webpack_handle_async_dependencies__, __webpack_async_result__) => { try {\n__webpack_require__.r(__webpack_exports__);\n/* harmony export */ __webpack_require__.d(__webpack_exports__, {\n/* harmony export */   \"default\": () => (__WEBPACK_DEFAULT_EXPORT__)\n/* harmony export */ });\n/* harmony import */ var react_jsx_dev_runtime__WEBPACK_IMPORTED_MODULE_0__ = __webpack_require__(/*! react/jsx-dev-runtime */ \"react/jsx-dev-runtime\");\n/* harmony import */ var react_jsx_dev_runtime__WEBPACK_IMPORTED_MODULE_0___default = /*#__PURE__*/__webpack_require__.n(react_jsx_dev_runtime__WEBPACK_IMPORTED_MODULE_0__);\n/* harmony import */ var react__WEBPACK_IMPORTED_MODULE_1__ = __webpack_require__(/*! react */ \"react\");\n/* harmony import */ var react__WEBPACK_IMPORTED_MODULE_1___default = /*#__PURE__*/__webpack_require__.n(react__WEBPACK_IMPORTED_MODULE_1__);\n/* harmony import */ var _styles_globals_css__WEBPACK_IMPORTED_MODULE_2__ = __webpack_require__(/*! ../styles/globals.css */ \"./src/styles/globals.css\");\n/* harmony import */ var _styles_globals_css__WEBPACK_IMPORTED_MODULE_2___default = /*#__PURE__*/__webpack_require__.n(_styles_globals_css__WEBPACK_IMPORTED_MODULE_2__);\n/* harmony import */ var _components_Layout__WEBPACK_IMPORTED_MODULE_3__ = __webpack_require__(/*! ../components/Layout */ \"./src/components/Layout.js\");\nvar __webpack_async_dependencies__ = __webpack_handle_async_dependencies__([_components_Layout__WEBPACK_IMPORTED_MODULE_3__]);\n_components_Layout__WEBPACK_IMPORTED_MODULE_3__ = (__webpack_async_dependencies__.then ? (await __webpack_async_dependencies__)() : __webpack_async_dependencies__)[0];\n\n\n\n\nfunction MyApp({ Component , pageProps  }) {\n    return /*#__PURE__*/ (0,react_jsx_dev_runtime__WEBPACK_IMPORTED_MODULE_0__.jsxDEV)(_components_Layout__WEBPACK_IMPORTED_MODULE_3__[\"default\"], {\n        children: /*#__PURE__*/ (0,react_jsx_dev_runtime__WEBPACK_IMPORTED_MODULE_0__.jsxDEV)(Component, {\n            ...pageProps\n        }, void 0, false, {\n            fileName: \"C:\\\\Users\\\\datfo\\\\repos\\\\stephen\\\\src\\\\pages\\\\_app.js\",\n            lineNumber: 7,\n            columnNumber: 3\n        }, this)\n    }, void 0, false, {\n        fileName: \"C:\\\\Users\\\\datfo\\\\repos\\\\stephen\\\\src\\\\pages\\\\_app.js\",\n        lineNumber: 6,\n        columnNumber: 11\n    }, this);\n}\n/* harmony default export */ const __WEBPACK_DEFAULT_EXPORT__ = (MyApp);\n\n__webpack_async_result__();\n} catch(e) { __webpack_async_result__(e); } });//# sourceURL=[module]\n//# sourceMappingURL=data:application/json;charset=utf-8;base64,eyJ2ZXJzaW9uIjozLCJmaWxlIjoiLi9zcmMvcGFnZXMvX2FwcC5qcy5qcyIsIm1hcHBpbmdzIjoiOzs7Ozs7Ozs7Ozs7OztBQUFBO0FBQXlCO0FBQ0s7QUFDVztBQUV6QyxTQUFTRSxNQUFNLEVBQUVDLFVBQVMsRUFBRUMsVUFBUyxFQUFFLEVBQUU7SUFDdkMscUJBQVEsOERBQUNILDBEQUFNQTtrQkFDZiw0RUFBQ0U7WUFBVyxHQUFHQyxTQUFTOzs7Ozs7Ozs7OztBQUV6QjtBQUVELGlFQUFlRixLQUFLQSxFQUFBIiwic291cmNlcyI6WyJ3ZWJwYWNrOi8vcmVhY3QtcGRmLW5leHQtanMvLi9zcmMvcGFnZXMvX2FwcC5qcz84ZmRhIl0sInNvdXJjZXNDb250ZW50IjpbImltcG9ydCBSZWFjdCBmcm9tICdyZWFjdCdcclxuaW1wb3J0ICcuLi9zdHlsZXMvZ2xvYmFscy5jc3MnXHJcbmltcG9ydCBMYXlvdXQgZnJvbSAnLi4vY29tcG9uZW50cy9MYXlvdXQnXHJcblxyXG5mdW5jdGlvbiBNeUFwcCh7IENvbXBvbmVudCwgcGFnZVByb3BzIH0pIHtcclxuICByZXR1cm4oIDxMYXlvdXQ+XHJcbiAgPENvbXBvbmVudCB7Li4ucGFnZVByb3BzfSAvPlxyXG48L0xheW91dD4gXHJcbil9ICAgXHJcblxyXG5leHBvcnQgZGVmYXVsdCBNeUFwcCJdLCJuYW1lcyI6WyJSZWFjdCIsIkxheW91dCIsIk15QXBwIiwiQ29tcG9uZW50IiwicGFnZVByb3BzIl0sInNvdXJjZVJvb3QiOiIifQ==\n//# sourceURL=webpack-internal:///./src/pages/_app.js\n");
 
 /***/ }),
 
-/***/ 632:
+/***/ "./src/styles/globals.css":
+/*!********************************!*\
+  !*** ./src/styles/globals.css ***!
+  \********************************/
 /***/ (() => {
 
 
 
 /***/ }),
 
-/***/ 768:
+/***/ "@heroicons/react/outline":
+/*!*******************************************!*\
+  !*** external "@heroicons/react/outline" ***!
+  \*******************************************/
 /***/ ((module) => {
 
 "use strict";
@@ -269,7 +77,10 @@ module.exports = require("@heroicons/react/outline");
 
 /***/ }),
 
-/***/ 689:
+/***/ "react":
+/*!************************!*\
+  !*** external "react" ***!
+  \************************/
 /***/ ((module) => {
 
 "use strict";
@@ -277,15 +88,21 @@ module.exports = require("react");
 
 /***/ }),
 
-/***/ 997:
+/***/ "react/jsx-dev-runtime":
+/*!****************************************!*\
+  !*** external "react/jsx-dev-runtime" ***!
+  \****************************************/
 /***/ ((module) => {
 
 "use strict";
-module.exports = require("react/jsx-runtime");
+module.exports = require("react/jsx-dev-runtime");
 
 /***/ }),
 
-/***/ 185:
+/***/ "@headlessui/react":
+/*!************************************!*\
+  !*** external "@headlessui/react" ***!
+  \************************************/
 /***/ ((module) => {
 
 "use strict";
@@ -300,7 +117,7 @@ module.exports = import("@headlessui/react");;
 var __webpack_require__ = require("../webpack-runtime.js");
 __webpack_require__.C(exports);
 var __webpack_exec__ = (moduleId) => (__webpack_require__(__webpack_require__.s = moduleId))
-var __webpack_exports__ = (__webpack_exec__(114));
+var __webpack_exports__ = (__webpack_exec__("./src/pages/_app.js"));
 module.exports = __webpack_exports__;
 
 })();
