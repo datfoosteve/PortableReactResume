@@ -51,8 +51,7 @@ const Resume = ({ data }) => {
               <img
                 alt={certificate.name}
                 src={src}
-                className="mx-auto w-80 object-cover shadow-md
-              "
+                className="mx-auto w-80 object-cover shadow-lg"
               />
             </a>
             <h5 className="skillName"> {certificate.name}</h5>
