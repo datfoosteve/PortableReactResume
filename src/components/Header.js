@@ -34,7 +34,7 @@ const Header = ({ data }) => {
      
       <button className="pagedownButton hover:shadow-blue">
         <a href="#about">
-          <ChevronDownIcon className="chevronDownIcon" />
+          <ChevronDownIcon className="chevronDownIcon " />
         </a>
       </button>
     </header>

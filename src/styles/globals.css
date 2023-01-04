@@ -126,7 +126,7 @@
   /* ------------------------------------------------------------------ */
 
   .pfp {
-    @apply hidden h-40 w-40 rounded-full md:mx-auto md:my-4 md:flex;
+    @apply hidden h-48 w-48 rounded-full md:mx-auto md:my-4 md:flex;
   }
   .about {
     @apply w-full py-4 text-[17px] font-light tracking-wide;

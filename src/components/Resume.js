@@ -92,7 +92,7 @@ const Resume = ({ data }) => {
             </span>
           </div>
         </div>
-        <div className="flex-items-center mx-auto mt-12 mb-12 max-w-4xl md:grid md:grid-cols-2 md:space-x-8 md:px-8 xl:max-w-6xl">
+        <div className="flex-items-center mx-auto mt-12 mb-18 max-w-4xl md:grid md:grid-cols-2 md:space-x-8 md:px-8 xl:max-w-6xl">
           {certificates}
         </div>
       </section>
