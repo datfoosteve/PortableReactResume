@@ -2,27 +2,15 @@
 @tailwind components;
 @tailwind utilities;
 
-@layer components {
-  /*
-  =====================================================================
-  *   Resume components style
-  =====================================================================
-   TOC:
-   a. Floating Pop 
-   b. Floating Tabs 
-   c. Header
-   d. Social
-   e. About
-   f. Details
-   g. Resume
-   h. Portfolio
-   j. Contact
-   k. Footer
-  ===================================================================== */
 
-  /* ------------------------------------------------------------------ */
-  /* reused classes
-  /* ------------------------------------------------------------------ */
+
+@layer components {
+
+
+
+  
+
+
 
   .heading {
     @apply mb-3 items-center text-2xl font-semibold tracking-wide md:px-0;
@@ -34,8 +22,39 @@
   /* ------------------------------------------------------------------ */
   /* a. Floating Pops
   /* ------------------------------------------------------------------ */
+  /* .floatingPop {
+    @apply sticky top-4;
+  }
+  .popoverButton {
+    @apply ml-4 rounded-full bg-gray-200 p-3 shadow-md md:hidden;
+  }
+  .menuIcon {
+    @apply h-7 cursor-pointer md:hidden;
+  }
+  .popoverPanel {
+    @apply absolute z-10 ml-4 mt-6 grid w-36 grid-rows-6 rounded-lg p-6;
+  }
+  .hover {
+    @apply hover:text-black backdrop:blur-sm;
+  } */
 
   .floatingPop {
+    @apply sticky top-4;
+  }
+  .popoverButton {
+    @apply ml-4 rounded-full bg-white p-3 shadow-md md:hidden border-y-stone-100 backdrop-brightness-50 backdrop-blur-md backdrop-invert bg-opacity-5 ring-amber-100 ring-2 ring-offset-2 ring-offset-white ring-opacity-20;
+  }
+  .menuIcon {
+    @apply h-7 cursor-pointer md:hidden;
+  }
+  .popoverPanel {
+    @apply absolute z-10 ml-4 mt-6 grid w-28 grid-rows-6 rounded-lg p-6;
+  }
+  .hover {
+    @apply hover:text-black backdrop-blur-md bg-white bg-opacity-60 border-y-stone-700 rounded-md ring-offset-indigo-200 ring-opacity-10 backdrop-invert;
+  }
+  
+  /* .floatingPop {
     @apply sticky top-4;
   }
   .popoverButton {
@@ -49,7 +68,7 @@
   }
   .hover {
     @apply hover:text-black backdrop:blur-sm;
-  }
+  } */
 
   /* ------------------------------------------------------------------ */
   /* b. Floating Tabs

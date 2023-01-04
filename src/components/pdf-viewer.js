@@ -75,6 +75,7 @@ export default function PDFViewer() {
                             fixed={true}
                         />
                     ))}
+                    <div className="mx-auto mt-12 mb-12 max-w-4xl md:grid md:grid-rows-1 md:grid-cols-2 md:space-x-8 md:px-8 xl:max-w-6xl">
                     <button className="resumeDownload" onClick={onPrevPdfClick}><div className="download">Previous PDF</div></button>
                     
                     <button>
@@ -83,7 +84,7 @@ export default function PDFViewer() {
                         </a>
                     </button>
 
-                    <button className="resumeDownload" onClick={onNextPdfClick}><div className="download">Next PDF</div></button>
+                    <button className="resumeDownload" onClick={onNextPdfClick}><div className="download">Next PDF</div></button></div>
                 </Document>
             </div>
             <div />

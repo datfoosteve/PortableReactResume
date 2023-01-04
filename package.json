@@ -16,6 +16,7 @@
     "@typescript-eslint/eslint-plugin": "^5.47.0",
     "@typescript-eslint/parser": "^5.47.0",
     "autoprefixer": "^10.4.13",
+    "csstype": "^3.0.10",
     "eslint-config-prettier": "^8.5.0",
     "eslint-plugin-prettier": "^4.2.1",
     "eslint-plugin-react": "^7.31.11",
@@ -41,6 +42,7 @@
   },
   "devDependencies": {
     "concurrently": "^7.6.0",
+    "eslint": "^8.31.0",
     "file-loader": "^6.2.0",
     "prettier-plugin-tailwindcss": "^0.2.1"
   },
