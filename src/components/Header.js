@@ -25,19 +25,21 @@ const Header = ({ data }) => {
   }
 
   return (
+    <section className="containerWelcome m-3">
     <header id="home" className="header">
       <div className="description"> {description}</div>
-      <h3 className="city text-blue">
+      <h3 className="city text-blue text-emerald-700">
         Based in {city}, {state}.
         <span className="occupation"> {occupation}</span>.
       </h3>
      
-      <button className="pagedownButton hover:shadow-blue">
+      <button className="pagedownButton hover:shadow-blue place-items-end animate-bounce">
         <a href="#about">
           <ChevronDownIcon className="chevronDownIcon " />
         </a>
       </button>
     </header>
+    </section>
   )
 }
 

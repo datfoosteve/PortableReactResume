@@ -4,18 +4,18 @@
         "occupation": "Software Developer, Software Engineeer, Computer Science Student",
         "description": "Learning and developing on the web while engineering and fabricating in life.",
         "image": "profilepic.png",
-        "bio": "",
-        "contactmessage": "Please feel free to contact me via email or phone.",
+        "bio": "As a skilled and experienced web developer and maker, I am excited to bring my unique combination of technical skills and background in fabrication to your team. My long-term goal is to create innovative and intelligent products by combining my coding and fabrication skills, and I am eager to apply these skills to new challenges and opportunities. I look forward to discussing how my skills and experiences can benefit your team and help drive success.",
+        "contactmessage": "I am excited to discuss how my skills and experiences can benefit your team and help drive success. Feel free to contact me via phone, email, or text to learn more",
         "email": "puthenpurackalstephen@gmail.com.com",
         "phone": "469-735-7590",
         "address": {
-          "street": "815 Dandelion Dr",
-          "city": "Dallas",
+          "street": "Dandelion Dr",
+          "city": "Mesquite",
           "state": "TX",
           "zip": "75149"
         },
         "website": "github.com/datfoosteve",
-        "resumedownload": "github.com/datfoosteve",
+        "resumedownload": "#resumedownload",
         "social": [
           {
             "network": "twitter",
@@ -51,10 +51,34 @@
         ],
         "work": [
           {
-            "company": "Searching",
-            "title": "Building in the Web3 space ",
-            "years": "October 2020 - Present",
+            "company": "Momenta Tech",
+            "title": "Web Developer",
+            "years": "2021-2022",
             "description": "Previous CNC (CAD/CAM) plasma specialist."
+          },
+          {
+            "company": "CVS Pharmacy",
+            "title": "Pharmacy Technician",
+            "years": "2",
+            "description": "Counted, measured, and compounded medications following standard procedures.Located and measured medications according to prescription information, making modifications as instructed by pharmacists and providers"
+          },
+          {
+            "company": "La Quinta Inn & Suites",
+            "title": "Front Desk Receptionist",
+            "years": "2",
+            "description": "Worked together with staff to accomodate customers"
+          },
+          {
+            "company": "St Francis Speciality clinic and OBGYN",
+            "title": "Data Entry Technician",
+            "years": "May 2010 – March 2011",
+            "description": "Scanned documents and saved in database to keep records of essential organizational information."
+          },
+          {
+            "company": "At&t Service Contractor",
+            "title": "Contractor",
+            "years": "2016",
+            "description": "Worked with a Team to diagnose the Wi-Fi constraints at the Texas A&M Campus. Ran Several Tests checking latency on rooftop building and exteriors. Gathered enough data to locate the stress points in the network and applied commercial network repeaters at those locations."
           }
         ],
         "skills": [
@@ -123,7 +147,7 @@
           {
             "name": "Full Stack Web Development",
             "src": "odyssey-cert.png",
-            "url": "https://github.com/datfoosteve"
+            "url": "https://www.credly.com/go/osrkvKKi"
           }
         ]
       },
@@ -163,20 +187,8 @@
       "testimonials": {
         "testimonials": [
           {
-            "text": "omg he did great work on the project and was very responsive to feedback. I would definitely work with him again. 10/10",
-            "user": "kimberly jones - CEO of company xyz"
-          },
-          {
-            "text": "HOLY COW! He is a genius! I would hire him again in a heartbeat.",
-            "user": "jane doe - CEO of company xyz"
-          },
-          {
-            "text": "Insane work ethic. He is a true professional.",
-            "user": "The arbitrator - CEO of company xyz"
-          },
-          {
-            "text": "sexy looking code and naughty comments in the code. i think he is a genuine jewel of a dev ops professional.",
-            "user": "God - CEO of company Heaven"
+            "text": "As the CEO of Momenta Tech, I have had the pleasure of working with Stephen on the development, maintenance, and deployment of our company website, PunchListZero. Using WordPress, Stephen played a crucial role in ensuring that our website was user-friendly, visually appealing, and consistently updated with new content. Stephen is an extremely talented and reliable developer who consistently delivers high-quality work. I highly recommend Stephen for any web development projects and am confident that He will exceed expectations.",
+            "user": "Travis Z"
           }
         ]
       }

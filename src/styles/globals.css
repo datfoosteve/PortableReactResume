@@ -78,7 +78,7 @@
     @apply sticky top-0 items-center bg-transparent;
   }
   .tabList {
-    @apply relative top-0 space-x-6 text-center text-[12px] text-black md:h-10 md:bg-white;
+    @apply relative top-0 space-x-6 text-center text-[12px] text-black md:h-10 md:bg-white backdrop:invert md:backdrop-brightness-50 md:backdrop-blur-md backdrop-invert md:bg-opacity-5 ring-amber-100 ring-2 ring-offset-2 ring-offset-white ring-opacity-20;
   }
   .tab {
     @apply mt-3 hidden uppercase md:flex;

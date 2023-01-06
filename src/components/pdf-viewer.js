@@ -57,7 +57,7 @@ export default function PDFViewer() {
     }
 
     return (
-        <section id="about" className="about bg-slate">
+        <section id="resumeDownload" className="about bg-slate">
             <span className="title decoration-orange">Printable Resume</span>
             <div className="mx-auto mt-12 mb-12 max-w-lg md:grid md:grid-cols-2 md:space-x-8 md:px-8 xl:max-w-6xl">
                 <Document file={file} onLoadSuccess={onDocumentLoadSuccess}>
