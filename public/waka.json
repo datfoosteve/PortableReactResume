@@ -1,0 +1,3475 @@
+{
+    "days": [
+        {
+            "categories": [
+                { "name": "Coding", "total": 25977.148785 },
+                { "name": "Meeting", "total": 3000.0 },
+                { "name": "Building", "total": 0.0 },
+                { "name": "Debugging", "total": 0.0 }
+            ],
+            "date": "2022-01-27",
+            "total": 28977.148785
+        },
+        {
+            "categories": [
+                { "name": "Coding", "total": 12882.390428 },
+                { "name": "Meeting", "total": 0.0 },
+                { "name": "Building", "total": 0.0 },
+                { "name": "Debugging", "total": 0.0 }
+            ],
+            "date": "2022-01-28",
+            "total": 12882.390428
+        },
+        {
+            "categories": [
+                { "name": "Coding", "total": 45992.024211 },
+                { "name": "Meeting", "total": 0.0 },
+                { "name": "Building", "total": 0.0 },
+                { "name": "Debugging", "total": 0.0 }
+            ],
+            "date": "2022-01-29",
+            "total": 45992.024211
+        },
+        {
+            "categories": [
+                { "name": "Coding", "total": 6074.684282 },
+                { "name": "Meeting", "total": 0.0 },
+                { "name": "Building", "total": 0.0 },
+                { "name": "Debugging", "total": 0.0 }
+            ],
+            "date": "2022-01-30",
+            "total": 6074.684282
+        },
+        {
+            "categories": [
+                { "name": "Coding", "total": 10127.605505 },
+                { "name": "Meeting", "total": 0.0 },
+                { "name": "Building", "total": 0.0 },
+                { "name": "Debugging", "total": 0.0 }
+            ],
+            "date": "2022-01-31",
+            "total": 10127.605505
+        },
+        {
+            "categories": [
+                { "name": "Coding", "total": 7330.90665 },
+                { "name": "Meeting", "total": 0.0 },
+                { "name": "Building", "total": 0.0 },
+                { "name": "Debugging", "total": 0.0 }
+            ],
+            "date": "2022-02-01",
+            "total": 7330.90665
+        },
+        {
+            "categories": [
+                { "name": "Coding", "total": 16554.72269 },
+                { "name": "Meeting", "total": 600.0 },
+                { "name": "Building", "total": 0.0 },
+                { "name": "Debugging", "total": 0.0 }
+            ],
+            "date": "2022-02-02",
+            "total": 17154.72269
+        },
+        {
+            "categories": [
+                { "name": "Coding", "total": 0.0 },
+                { "name": "Meeting", "total": 3000.0 },
+                { "name": "Building", "total": 0.0 },
+                { "name": "Debugging", "total": 0.0 }
+            ],
+            "date": "2022-02-03",
+            "total": 3000.0
+        },
+        {
+            "categories": [
+                { "name": "Coding", "total": 899.079653 },
+                { "name": "Meeting", "total": 3000.0 },
+                { "name": "Building", "total": 0.0 },
+                { "name": "Debugging", "total": 0.0 }
+            ],
+            "date": "2022-02-04",
+            "total": 3899.079653
+        },
+        {
+            "categories": [
+                { "name": "Coding", "total": 0.0 },
+                { "name": "Meeting", "total": 3000.0 },
+                { "name": "Building", "total": 0.0 },
+                { "name": "Debugging", "total": 0.0 }
+            ],
+            "date": "2022-02-05",
+            "total": 3000.0
+        },
+        {
+            "categories": [
+                { "name": "Coding", "total": 0.0 },
+                { "name": "Meeting", "total": 8144.0 },
+                { "name": "Building", "total": 0.0 },
+                { "name": "Debugging", "total": 0.0 }
+            ],
+            "date": "2022-02-06",
+            "total": 8144.0
+        },
+        {
+            "categories": [
+                { "name": "Coding", "total": 0.0 },
+                { "name": "Meeting", "total": 11.0 },
+                { "name": "Building", "total": 0.0 },
+                { "name": "Debugging", "total": 0.0 }
+            ],
+            "date": "2022-02-07",
+            "total": 11.0
+        },
+        {
+            "categories": [
+                { "name": "Coding", "total": 0.0 },
+                { "name": "Meeting", "total": 0.0 },
+                { "name": "Building", "total": 0.0 },
+                { "name": "Debugging", "total": 0.0 }
+            ],
+            "date": "2022-02-08",
+            "total": 0.0
+        },
+        {
+            "categories": [
+                { "name": "Coding", "total": 0.0 },
+                { "name": "Meeting", "total": 2000.0 },
+                { "name": "Building", "total": 0.0 },
+                { "name": "Debugging", "total": 0.0 }
+            ],
+            "date": "2022-02-09",
+            "total": 2000.0
+        },
+        {
+            "categories": [
+                { "name": "Coding", "total": 0.0 },
+                { "name": "Meeting", "total": 0.0 },
+                { "name": "Building", "total": 0.0 },
+                { "name": "Debugging", "total": 0.0 }
+            ],
+            "date": "2022-02-10",
+            "total": 0.0
+        },
+        {
+            "categories": [
+                { "name": "Coding", "total": 0.0 },
+                { "name": "Meeting", "total": 0.0 },
+                { "name": "Building", "total": 0.0 },
+                { "name": "Debugging", "total": 0.0 }
+            ],
+            "date": "2022-02-11",
+            "total": 0.0
+        },
+        {
+            "categories": [
+                { "name": "Coding", "total": 0.0 },
+                { "name": "Meeting", "total": 0.0 },
+                { "name": "Building", "total": 0.0 },
+                { "name": "Debugging", "total": 0.0 }
+            ],
+            "date": "2022-02-12",
+            "total": 0.0
+        },
+        {
+            "categories": [
+                { "name": "Coding", "total": 326.75507 },
+                { "name": "Meeting", "total": 0.0 },
+                { "name": "Building", "total": 0.0 },
+                { "name": "Debugging", "total": 0.0 }
+            ],
+            "date": "2022-02-13",
+            "total": 326.75507
+        },
+        {
+            "categories": [
+                { "name": "Coding", "total": 10556.429613 },
+                { "name": "Meeting", "total": 0.0 },
+                { "name": "Building", "total": 0.0 },
+                { "name": "Debugging", "total": 0.0 }
+            ],
+            "date": "2022-02-14",
+            "total": 10556.429613
+        },
+        {
+            "categories": [
+                { "name": "Coding", "total": 11.404655 },
+                { "name": "Meeting", "total": 9900.0 },
+                { "name": "Building", "total": 0.0 },
+                { "name": "Debugging", "total": 0.0 }
+            ],
+            "date": "2022-02-15",
+            "total": 9911.404655
+        },
+        {
+            "categories": [
+                { "name": "Coding", "total": 8085.759298 },
+                { "name": "Meeting", "total": 0.0 },
+                { "name": "Building", "total": 0.0 },
+                { "name": "Debugging", "total": 0.0 }
+            ],
+            "date": "2022-02-16",
+            "total": 8085.759298
+        },
+        {
+            "categories": [
+                { "name": "Coding", "total": 10914.0752 },
+                { "name": "Meeting", "total": 0.0 },
+                { "name": "Building", "total": 0.0 },
+                { "name": "Debugging", "total": 0.0 }
+            ],
+            "date": "2022-02-17",
+            "total": 10914.0752
+        },
+        {
+            "categories": [
+                { "name": "Coding", "total": 7819.513603 },
+                { "name": "Meeting", "total": 0.0 },
+                { "name": "Building", "total": 0.0 },
+                { "name": "Debugging", "total": 0.0 }
+            ],
+            "date": "2022-02-18",
+            "total": 7819.513603
+        },
+        {
+            "categories": [
+                { "name": "Coding", "total": 3969.572526 },
+                { "name": "Meeting", "total": 0.0 },
+                { "name": "Building", "total": 0.0 },
+                { "name": "Debugging", "total": 0.0 }
+            ],
+            "date": "2022-02-19",
+            "total": 3969.572526
+        },
+        {
+            "categories": [
+                { "name": "Coding", "total": 8893.394086 },
+                { "name": "Meeting", "total": 0.0 },
+                { "name": "Building", "total": 0.0 },
+                { "name": "Debugging", "total": 0.0 }
+            ],
+            "date": "2022-02-20",
+            "total": 8893.394086
+        },
+        {
+            "categories": [
+                { "name": "Coding", "total": 13588.843523 },
+                { "name": "Meeting", "total": 0.0 },
+                { "name": "Building", "total": 0.0 },
+                { "name": "Debugging", "total": 0.0 }
+            ],
+            "date": "2022-02-21",
+            "total": 13588.843523
+        },
+        {
+            "categories": [
+                { "name": "Coding", "total": 93.399361 },
+                { "name": "Meeting", "total": 6300.0 },
+                { "name": "Building", "total": 0.0 },
+                { "name": "Debugging", "total": 0.0 }
+            ],
+            "date": "2022-02-22",
+            "total": 6393.399361
+        },
+        {
+            "categories": [
+                { "name": "Coding", "total": 0.0 },
+                { "name": "Meeting", "total": 0.0 },
+                { "name": "Building", "total": 0.0 },
+                { "name": "Debugging", "total": 0.0 }
+            ],
+            "date": "2022-02-23",
+            "total": 0.0
+        },
+        {
+            "categories": [
+                { "name": "Coding", "total": 3932.657218 },
+                { "name": "Meeting", "total": 3000.0 },
+                { "name": "Building", "total": 0.0 },
+                { "name": "Debugging", "total": 0.0 }
+            ],
+            "date": "2022-02-24",
+            "total": 6932.657218
+        },
+        {
+            "categories": [
+                { "name": "Coding", "total": 5551.439841 },
+                { "name": "Meeting", "total": 0.0 },
+                { "name": "Building", "total": 0.0 },
+                { "name": "Debugging", "total": 0.0 }
+            ],
+            "date": "2022-02-25",
+            "total": 5551.439841
+        },
+        {
+            "categories": [
+                { "name": "Coding", "total": 19793.857415 },
+                { "name": "Meeting", "total": 0.0 },
+                { "name": "Building", "total": 0.0 },
+                { "name": "Debugging", "total": 0.0 }
+            ],
+            "date": "2022-02-26",
+            "total": 19793.857415
+        },
+        {
+            "categories": [
+                { "name": "Coding", "total": 5784.742621 },
+                { "name": "Meeting", "total": 0.0 },
+                { "name": "Building", "total": 0.0 },
+                { "name": "Debugging", "total": 0.0 }
+            ],
+            "date": "2022-02-27",
+            "total": 5784.742621
+        },
+        {
+            "categories": [
+                { "name": "Coding", "total": 31666.057624 },
+                { "name": "Meeting", "total": 0.0 },
+                { "name": "Building", "total": 0.0 },
+                { "name": "Debugging", "total": 0.0 }
+            ],
+            "date": "2022-02-28",
+            "total": 31666.057624
+        },
+        {
+            "categories": [
+                { "name": "Coding", "total": 15852.107932 },
+                { "name": "Meeting", "total": 0.0 },
+                { "name": "Building", "total": 0.0 },
+                { "name": "Debugging", "total": 0.0 }
+            ],
+            "date": "2022-03-01",
+            "total": 15852.107932
+        },
+        {
+            "categories": [
+                { "name": "Coding", "total": 11241.592622 },
+                { "name": "Meeting", "total": 0.0 },
+                { "name": "Building", "total": 0.0 },
+                { "name": "Debugging", "total": 0.0 }
+            ],
+            "date": "2022-03-02",
+            "total": 11241.592622
+        },
+        {
+            "categories": [
+                { "name": "Coding", "total": 84.331073 },
+                { "name": "Meeting", "total": 0.0 },
+                { "name": "Building", "total": 0.0 },
+                { "name": "Debugging", "total": 0.0 }
+            ],
+            "date": "2022-03-03",
+            "total": 84.331073
+        },
+        {
+            "categories": [
+                { "name": "Coding", "total": 258.526538 },
+                { "name": "Meeting", "total": 0.0 },
+                { "name": "Building", "total": 0.0 },
+                { "name": "Debugging", "total": 0.0 }
+            ],
+            "date": "2022-03-04",
+            "total": 258.526538
+        },
+        {
+            "categories": [
+                { "name": "Coding", "total": 9500.281906 },
+                { "name": "Meeting", "total": 0.0 },
+                { "name": "Building", "total": 0.0 },
+                { "name": "Debugging", "total": 0.0 }
+            ],
+            "date": "2022-03-05",
+            "total": 9500.281906
+        },
+        {
+            "categories": [
+                { "name": "Coding", "total": 0.0 },
+                { "name": "Meeting", "total": 0.0 },
+                { "name": "Building", "total": 0.0 },
+                { "name": "Debugging", "total": 0.0 }
+            ],
+            "date": "2022-03-06",
+            "total": 0.0
+        },
+        {
+            "categories": [
+                { "name": "Coding", "total": 8059.636547 },
+                { "name": "Meeting", "total": 4732.0 },
+                { "name": "Building", "total": 0.0 },
+                { "name": "Debugging", "total": 0.0 }
+            ],
+            "date": "2022-03-07",
+            "total": 12791.636547
+        },
+        {
+            "categories": [
+                { "name": "Coding", "total": 1507.00094 },
+                { "name": "Meeting", "total": 0.0 },
+                { "name": "Building", "total": 0.0 },
+                { "name": "Debugging", "total": 0.0 }
+            ],
+            "date": "2022-03-08",
+            "total": 1507.00094
+        },
+        {
+            "categories": [
+                { "name": "Coding", "total": 0.0 },
+                { "name": "Meeting", "total": 0.0 },
+                { "name": "Building", "total": 0.0 },
+                { "name": "Debugging", "total": 0.0 }
+            ],
+            "date": "2022-03-09",
+            "total": 0.0
+        },
+        {
+            "categories": [
+                { "name": "Coding", "total": 0.0 },
+                { "name": "Meeting", "total": 0.0 },
+                { "name": "Building", "total": 0.0 },
+                { "name": "Debugging", "total": 0.0 }
+            ],
+            "date": "2022-03-10",
+            "total": 0.0
+        },
+        {
+            "categories": [
+                { "name": "Coding", "total": 0.0 },
+                { "name": "Meeting", "total": 0.0 },
+                { "name": "Building", "total": 0.0 },
+                { "name": "Debugging", "total": 0.0 }
+            ],
+            "date": "2022-03-11",
+            "total": 0.0
+        },
+        {
+            "categories": [
+                { "name": "Coding", "total": 0.0 },
+                { "name": "Meeting", "total": 0.0 },
+                { "name": "Building", "total": 0.0 },
+                { "name": "Debugging", "total": 0.0 }
+            ],
+            "date": "2022-03-12",
+            "total": 0.0
+        },
+        {
+            "categories": [
+                { "name": "Coding", "total": 0.0 },
+                { "name": "Meeting", "total": 0.0 },
+                { "name": "Building", "total": 0.0 },
+                { "name": "Debugging", "total": 0.0 }
+            ],
+            "date": "2022-03-13",
+            "total": 0.0
+        },
+        {
+            "categories": [
+                { "name": "Coding", "total": 0.0 },
+                { "name": "Meeting", "total": 0.0 },
+                { "name": "Building", "total": 0.0 },
+                { "name": "Debugging", "total": 0.0 }
+            ],
+            "date": "2022-03-14",
+            "total": 0.0
+        },
+        {
+            "categories": [
+                { "name": "Coding", "total": 109.326901 },
+                { "name": "Meeting", "total": 1200.0 },
+                { "name": "Building", "total": 0.0 },
+                { "name": "Debugging", "total": 0.0 }
+            ],
+            "date": "2022-03-15",
+            "total": 1309.326901
+        },
+        {
+            "categories": [
+                { "name": "Coding", "total": 2808.629643 },
+                { "name": "Meeting", "total": 0.0 },
+                { "name": "Building", "total": 0.0 },
+                { "name": "Debugging", "total": 0.0 }
+            ],
+            "date": "2022-03-16",
+            "total": 2808.629643
+        },
+        {
+            "categories": [
+                { "name": "Coding", "total": 0.0 },
+                { "name": "Meeting", "total": 0.0 },
+                { "name": "Building", "total": 0.0 },
+                { "name": "Debugging", "total": 0.0 }
+            ],
+            "date": "2022-03-17",
+            "total": 0.0
+        },
+        {
+            "categories": [
+                { "name": "Coding", "total": 14910.684473 },
+                { "name": "Meeting", "total": 0.0 },
+                { "name": "Building", "total": 0.0 },
+                { "name": "Debugging", "total": 0.0 }
+            ],
+            "date": "2022-03-18",
+            "total": 14910.684473
+        },
+        {
+            "categories": [
+                { "name": "Coding", "total": 1224.92588 },
+                { "name": "Meeting", "total": 0.0 },
+                { "name": "Building", "total": 0.0 },
+                { "name": "Debugging", "total": 0.0 }
+            ],
+            "date": "2022-03-19",
+            "total": 1224.92588
+        },
+        {
+            "categories": [
+                { "name": "Coding", "total": 552.822552 },
+                { "name": "Meeting", "total": 0.0 },
+                { "name": "Building", "total": 0.0 },
+                { "name": "Debugging", "total": 0.0 }
+            ],
+            "date": "2022-03-20",
+            "total": 552.822552
+        },
+        {
+            "categories": [
+                { "name": "Coding", "total": 0.0 },
+                { "name": "Meeting", "total": 0.0 },
+                { "name": "Building", "total": 0.0 },
+                { "name": "Debugging", "total": 0.0 }
+            ],
+            "date": "2022-03-21",
+            "total": 0.0
+        },
+        {
+            "categories": [
+                { "name": "Coding", "total": 3734.588622 },
+                { "name": "Meeting", "total": 0.0 },
+                { "name": "Building", "total": 0.0 },
+                { "name": "Debugging", "total": 0.0 }
+            ],
+            "date": "2022-03-22",
+            "total": 3734.588622
+        },
+        {
+            "categories": [
+                { "name": "Coding", "total": 1.217358 },
+                { "name": "Meeting", "total": 0.0 },
+                { "name": "Building", "total": 0.0 },
+                { "name": "Debugging", "total": 0.0 }
+            ],
+            "date": "2022-03-23",
+            "total": 1.217358
+        },
+        {
+            "categories": [
+                { "name": "Coding", "total": 2824.758262 },
+                { "name": "Meeting", "total": 0.0 },
+                { "name": "Building", "total": 0.0 },
+                { "name": "Debugging", "total": 0.0 }
+            ],
+            "date": "2022-03-24",
+            "total": 2824.758262
+        },
+        {
+            "categories": [
+                { "name": "Coding", "total": 14890.606182 },
+                { "name": "Meeting", "total": 0.0 },
+                { "name": "Building", "total": 0.0 },
+                { "name": "Debugging", "total": 0.0 }
+            ],
+            "date": "2022-03-25",
+            "total": 14890.606182
+        },
+        {
+            "categories": [
+                { "name": "Coding", "total": 9884.549263 },
+                { "name": "Meeting", "total": 0.0 },
+                { "name": "Building", "total": 0.0 },
+                { "name": "Debugging", "total": 0.0 }
+            ],
+            "date": "2022-03-26",
+            "total": 9884.549263
+        },
+        {
+            "categories": [
+                { "name": "Coding", "total": 20517.914067 },
+                { "name": "Meeting", "total": 0.0 },
+                { "name": "Building", "total": 0.0 },
+                { "name": "Debugging", "total": 0.0 }
+            ],
+            "date": "2022-03-27",
+            "total": 20517.914067
+        },
+        {
+            "categories": [
+                { "name": "Coding", "total": 192.130568 },
+                { "name": "Meeting", "total": 0.0 },
+                { "name": "Building", "total": 0.0 },
+                { "name": "Debugging", "total": 0.0 }
+            ],
+            "date": "2022-03-28",
+            "total": 192.130568
+        },
+        {
+            "categories": [
+                { "name": "Coding", "total": 2682.520572 },
+                { "name": "Meeting", "total": 0.0 },
+                { "name": "Building", "total": 0.0 },
+                { "name": "Debugging", "total": 0.0 }
+            ],
+            "date": "2022-03-29",
+            "total": 2682.520572
+        },
+        {
+            "categories": [
+                { "name": "Coding", "total": 3257.367054 },
+                { "name": "Meeting", "total": 0.0 },
+                { "name": "Building", "total": 0.0 },
+                { "name": "Debugging", "total": 0.0 }
+            ],
+            "date": "2022-03-30",
+            "total": 3257.367054
+        },
+        {
+            "categories": [
+                { "name": "Coding", "total": 0.0 },
+                { "name": "Meeting", "total": 0.0 },
+                { "name": "Building", "total": 0.0 },
+                { "name": "Debugging", "total": 0.0 }
+            ],
+            "date": "2022-03-31",
+            "total": 0.0
+        },
+        {
+            "categories": [
+                { "name": "Coding", "total": 801.732686 },
+                { "name": "Meeting", "total": 0.0 },
+                { "name": "Building", "total": 0.0 },
+                { "name": "Debugging", "total": 0.0 }
+            ],
+            "date": "2022-04-01",
+            "total": 801.732686
+        },
+        {
+            "categories": [
+                { "name": "Coding", "total": 0.0 },
+                { "name": "Meeting", "total": 0.0 },
+                { "name": "Building", "total": 0.0 },
+                { "name": "Debugging", "total": 0.0 }
+            ],
+            "date": "2022-04-02",
+            "total": 0.0
+        },
+        {
+            "categories": [
+                { "name": "Coding", "total": 0.0 },
+                { "name": "Meeting", "total": 0.0 },
+                { "name": "Building", "total": 0.0 },
+                { "name": "Debugging", "total": 0.0 }
+            ],
+            "date": "2022-04-03",
+            "total": 0.0
+        },
+        {
+            "categories": [
+                { "name": "Coding", "total": 0.0 },
+                { "name": "Meeting", "total": 0.0 },
+                { "name": "Building", "total": 0.0 },
+                { "name": "Debugging", "total": 0.0 }
+            ],
+            "date": "2022-04-04",
+            "total": 0.0
+        },
+        {
+            "categories": [
+                { "name": "Coding", "total": 0.0 },
+                { "name": "Meeting", "total": 0.0 },
+                { "name": "Building", "total": 0.0 },
+                { "name": "Debugging", "total": 0.0 }
+            ],
+            "date": "2022-04-05",
+            "total": 0.0
+        },
+        {
+            "categories": [
+                { "name": "Coding", "total": 16011.447911 },
+                { "name": "Meeting", "total": 0.0 },
+                { "name": "Building", "total": 0.0 },
+                { "name": "Debugging", "total": 0.0 }
+            ],
+            "date": "2022-04-06",
+            "total": 16011.447911
+        },
+        {
+            "categories": [
+                { "name": "Coding", "total": 21737.438156 },
+                { "name": "Meeting", "total": 0.0 },
+                { "name": "Building", "total": 0.0 },
+                { "name": "Debugging", "total": 0.0 }
+            ],
+            "date": "2022-04-07",
+            "total": 21737.438156
+        },
+        {
+            "categories": [
+                { "name": "Coding", "total": 23296.376078 },
+                { "name": "Meeting", "total": 0.0 },
+                { "name": "Building", "total": 0.0 },
+                { "name": "Debugging", "total": 0.0 }
+            ],
+            "date": "2022-04-08",
+            "total": 23296.376078
+        },
+        {
+            "categories": [
+                { "name": "Coding", "total": 0.0 },
+                { "name": "Meeting", "total": 0.0 },
+                { "name": "Building", "total": 0.0 },
+                { "name": "Debugging", "total": 0.0 }
+            ],
+            "date": "2022-04-09",
+            "total": 0.0
+        },
+        {
+            "categories": [
+                { "name": "Coding", "total": 0.0 },
+                { "name": "Meeting", "total": 0.0 },
+                { "name": "Building", "total": 0.0 },
+                { "name": "Debugging", "total": 0.0 }
+            ],
+            "date": "2022-04-10",
+            "total": 0.0
+        },
+        {
+            "categories": [
+                { "name": "Coding", "total": 0.0 },
+                { "name": "Meeting", "total": 0.0 },
+                { "name": "Building", "total": 0.0 },
+                { "name": "Debugging", "total": 0.0 }
+            ],
+            "date": "2022-04-11",
+            "total": 0.0
+        },
+        {
+            "categories": [
+                { "name": "Coding", "total": 0.0 },
+                { "name": "Meeting", "total": 0.0 },
+                { "name": "Building", "total": 0.0 },
+                { "name": "Debugging", "total": 0.0 }
+            ],
+            "date": "2022-04-12",
+            "total": 0.0
+        },
+        {
+            "categories": [
+                { "name": "Coding", "total": 0.0 },
+                { "name": "Meeting", "total": 0.0 },
+                { "name": "Building", "total": 0.0 },
+                { "name": "Debugging", "total": 0.0 }
+            ],
+            "date": "2022-04-13",
+            "total": 0.0
+        },
+        {
+            "categories": [
+                { "name": "Coding", "total": 0.0 },
+                { "name": "Meeting", "total": 0.0 },
+                { "name": "Building", "total": 0.0 },
+                { "name": "Debugging", "total": 0.0 }
+            ],
+            "date": "2022-04-14",
+            "total": 0.0
+        },
+        {
+            "categories": [
+                { "name": "Coding", "total": 0.0 },
+                { "name": "Meeting", "total": 0.0 },
+                { "name": "Building", "total": 0.0 },
+                { "name": "Debugging", "total": 0.0 }
+            ],
+            "date": "2022-04-15",
+            "total": 0.0
+        },
+        {
+            "categories": [
+                { "name": "Coding", "total": 0.0 },
+                { "name": "Meeting", "total": 0.0 },
+                { "name": "Building", "total": 0.0 },
+                { "name": "Debugging", "total": 0.0 }
+            ],
+            "date": "2022-04-16",
+            "total": 0.0
+        },
+        {
+            "categories": [
+                { "name": "Coding", "total": 0.0 },
+                { "name": "Meeting", "total": 0.0 },
+                { "name": "Building", "total": 0.0 },
+                { "name": "Debugging", "total": 0.0 }
+            ],
+            "date": "2022-04-17",
+            "total": 0.0
+        },
+        {
+            "categories": [
+                { "name": "Coding", "total": 0.0 },
+                { "name": "Meeting", "total": 0.0 },
+                { "name": "Building", "total": 0.0 },
+                { "name": "Debugging", "total": 0.0 }
+            ],
+            "date": "2022-04-18",
+            "total": 0.0
+        },
+        {
+            "categories": [
+                { "name": "Coding", "total": 0.0 },
+                { "name": "Meeting", "total": 0.0 },
+                { "name": "Building", "total": 0.0 },
+                { "name": "Debugging", "total": 0.0 }
+            ],
+            "date": "2022-04-19",
+            "total": 0.0
+        },
+        {
+            "categories": [
+                { "name": "Coding", "total": 0.0 },
+                { "name": "Meeting", "total": 0.0 },
+                { "name": "Building", "total": 0.0 },
+                { "name": "Debugging", "total": 0.0 }
+            ],
+            "date": "2022-04-20",
+            "total": 0.0
+        },
+        {
+            "categories": [
+                { "name": "Coding", "total": 0.0 },
+                { "name": "Meeting", "total": 0.0 },
+                { "name": "Building", "total": 0.0 },
+                { "name": "Debugging", "total": 0.0 }
+            ],
+            "date": "2022-04-21",
+            "total": 0.0
+        },
+        {
+            "categories": [
+                { "name": "Coding", "total": 0.0 },
+                { "name": "Meeting", "total": 0.0 },
+                { "name": "Building", "total": 0.0 },
+                { "name": "Debugging", "total": 0.0 }
+            ],
+            "date": "2022-04-22",
+            "total": 0.0
+        },
+        {
+            "categories": [
+                { "name": "Coding", "total": 0.0 },
+                { "name": "Meeting", "total": 0.0 },
+                { "name": "Building", "total": 0.0 },
+                { "name": "Debugging", "total": 0.0 }
+            ],
+            "date": "2022-04-23",
+            "total": 0.0
+        },
+        {
+            "categories": [
+                { "name": "Coding", "total": 0.0 },
+                { "name": "Meeting", "total": 0.0 },
+                { "name": "Building", "total": 0.0 },
+                { "name": "Debugging", "total": 0.0 }
+            ],
+            "date": "2022-04-24",
+            "total": 0.0
+        },
+        {
+            "categories": [
+                { "name": "Coding", "total": 0.0 },
+                { "name": "Meeting", "total": 0.0 },
+                { "name": "Building", "total": 0.0 },
+                { "name": "Debugging", "total": 0.0 }
+            ],
+            "date": "2022-04-25",
+            "total": 0.0
+        },
+        {
+            "categories": [
+                { "name": "Coding", "total": 0.0 },
+                { "name": "Meeting", "total": 1200.0 },
+                { "name": "Building", "total": 0.0 },
+                { "name": "Debugging", "total": 0.0 }
+            ],
+            "date": "2022-04-26",
+            "total": 1200.0
+        },
+        {
+            "categories": [
+                { "name": "Coding", "total": 0.0 },
+                { "name": "Meeting", "total": 0.0 },
+                { "name": "Building", "total": 0.0 },
+                { "name": "Debugging", "total": 0.0 }
+            ],
+            "date": "2022-04-27",
+            "total": 0.0
+        },
+        {
+            "categories": [
+                { "name": "Coding", "total": 0.0 },
+                { "name": "Meeting", "total": 0.0 },
+                { "name": "Building", "total": 0.0 },
+                { "name": "Debugging", "total": 0.0 }
+            ],
+            "date": "2022-04-28",
+            "total": 0.0
+        },
+        {
+            "categories": [
+                { "name": "Coding", "total": 0.0 },
+                { "name": "Meeting", "total": 0.0 },
+                { "name": "Building", "total": 0.0 },
+                { "name": "Debugging", "total": 0.0 }
+            ],
+            "date": "2022-04-29",
+            "total": 0.0
+        },
+        {
+            "categories": [
+                { "name": "Coding", "total": 0.0 },
+                { "name": "Meeting", "total": 0.0 },
+                { "name": "Building", "total": 0.0 },
+                { "name": "Debugging", "total": 0.0 }
+            ],
+            "date": "2022-04-30",
+            "total": 0.0
+        },
+        {
+            "categories": [
+                { "name": "Coding", "total": 0.0 },
+                { "name": "Meeting", "total": 0.0 },
+                { "name": "Building", "total": 0.0 },
+                { "name": "Debugging", "total": 0.0 }
+            ],
+            "date": "2022-05-01",
+            "total": 0.0
+        },
+        {
+            "categories": [
+                { "name": "Coding", "total": 0.0 },
+                { "name": "Meeting", "total": 0.0 },
+                { "name": "Building", "total": 0.0 },
+                { "name": "Debugging", "total": 0.0 }
+            ],
+            "date": "2022-05-02",
+            "total": 0.0
+        },
+        {
+            "categories": [
+                { "name": "Coding", "total": 0.0 },
+                { "name": "Meeting", "total": 0.0 },
+                { "name": "Building", "total": 0.0 },
+                { "name": "Debugging", "total": 0.0 }
+            ],
+            "date": "2022-05-03",
+            "total": 0.0
+        },
+        {
+            "categories": [
+                { "name": "Coding", "total": 0.0 },
+                { "name": "Meeting", "total": 0.0 },
+                { "name": "Building", "total": 0.0 },
+                { "name": "Debugging", "total": 0.0 }
+            ],
+            "date": "2022-05-04",
+            "total": 0.0
+        },
+        {
+            "categories": [
+                { "name": "Coding", "total": 0.0 },
+                { "name": "Meeting", "total": 0.0 },
+                { "name": "Building", "total": 0.0 },
+                { "name": "Debugging", "total": 0.0 }
+            ],
+            "date": "2022-05-05",
+            "total": 0.0
+        },
+        {
+            "categories": [
+                { "name": "Coding", "total": 0.0 },
+                { "name": "Meeting", "total": 0.0 },
+                { "name": "Building", "total": 0.0 },
+                { "name": "Debugging", "total": 0.0 }
+            ],
+            "date": "2022-05-06",
+            "total": 0.0
+        },
+        {
+            "categories": [
+                { "name": "Coding", "total": 0.0 },
+                { "name": "Meeting", "total": 0.0 },
+                { "name": "Building", "total": 0.0 },
+                { "name": "Debugging", "total": 0.0 }
+            ],
+            "date": "2022-05-07",
+            "total": 0.0
+        },
+        {
+            "categories": [
+                { "name": "Coding", "total": 0.0 },
+                { "name": "Meeting", "total": 0.0 },
+                { "name": "Building", "total": 0.0 },
+                { "name": "Debugging", "total": 0.0 }
+            ],
+            "date": "2022-05-08",
+            "total": 0.0
+        },
+        {
+            "categories": [
+                { "name": "Coding", "total": 0.0 },
+                { "name": "Meeting", "total": 0.0 },
+                { "name": "Building", "total": 0.0 },
+                { "name": "Debugging", "total": 0.0 }
+            ],
+            "date": "2022-05-09",
+            "total": 0.0
+        },
+        {
+            "categories": [
+                { "name": "Coding", "total": 0.0 },
+                { "name": "Meeting", "total": 0.0 },
+                { "name": "Building", "total": 0.0 },
+                { "name": "Debugging", "total": 0.0 }
+            ],
+            "date": "2022-05-10",
+            "total": 0.0
+        },
+        {
+            "categories": [
+                { "name": "Coding", "total": 0.0 },
+                { "name": "Meeting", "total": 0.0 },
+                { "name": "Building", "total": 0.0 },
+                { "name": "Debugging", "total": 0.0 }
+            ],
+            "date": "2022-05-11",
+            "total": 0.0
+        },
+        {
+            "categories": [
+                { "name": "Coding", "total": 0.0 },
+                { "name": "Meeting", "total": 0.0 },
+                { "name": "Building", "total": 0.0 },
+                { "name": "Debugging", "total": 0.0 }
+            ],
+            "date": "2022-05-12",
+            "total": 0.0
+        },
+        {
+            "categories": [
+                { "name": "Coding", "total": 0.0 },
+                { "name": "Meeting", "total": 0.0 },
+                { "name": "Building", "total": 0.0 },
+                { "name": "Debugging", "total": 0.0 }
+            ],
+            "date": "2022-05-13",
+            "total": 0.0
+        },
+        {
+            "categories": [
+                { "name": "Coding", "total": 0.0 },
+                { "name": "Meeting", "total": 0.0 },
+                { "name": "Building", "total": 0.0 },
+                { "name": "Debugging", "total": 0.0 }
+            ],
+            "date": "2022-05-14",
+            "total": 0.0
+        },
+        {
+            "categories": [
+                { "name": "Coding", "total": 0.0 },
+                { "name": "Meeting", "total": 0.0 },
+                { "name": "Building", "total": 0.0 },
+                { "name": "Debugging", "total": 0.0 }
+            ],
+            "date": "2022-05-15",
+            "total": 0.0
+        },
+        {
+            "categories": [
+                { "name": "Coding", "total": 0.0 },
+                { "name": "Meeting", "total": 0.0 },
+                { "name": "Building", "total": 0.0 },
+                { "name": "Debugging", "total": 0.0 }
+            ],
+            "date": "2022-05-16",
+            "total": 0.0
+        },
+        {
+            "categories": [
+                { "name": "Coding", "total": 0.0 },
+                { "name": "Meeting", "total": 0.0 },
+                { "name": "Building", "total": 0.0 },
+                { "name": "Debugging", "total": 0.0 }
+            ],
+            "date": "2022-05-17",
+            "total": 0.0
+        },
+        {
+            "categories": [
+                { "name": "Coding", "total": 0.0 },
+                { "name": "Meeting", "total": 0.0 },
+                { "name": "Building", "total": 0.0 },
+                { "name": "Debugging", "total": 0.0 }
+            ],
+            "date": "2022-05-18",
+            "total": 0.0
+        },
+        {
+            "categories": [
+                { "name": "Coding", "total": 0.0 },
+                { "name": "Meeting", "total": 0.0 },
+                { "name": "Building", "total": 0.0 },
+                { "name": "Debugging", "total": 0.0 }
+            ],
+            "date": "2022-05-19",
+            "total": 0.0
+        },
+        {
+            "categories": [
+                { "name": "Coding", "total": 0.0 },
+                { "name": "Meeting", "total": 0.0 },
+                { "name": "Building", "total": 0.0 },
+                { "name": "Debugging", "total": 0.0 }
+            ],
+            "date": "2022-05-20",
+            "total": 0.0
+        },
+        {
+            "categories": [
+                { "name": "Coding", "total": 0.0 },
+                { "name": "Meeting", "total": 0.0 },
+                { "name": "Building", "total": 0.0 },
+                { "name": "Debugging", "total": 0.0 }
+            ],
+            "date": "2022-05-21",
+            "total": 0.0
+        },
+        {
+            "categories": [
+                { "name": "Coding", "total": 0.0 },
+                { "name": "Meeting", "total": 0.0 },
+                { "name": "Building", "total": 0.0 },
+                { "name": "Debugging", "total": 0.0 }
+            ],
+            "date": "2022-05-22",
+            "total": 0.0
+        },
+        {
+            "categories": [
+                { "name": "Coding", "total": 0.0 },
+                { "name": "Meeting", "total": 3600.0 },
+                { "name": "Building", "total": 0.0 },
+                { "name": "Debugging", "total": 0.0 }
+            ],
+            "date": "2022-05-23",
+            "total": 3600.0
+        },
+        {
+            "categories": [
+                { "name": "Coding", "total": 0.0 },
+                { "name": "Meeting", "total": 0.0 },
+                { "name": "Building", "total": 0.0 },
+                { "name": "Debugging", "total": 0.0 }
+            ],
+            "date": "2022-05-24",
+            "total": 0.0
+        },
+        {
+            "categories": [
+                { "name": "Coding", "total": 0.0 },
+                { "name": "Meeting", "total": 0.0 },
+                { "name": "Building", "total": 0.0 },
+                { "name": "Debugging", "total": 0.0 }
+            ],
+            "date": "2022-05-25",
+            "total": 0.0
+        },
+        {
+            "categories": [
+                { "name": "Coding", "total": 0.0 },
+                { "name": "Meeting", "total": 0.0 },
+                { "name": "Building", "total": 0.0 },
+                { "name": "Debugging", "total": 0.0 }
+            ],
+            "date": "2022-05-26",
+            "total": 0.0
+        },
+        {
+            "categories": [
+                { "name": "Coding", "total": 0.0 },
+                { "name": "Meeting", "total": 0.0 },
+                { "name": "Building", "total": 0.0 },
+                { "name": "Debugging", "total": 0.0 }
+            ],
+            "date": "2022-05-27",
+            "total": 0.0
+        },
+        {
+            "categories": [
+                { "name": "Coding", "total": 0.0 },
+                { "name": "Meeting", "total": 0.0 },
+                { "name": "Building", "total": 0.0 },
+                { "name": "Debugging", "total": 0.0 }
+            ],
+            "date": "2022-05-28",
+            "total": 0.0
+        },
+        {
+            "categories": [
+                { "name": "Coding", "total": 0.0 },
+                { "name": "Meeting", "total": 0.0 },
+                { "name": "Building", "total": 0.0 },
+                { "name": "Debugging", "total": 0.0 }
+            ],
+            "date": "2022-05-29",
+            "total": 0.0
+        },
+        {
+            "categories": [
+                { "name": "Coding", "total": 0.0 },
+                { "name": "Meeting", "total": 0.0 },
+                { "name": "Building", "total": 0.0 },
+                { "name": "Debugging", "total": 0.0 }
+            ],
+            "date": "2022-05-30",
+            "total": 0.0
+        },
+        {
+            "categories": [
+                { "name": "Coding", "total": 0.0 },
+                { "name": "Meeting", "total": 0.0 },
+                { "name": "Building", "total": 0.0 },
+                { "name": "Debugging", "total": 0.0 }
+            ],
+            "date": "2022-05-31",
+            "total": 0.0
+        },
+        {
+            "categories": [
+                { "name": "Coding", "total": 0.0 },
+                { "name": "Meeting", "total": 3600.0 },
+                { "name": "Building", "total": 0.0 },
+                { "name": "Debugging", "total": 0.0 }
+            ],
+            "date": "2022-06-01",
+            "total": 3600.0
+        },
+        {
+            "categories": [
+                { "name": "Coding", "total": 0.0 },
+                { "name": "Meeting", "total": 0.0 },
+                { "name": "Building", "total": 0.0 },
+                { "name": "Debugging", "total": 0.0 }
+            ],
+            "date": "2022-06-02",
+            "total": 0.0
+        },
+        {
+            "categories": [
+                { "name": "Coding", "total": 0.0 },
+                { "name": "Meeting", "total": 0.0 },
+                { "name": "Building", "total": 0.0 },
+                { "name": "Debugging", "total": 0.0 }
+            ],
+            "date": "2022-06-03",
+            "total": 0.0
+        },
+        {
+            "categories": [
+                { "name": "Coding", "total": 0.0 },
+                { "name": "Meeting", "total": 0.0 },
+                { "name": "Building", "total": 0.0 },
+                { "name": "Debugging", "total": 0.0 }
+            ],
+            "date": "2022-06-04",
+            "total": 0.0
+        },
+        {
+            "categories": [
+                { "name": "Coding", "total": 0.0 },
+                { "name": "Meeting", "total": 0.0 },
+                { "name": "Building", "total": 0.0 },
+                { "name": "Debugging", "total": 0.0 }
+            ],
+            "date": "2022-06-05",
+            "total": 0.0
+        },
+        {
+            "categories": [
+                { "name": "Coding", "total": 0.0 },
+                { "name": "Meeting", "total": 0.0 },
+                { "name": "Building", "total": 0.0 },
+                { "name": "Debugging", "total": 0.0 }
+            ],
+            "date": "2022-06-06",
+            "total": 0.0
+        },
+        {
+            "categories": [
+                { "name": "Coding", "total": 0.0 },
+                { "name": "Meeting", "total": 0.0 },
+                { "name": "Building", "total": 0.0 },
+                { "name": "Debugging", "total": 0.0 }
+            ],
+            "date": "2022-06-07",
+            "total": 0.0
+        },
+        {
+            "categories": [
+                { "name": "Coding", "total": 0.0 },
+                { "name": "Meeting", "total": 0.0 },
+                { "name": "Building", "total": 0.0 },
+                { "name": "Debugging", "total": 0.0 }
+            ],
+            "date": "2022-06-08",
+            "total": 0.0
+        },
+        {
+            "categories": [
+                { "name": "Coding", "total": 0.0 },
+                { "name": "Meeting", "total": 0.0 },
+                { "name": "Building", "total": 0.0 },
+                { "name": "Debugging", "total": 0.0 }
+            ],
+            "date": "2022-06-09",
+            "total": 0.0
+        },
+        {
+            "categories": [
+                { "name": "Coding", "total": 0.0 },
+                { "name": "Meeting", "total": 0.0 },
+                { "name": "Building", "total": 0.0 },
+                { "name": "Debugging", "total": 0.0 }
+            ],
+            "date": "2022-06-10",
+            "total": 0.0
+        },
+        {
+            "categories": [
+                { "name": "Coding", "total": 0.0 },
+                { "name": "Meeting", "total": 0.0 },
+                { "name": "Building", "total": 0.0 },
+                { "name": "Debugging", "total": 0.0 }
+            ],
+            "date": "2022-06-11",
+            "total": 0.0
+        },
+        {
+            "categories": [
+                { "name": "Coding", "total": 0.0 },
+                { "name": "Meeting", "total": 0.0 },
+                { "name": "Building", "total": 0.0 },
+                { "name": "Debugging", "total": 0.0 }
+            ],
+            "date": "2022-06-12",
+            "total": 0.0
+        },
+        {
+            "categories": [
+                { "name": "Coding", "total": 0.0 },
+                { "name": "Meeting", "total": 0.0 },
+                { "name": "Building", "total": 0.0 },
+                { "name": "Debugging", "total": 0.0 }
+            ],
+            "date": "2022-06-13",
+            "total": 0.0
+        },
+        {
+            "categories": [
+                { "name": "Coding", "total": 0.0 },
+                { "name": "Meeting", "total": 3600.0 },
+                { "name": "Building", "total": 0.0 },
+                { "name": "Debugging", "total": 0.0 }
+            ],
+            "date": "2022-06-14",
+            "total": 3600.0
+        },
+        {
+            "categories": [
+                { "name": "Coding", "total": 0.0 },
+                { "name": "Meeting", "total": 3600.0 },
+                { "name": "Building", "total": 0.0 },
+                { "name": "Debugging", "total": 0.0 }
+            ],
+            "date": "2022-06-15",
+            "total": 3600.0
+        },
+        {
+            "categories": [
+                { "name": "Coding", "total": 0.0 },
+                { "name": "Meeting", "total": 0.0 },
+                { "name": "Building", "total": 0.0 },
+                { "name": "Debugging", "total": 0.0 }
+            ],
+            "date": "2022-06-16",
+            "total": 0.0
+        },
+        {
+            "categories": [
+                { "name": "Coding", "total": 0.0 },
+                { "name": "Meeting", "total": 0.0 },
+                { "name": "Building", "total": 0.0 },
+                { "name": "Debugging", "total": 0.0 }
+            ],
+            "date": "2022-06-17",
+            "total": 0.0
+        },
+        {
+            "categories": [
+                { "name": "Coding", "total": 0.0 },
+                { "name": "Meeting", "total": 0.0 },
+                { "name": "Building", "total": 0.0 },
+                { "name": "Debugging", "total": 0.0 }
+            ],
+            "date": "2022-06-18",
+            "total": 0.0
+        },
+        {
+            "categories": [
+                { "name": "Coding", "total": 0.0 },
+                { "name": "Meeting", "total": 0.0 },
+                { "name": "Building", "total": 0.0 },
+                { "name": "Debugging", "total": 0.0 }
+            ],
+            "date": "2022-06-19",
+            "total": 0.0
+        },
+        {
+            "categories": [
+                { "name": "Coding", "total": 0.0 },
+                { "name": "Meeting", "total": 0.0 },
+                { "name": "Building", "total": 0.0 },
+                { "name": "Debugging", "total": 0.0 }
+            ],
+            "date": "2022-06-20",
+            "total": 0.0
+        },
+        {
+            "categories": [
+                { "name": "Coding", "total": 0.0 },
+                { "name": "Meeting", "total": 3600.0 },
+                { "name": "Building", "total": 0.0 },
+                { "name": "Debugging", "total": 0.0 }
+            ],
+            "date": "2022-06-21",
+            "total": 3600.0
+        },
+        {
+            "categories": [
+                { "name": "Coding", "total": 0.0 },
+                { "name": "Meeting", "total": 0.0 },
+                { "name": "Building", "total": 0.0 },
+                { "name": "Debugging", "total": 0.0 }
+            ],
+            "date": "2022-06-22",
+            "total": 0.0
+        },
+        {
+            "categories": [
+                { "name": "Coding", "total": 0.0 },
+                { "name": "Meeting", "total": 0.0 },
+                { "name": "Building", "total": 0.0 },
+                { "name": "Debugging", "total": 0.0 }
+            ],
+            "date": "2022-06-23",
+            "total": 0.0
+        },
+        {
+            "categories": [
+                { "name": "Coding", "total": 0.0 },
+                { "name": "Meeting", "total": 0.0 },
+                { "name": "Building", "total": 0.0 },
+                { "name": "Debugging", "total": 0.0 }
+            ],
+            "date": "2022-06-24",
+            "total": 0.0
+        },
+        {
+            "categories": [
+                { "name": "Coding", "total": 0.0 },
+                { "name": "Meeting", "total": 0.0 },
+                { "name": "Building", "total": 0.0 },
+                { "name": "Debugging", "total": 0.0 }
+            ],
+            "date": "2022-06-25",
+            "total": 0.0
+        },
+        {
+            "categories": [
+                { "name": "Coding", "total": 0.0 },
+                { "name": "Meeting", "total": 0.0 },
+                { "name": "Building", "total": 0.0 },
+                { "name": "Debugging", "total": 0.0 }
+            ],
+            "date": "2022-06-26",
+            "total": 0.0
+        },
+        {
+            "categories": [
+                { "name": "Coding", "total": 428.455836 },
+                { "name": "Meeting", "total": 0.0 },
+                { "name": "Building", "total": 0.0 },
+                { "name": "Debugging", "total": 0.0 }
+            ],
+            "date": "2022-06-27",
+            "total": 428.455836
+        },
+        {
+            "categories": [
+                { "name": "Coding", "total": 435.003458 },
+                { "name": "Meeting", "total": 7200.0 },
+                { "name": "Building", "total": 0.0 },
+                { "name": "Debugging", "total": 0.0 }
+            ],
+            "date": "2022-06-28",
+            "total": 7635.003458
+        },
+        {
+            "categories": [
+                { "name": "Coding", "total": 0.0 },
+                { "name": "Meeting", "total": 0.0 },
+                { "name": "Building", "total": 0.0 },
+                { "name": "Debugging", "total": 0.0 }
+            ],
+            "date": "2022-06-29",
+            "total": 0.0
+        },
+        {
+            "categories": [
+                { "name": "Coding", "total": 641.039889 },
+                { "name": "Meeting", "total": 0.0 },
+                { "name": "Building", "total": 0.0 },
+                { "name": "Debugging", "total": 0.0 }
+            ],
+            "date": "2022-06-30",
+            "total": 641.039889
+        },
+        {
+            "categories": [
+                { "name": "Coding", "total": 0.0 },
+                { "name": "Meeting", "total": 0.0 },
+                { "name": "Building", "total": 0.0 },
+                { "name": "Debugging", "total": 0.0 }
+            ],
+            "date": "2022-07-01",
+            "total": 0.0
+        },
+        {
+            "categories": [
+                { "name": "Coding", "total": 114.533147 },
+                { "name": "Meeting", "total": 0.0 },
+                { "name": "Building", "total": 0.0 },
+                { "name": "Debugging", "total": 0.0 }
+            ],
+            "date": "2022-07-02",
+            "total": 114.533147
+        },
+        {
+            "categories": [
+                { "name": "Coding", "total": 0.0 },
+                { "name": "Meeting", "total": 0.0 },
+                { "name": "Building", "total": 0.0 },
+                { "name": "Debugging", "total": 0.0 }
+            ],
+            "date": "2022-07-03",
+            "total": 0.0
+        },
+        {
+            "categories": [
+                { "name": "Coding", "total": 0.0 },
+                { "name": "Meeting", "total": 0.0 },
+                { "name": "Building", "total": 0.0 },
+                { "name": "Debugging", "total": 0.0 }
+            ],
+            "date": "2022-07-04",
+            "total": 0.0
+        },
+        {
+            "categories": [
+                { "name": "Coding", "total": 0.0 },
+                { "name": "Meeting", "total": 3600.0 },
+                { "name": "Building", "total": 0.0 },
+                { "name": "Debugging", "total": 0.0 }
+            ],
+            "date": "2022-07-05",
+            "total": 3600.0
+        },
+        {
+            "categories": [
+                { "name": "Coding", "total": 0.0 },
+                { "name": "Meeting", "total": 0.0 },
+                { "name": "Building", "total": 0.0 },
+                { "name": "Debugging", "total": 0.0 }
+            ],
+            "date": "2022-07-06",
+            "total": 0.0
+        },
+        {
+            "categories": [
+                { "name": "Coding", "total": 0.0 },
+                { "name": "Meeting", "total": 0.0 },
+                { "name": "Building", "total": 0.0 },
+                { "name": "Debugging", "total": 0.0 }
+            ],
+            "date": "2022-07-07",
+            "total": 0.0
+        },
+        {
+            "categories": [
+                { "name": "Coding", "total": 101.17165 },
+                { "name": "Meeting", "total": 0.0 },
+                { "name": "Building", "total": 0.0 },
+                { "name": "Debugging", "total": 0.0 }
+            ],
+            "date": "2022-07-08",
+            "total": 101.17165
+        },
+        {
+            "categories": [
+                { "name": "Coding", "total": 3232.677373 },
+                { "name": "Meeting", "total": 0.0 },
+                { "name": "Building", "total": 0.0 },
+                { "name": "Debugging", "total": 0.0 }
+            ],
+            "date": "2022-07-09",
+            "total": 3232.677373
+        },
+        {
+            "categories": [
+                { "name": "Coding", "total": 0.0 },
+                { "name": "Meeting", "total": 0.0 },
+                { "name": "Building", "total": 0.0 },
+                { "name": "Debugging", "total": 0.0 }
+            ],
+            "date": "2022-07-10",
+            "total": 0.0
+        },
+        {
+            "categories": [
+                { "name": "Coding", "total": 0.0 },
+                { "name": "Meeting", "total": 0.0 },
+                { "name": "Building", "total": 0.0 },
+                { "name": "Debugging", "total": 0.0 }
+            ],
+            "date": "2022-07-11",
+            "total": 0.0
+        },
+        {
+            "categories": [
+                { "name": "Coding", "total": 0.0 },
+                { "name": "Meeting", "total": 0.0 },
+                { "name": "Building", "total": 0.0 },
+                { "name": "Debugging", "total": 0.0 }
+            ],
+            "date": "2022-07-12",
+            "total": 0.0
+        },
+        {
+            "categories": [
+                { "name": "Coding", "total": 3011.135727 },
+                { "name": "Meeting", "total": 0.0 },
+                { "name": "Building", "total": 0.0 },
+                { "name": "Debugging", "total": 0.0 }
+            ],
+            "date": "2022-07-13",
+            "total": 3011.135727
+        },
+        {
+            "categories": [
+                { "name": "Coding", "total": 0.0 },
+                { "name": "Meeting", "total": 0.0 },
+                { "name": "Building", "total": 0.0 },
+                { "name": "Debugging", "total": 0.0 }
+            ],
+            "date": "2022-07-14",
+            "total": 0.0
+        },
+        {
+            "categories": [
+                { "name": "Coding", "total": 0.0 },
+                { "name": "Meeting", "total": 0.0 },
+                { "name": "Building", "total": 0.0 },
+                { "name": "Debugging", "total": 0.0 }
+            ],
+            "date": "2022-07-15",
+            "total": 0.0
+        },
+        {
+            "categories": [
+                { "name": "Coding", "total": 0.0 },
+                { "name": "Meeting", "total": 0.0 },
+                { "name": "Building", "total": 0.0 },
+                { "name": "Debugging", "total": 0.0 }
+            ],
+            "date": "2022-07-16",
+            "total": 0.0
+        },
+        {
+            "categories": [
+                { "name": "Coding", "total": 0.0 },
+                { "name": "Meeting", "total": 0.0 },
+                { "name": "Building", "total": 0.0 },
+                { "name": "Debugging", "total": 0.0 }
+            ],
+            "date": "2022-07-17",
+            "total": 0.0
+        },
+        {
+            "categories": [
+                { "name": "Coding", "total": 0.0 },
+                { "name": "Meeting", "total": 0.0 },
+                { "name": "Building", "total": 0.0 },
+                { "name": "Debugging", "total": 0.0 }
+            ],
+            "date": "2022-07-18",
+            "total": 0.0
+        },
+        {
+            "categories": [
+                { "name": "Coding", "total": 0.0 },
+                { "name": "Meeting", "total": 0.0 },
+                { "name": "Building", "total": 0.0 },
+                { "name": "Debugging", "total": 0.0 }
+            ],
+            "date": "2022-07-19",
+            "total": 0.0
+        },
+        {
+            "categories": [
+                { "name": "Coding", "total": 0.0 },
+                { "name": "Meeting", "total": 0.0 },
+                { "name": "Building", "total": 0.0 },
+                { "name": "Debugging", "total": 0.0 }
+            ],
+            "date": "2022-07-20",
+            "total": 0.0
+        },
+        {
+            "categories": [
+                { "name": "Coding", "total": 0.0 },
+                { "name": "Meeting", "total": 0.0 },
+                { "name": "Building", "total": 0.0 },
+                { "name": "Debugging", "total": 0.0 }
+            ],
+            "date": "2022-07-21",
+            "total": 0.0
+        },
+        {
+            "categories": [
+                { "name": "Coding", "total": 0.0 },
+                { "name": "Meeting", "total": 0.0 },
+                { "name": "Building", "total": 0.0 },
+                { "name": "Debugging", "total": 0.0 }
+            ],
+            "date": "2022-07-22",
+            "total": 0.0
+        },
+        {
+            "categories": [
+                { "name": "Coding", "total": 0.0 },
+                { "name": "Meeting", "total": 0.0 },
+                { "name": "Building", "total": 0.0 },
+                { "name": "Debugging", "total": 0.0 }
+            ],
+            "date": "2022-07-23",
+            "total": 0.0
+        },
+        {
+            "categories": [
+                { "name": "Coding", "total": 0.0 },
+                { "name": "Meeting", "total": 0.0 },
+                { "name": "Building", "total": 0.0 },
+                { "name": "Debugging", "total": 0.0 }
+            ],
+            "date": "2022-07-24",
+            "total": 0.0
+        },
+        {
+            "categories": [
+                { "name": "Coding", "total": 2526.461852 },
+                { "name": "Meeting", "total": 0.0 },
+                { "name": "Building", "total": 0.0 },
+                { "name": "Debugging", "total": 0.0 }
+            ],
+            "date": "2022-07-25",
+            "total": 2526.461852
+        },
+        {
+            "categories": [
+                { "name": "Coding", "total": 16.325583 },
+                { "name": "Meeting", "total": 3600.0 },
+                { "name": "Building", "total": 0.0 },
+                { "name": "Debugging", "total": 0.0 }
+            ],
+            "date": "2022-07-26",
+            "total": 3616.325583
+        },
+        {
+            "categories": [
+                { "name": "Coding", "total": 0.0 },
+                { "name": "Meeting", "total": 0.0 },
+                { "name": "Building", "total": 0.0 },
+                { "name": "Debugging", "total": 0.0 }
+            ],
+            "date": "2022-07-27",
+            "total": 0.0
+        },
+        {
+            "categories": [
+                { "name": "Coding", "total": 0.0 },
+                { "name": "Meeting", "total": 0.0 },
+                { "name": "Building", "total": 0.0 },
+                { "name": "Debugging", "total": 0.0 }
+            ],
+            "date": "2022-07-28",
+            "total": 0.0
+        },
+        {
+            "categories": [
+                { "name": "Coding", "total": 0.0 },
+                { "name": "Meeting", "total": 0.0 },
+                { "name": "Building", "total": 0.0 },
+                { "name": "Debugging", "total": 0.0 }
+            ],
+            "date": "2022-07-29",
+            "total": 0.0
+        },
+        {
+            "categories": [
+                { "name": "Coding", "total": 0.0 },
+                { "name": "Meeting", "total": 0.0 },
+                { "name": "Building", "total": 0.0 },
+                { "name": "Debugging", "total": 0.0 }
+            ],
+            "date": "2022-07-30",
+            "total": 0.0
+        },
+        {
+            "categories": [
+                { "name": "Coding", "total": 0.0 },
+                { "name": "Meeting", "total": 0.0 },
+                { "name": "Building", "total": 0.0 },
+                { "name": "Debugging", "total": 0.0 }
+            ],
+            "date": "2022-07-31",
+            "total": 0.0
+        },
+        {
+            "categories": [
+                { "name": "Coding", "total": 0.0 },
+                { "name": "Meeting", "total": 0.0 },
+                { "name": "Building", "total": 0.0 },
+                { "name": "Debugging", "total": 0.0 }
+            ],
+            "date": "2022-08-01",
+            "total": 0.0
+        },
+        {
+            "categories": [
+                { "name": "Coding", "total": 0.0 },
+                { "name": "Meeting", "total": 0.0 },
+                { "name": "Building", "total": 0.0 },
+                { "name": "Debugging", "total": 0.0 }
+            ],
+            "date": "2022-08-02",
+            "total": 0.0
+        },
+        {
+            "categories": [
+                { "name": "Coding", "total": 0.0 },
+                { "name": "Meeting", "total": 0.0 },
+                { "name": "Building", "total": 0.0 },
+                { "name": "Debugging", "total": 0.0 }
+            ],
+            "date": "2022-08-03",
+            "total": 0.0
+        },
+        {
+            "categories": [
+                { "name": "Coding", "total": 0.0 },
+                { "name": "Meeting", "total": 0.0 },
+                { "name": "Building", "total": 0.0 },
+                { "name": "Debugging", "total": 0.0 }
+            ],
+            "date": "2022-08-04",
+            "total": 0.0
+        },
+        {
+            "categories": [
+                { "name": "Coding", "total": 0.0 },
+                { "name": "Meeting", "total": 0.0 },
+                { "name": "Building", "total": 0.0 },
+                { "name": "Debugging", "total": 0.0 }
+            ],
+            "date": "2022-08-05",
+            "total": 0.0
+        },
+        {
+            "categories": [
+                { "name": "Coding", "total": 0.0 },
+                { "name": "Meeting", "total": 0.0 },
+                { "name": "Building", "total": 0.0 },
+                { "name": "Debugging", "total": 0.0 }
+            ],
+            "date": "2022-08-06",
+            "total": 0.0
+        },
+        {
+            "categories": [
+                { "name": "Coding", "total": 0.0 },
+                { "name": "Meeting", "total": 0.0 },
+                { "name": "Building", "total": 0.0 },
+                { "name": "Debugging", "total": 0.0 }
+            ],
+            "date": "2022-08-07",
+            "total": 0.0
+        },
+        {
+            "categories": [
+                { "name": "Coding", "total": 0.0 },
+                { "name": "Meeting", "total": 0.0 },
+                { "name": "Building", "total": 0.0 },
+                { "name": "Debugging", "total": 0.0 }
+            ],
+            "date": "2022-08-08",
+            "total": 0.0
+        },
+        {
+            "categories": [
+                { "name": "Coding", "total": 3183.159544 },
+                { "name": "Meeting", "total": 0.0 },
+                { "name": "Building", "total": 0.0 },
+                { "name": "Debugging", "total": 0.0 }
+            ],
+            "date": "2022-08-09",
+            "total": 3183.159544
+        },
+        {
+            "categories": [
+                { "name": "Coding", "total": 4126.288135 },
+                { "name": "Meeting", "total": 0.0 },
+                { "name": "Building", "total": 0.0 },
+                { "name": "Debugging", "total": 0.0 }
+            ],
+            "date": "2022-08-10",
+            "total": 4126.288135
+        },
+        {
+            "categories": [
+                { "name": "Coding", "total": 2642.055188 },
+                { "name": "Meeting", "total": 0.0 },
+                { "name": "Building", "total": 0.0 },
+                { "name": "Debugging", "total": 0.0 }
+            ],
+            "date": "2022-08-11",
+            "total": 2642.055188
+        },
+        {
+            "categories": [
+                { "name": "Coding", "total": 0.0 },
+                { "name": "Meeting", "total": 0.0 },
+                { "name": "Building", "total": 0.0 },
+                { "name": "Debugging", "total": 0.0 }
+            ],
+            "date": "2022-08-12",
+            "total": 0.0
+        },
+        {
+            "categories": [
+                { "name": "Coding", "total": 0.0 },
+                { "name": "Meeting", "total": 0.0 },
+                { "name": "Building", "total": 0.0 },
+                { "name": "Debugging", "total": 0.0 }
+            ],
+            "date": "2022-08-13",
+            "total": 0.0
+        },
+        {
+            "categories": [
+                { "name": "Coding", "total": 0.0 },
+                { "name": "Meeting", "total": 0.0 },
+                { "name": "Building", "total": 0.0 },
+                { "name": "Debugging", "total": 0.0 }
+            ],
+            "date": "2022-08-14",
+            "total": 0.0
+        },
+        {
+            "categories": [
+                { "name": "Coding", "total": 0.0 },
+                { "name": "Meeting", "total": 0.0 },
+                { "name": "Building", "total": 0.0 },
+                { "name": "Debugging", "total": 0.0 }
+            ],
+            "date": "2022-08-15",
+            "total": 0.0
+        },
+        {
+            "categories": [
+                { "name": "Coding", "total": 0.0 },
+                { "name": "Meeting", "total": 0.0 },
+                { "name": "Building", "total": 0.0 },
+                { "name": "Debugging", "total": 0.0 }
+            ],
+            "date": "2022-08-16",
+            "total": 0.0
+        },
+        {
+            "categories": [
+                { "name": "Coding", "total": 0.0 },
+                { "name": "Meeting", "total": 0.0 },
+                { "name": "Building", "total": 0.0 },
+                { "name": "Debugging", "total": 0.0 }
+            ],
+            "date": "2022-08-17",
+            "total": 0.0
+        },
+        {
+            "categories": [
+                { "name": "Coding", "total": 0.0 },
+                { "name": "Meeting", "total": 0.0 },
+                { "name": "Building", "total": 0.0 },
+                { "name": "Debugging", "total": 0.0 }
+            ],
+            "date": "2022-08-18",
+            "total": 0.0
+        },
+        {
+            "categories": [
+                { "name": "Coding", "total": 0.0 },
+                { "name": "Meeting", "total": 0.0 },
+                { "name": "Building", "total": 0.0 },
+                { "name": "Debugging", "total": 0.0 }
+            ],
+            "date": "2022-08-19",
+            "total": 0.0
+        },
+        {
+            "categories": [
+                { "name": "Coding", "total": 0.0 },
+                { "name": "Meeting", "total": 0.0 },
+                { "name": "Building", "total": 0.0 },
+                { "name": "Debugging", "total": 0.0 }
+            ],
+            "date": "2022-08-20",
+            "total": 0.0
+        },
+        {
+            "categories": [
+                { "name": "Coding", "total": 0.0 },
+                { "name": "Meeting", "total": 0.0 },
+                { "name": "Building", "total": 0.0 },
+                { "name": "Debugging", "total": 0.0 }
+            ],
+            "date": "2022-08-21",
+            "total": 0.0
+        },
+        {
+            "categories": [
+                { "name": "Coding", "total": 0.0 },
+                { "name": "Meeting", "total": 0.0 },
+                { "name": "Building", "total": 0.0 },
+                { "name": "Debugging", "total": 0.0 }
+            ],
+            "date": "2022-08-22",
+            "total": 0.0
+        },
+        {
+            "categories": [
+                { "name": "Coding", "total": 0.0 },
+                { "name": "Meeting", "total": 0.0 },
+                { "name": "Building", "total": 0.0 },
+                { "name": "Debugging", "total": 0.0 }
+            ],
+            "date": "2022-08-23",
+            "total": 0.0
+        },
+        {
+            "categories": [
+                { "name": "Coding", "total": 0.0 },
+                { "name": "Meeting", "total": 0.0 },
+                { "name": "Building", "total": 0.0 },
+                { "name": "Debugging", "total": 0.0 }
+            ],
+            "date": "2022-08-24",
+            "total": 0.0
+        },
+        {
+            "categories": [
+                { "name": "Coding", "total": 0.0 },
+                { "name": "Meeting", "total": 0.0 },
+                { "name": "Building", "total": 0.0 },
+                { "name": "Debugging", "total": 0.0 }
+            ],
+            "date": "2022-08-25",
+            "total": 0.0
+        },
+        {
+            "categories": [
+                { "name": "Coding", "total": 0.0 },
+                { "name": "Meeting", "total": 0.0 },
+                { "name": "Building", "total": 0.0 },
+                { "name": "Debugging", "total": 0.0 }
+            ],
+            "date": "2022-08-26",
+            "total": 0.0
+        },
+        {
+            "categories": [
+                { "name": "Coding", "total": 0.0 },
+                { "name": "Meeting", "total": 0.0 },
+                { "name": "Building", "total": 0.0 },
+                { "name": "Debugging", "total": 0.0 }
+            ],
+            "date": "2022-08-27",
+            "total": 0.0
+        },
+        {
+            "categories": [
+                { "name": "Coding", "total": 0.0 },
+                { "name": "Meeting", "total": 0.0 },
+                { "name": "Building", "total": 0.0 },
+                { "name": "Debugging", "total": 0.0 }
+            ],
+            "date": "2022-08-28",
+            "total": 0.0
+        },
+        {
+            "categories": [
+                { "name": "Coding", "total": 0.0 },
+                { "name": "Meeting", "total": 0.0 },
+                { "name": "Building", "total": 0.0 },
+                { "name": "Debugging", "total": 0.0 }
+            ],
+            "date": "2022-08-29",
+            "total": 0.0
+        },
+        {
+            "categories": [
+                { "name": "Coding", "total": 2713.209545 },
+                { "name": "Meeting", "total": 0.0 },
+                { "name": "Building", "total": 4.183077 },
+                { "name": "Debugging", "total": 0.0 }
+            ],
+            "date": "2022-08-30",
+            "total": 2717.392622
+        },
+        {
+            "categories": [
+                { "name": "Coding", "total": 40.292633 },
+                { "name": "Meeting", "total": 0.0 },
+                { "name": "Building", "total": 0.0 },
+                { "name": "Debugging", "total": 0.0 }
+            ],
+            "date": "2022-08-31",
+            "total": 40.292633
+        },
+        {
+            "categories": [
+                { "name": "Coding", "total": 0.0 },
+                { "name": "Meeting", "total": 0.0 },
+                { "name": "Building", "total": 0.0 },
+                { "name": "Debugging", "total": 0.0 }
+            ],
+            "date": "2022-09-01",
+            "total": 0.0
+        },
+        {
+            "categories": [
+                { "name": "Coding", "total": 0.0 },
+                { "name": "Meeting", "total": 0.0 },
+                { "name": "Building", "total": 0.0 },
+                { "name": "Debugging", "total": 0.0 }
+            ],
+            "date": "2022-09-02",
+            "total": 0.0
+        },
+        {
+            "categories": [
+                { "name": "Coding", "total": 0.0 },
+                { "name": "Meeting", "total": 0.0 },
+                { "name": "Building", "total": 0.0 },
+                { "name": "Debugging", "total": 0.0 }
+            ],
+            "date": "2022-09-03",
+            "total": 0.0
+        },
+        {
+            "categories": [
+                { "name": "Coding", "total": 0.0 },
+                { "name": "Meeting", "total": 0.0 },
+                { "name": "Building", "total": 0.0 },
+                { "name": "Debugging", "total": 0.0 }
+            ],
+            "date": "2022-09-04",
+            "total": 0.0
+        },
+        {
+            "categories": [
+                { "name": "Coding", "total": 0.0 },
+                { "name": "Meeting", "total": 0.0 },
+                { "name": "Building", "total": 0.0 },
+                { "name": "Debugging", "total": 0.0 }
+            ],
+            "date": "2022-09-05",
+            "total": 0.0
+        },
+        {
+            "categories": [
+                { "name": "Coding", "total": 0.0 },
+                { "name": "Meeting", "total": 0.0 },
+                { "name": "Building", "total": 0.0 },
+                { "name": "Debugging", "total": 0.0 }
+            ],
+            "date": "2022-09-06",
+            "total": 0.0
+        },
+        {
+            "categories": [
+                { "name": "Coding", "total": 0.0 },
+                { "name": "Meeting", "total": 0.0 },
+                { "name": "Building", "total": 0.0 },
+                { "name": "Debugging", "total": 0.0 }
+            ],
+            "date": "2022-09-07",
+            "total": 0.0
+        },
+        {
+            "categories": [
+                { "name": "Coding", "total": 2810.512521 },
+                { "name": "Meeting", "total": 0.0 },
+                { "name": "Building", "total": 0.0 },
+                { "name": "Debugging", "total": 0.0 }
+            ],
+            "date": "2022-09-08",
+            "total": 2810.512521
+        },
+        {
+            "categories": [
+                { "name": "Coding", "total": 0.0 },
+                { "name": "Meeting", "total": 0.0 },
+                { "name": "Building", "total": 0.0 },
+                { "name": "Debugging", "total": 0.0 }
+            ],
+            "date": "2022-09-09",
+            "total": 0.0
+        },
+        {
+            "categories": [
+                { "name": "Coding", "total": 208.67321 },
+                { "name": "Meeting", "total": 0.0 },
+                { "name": "Building", "total": 0.0 },
+                { "name": "Debugging", "total": 0.0 }
+            ],
+            "date": "2022-09-10",
+            "total": 208.67321
+        },
+        {
+            "categories": [
+                { "name": "Coding", "total": 116.053627 },
+                { "name": "Meeting", "total": 0.0 },
+                { "name": "Building", "total": 0.0 },
+                { "name": "Debugging", "total": 0.0 }
+            ],
+            "date": "2022-09-11",
+            "total": 116.053627
+        },
+        {
+            "categories": [
+                { "name": "Coding", "total": 2269.717197 },
+                { "name": "Meeting", "total": 0.0 },
+                { "name": "Building", "total": 0.0 },
+                { "name": "Debugging", "total": 0.0 }
+            ],
+            "date": "2022-09-12",
+            "total": 2269.717197
+        },
+        {
+            "categories": [
+                { "name": "Coding", "total": 3979.009828 },
+                { "name": "Meeting", "total": 0.0 },
+                { "name": "Building", "total": 1142.198136 },
+                { "name": "Debugging", "total": 0.0 }
+            ],
+            "date": "2022-09-13",
+            "total": 5121.207964
+        },
+        {
+            "categories": [
+                { "name": "Coding", "total": 1697.258734 },
+                { "name": "Meeting", "total": 0.0 },
+                { "name": "Building", "total": 1605.089933 },
+                { "name": "Debugging", "total": 0.0 }
+            ],
+            "date": "2022-09-14",
+            "total": 3302.348667
+        },
+        {
+            "categories": [
+                { "name": "Coding", "total": 0.0 },
+                { "name": "Meeting", "total": 0.0 },
+                { "name": "Building", "total": 0.0 },
+                { "name": "Debugging", "total": 0.0 }
+            ],
+            "date": "2022-09-15",
+            "total": 0.0
+        },
+        {
+            "categories": [
+                { "name": "Coding", "total": 0.0 },
+                { "name": "Meeting", "total": 0.0 },
+                { "name": "Building", "total": 0.0 },
+                { "name": "Debugging", "total": 0.0 }
+            ],
+            "date": "2022-09-16",
+            "total": 0.0
+        },
+        {
+            "categories": [
+                { "name": "Coding", "total": 0.0 },
+                { "name": "Meeting", "total": 0.0 },
+                { "name": "Building", "total": 0.0 },
+                { "name": "Debugging", "total": 0.0 }
+            ],
+            "date": "2022-09-17",
+            "total": 0.0
+        },
+        {
+            "categories": [
+                { "name": "Coding", "total": 0.0 },
+                { "name": "Meeting", "total": 33300.0 },
+                { "name": "Building", "total": 0.0 },
+                { "name": "Debugging", "total": 0.0 }
+            ],
+            "date": "2022-09-18",
+            "total": 33300.0
+        },
+        {
+            "categories": [
+                { "name": "Coding", "total": 0.0 },
+                { "name": "Meeting", "total": 0.0 },
+                { "name": "Building", "total": 0.0 },
+                { "name": "Debugging", "total": 0.0 }
+            ],
+            "date": "2022-09-19",
+            "total": 0.0
+        },
+        {
+            "categories": [
+                { "name": "Coding", "total": 0.0 },
+                { "name": "Meeting", "total": 0.0 },
+                { "name": "Building", "total": 0.0 },
+                { "name": "Debugging", "total": 0.0 }
+            ],
+            "date": "2022-09-20",
+            "total": 0.0
+        },
+        {
+            "categories": [
+                { "name": "Coding", "total": 0.0 },
+                { "name": "Meeting", "total": 0.0 },
+                { "name": "Building", "total": 0.0 },
+                { "name": "Debugging", "total": 0.0 }
+            ],
+            "date": "2022-09-21",
+            "total": 0.0
+        },
+        {
+            "categories": [
+                { "name": "Coding", "total": 0.0 },
+                { "name": "Meeting", "total": 0.0 },
+                { "name": "Building", "total": 0.0 },
+                { "name": "Debugging", "total": 0.0 }
+            ],
+            "date": "2022-09-22",
+            "total": 0.0
+        },
+        {
+            "categories": [
+                { "name": "Coding", "total": 0.0 },
+                { "name": "Meeting", "total": 34500.0 },
+                { "name": "Building", "total": 0.0 },
+                { "name": "Debugging", "total": 0.0 }
+            ],
+            "date": "2022-09-23",
+            "total": 34500.0
+        },
+        {
+            "categories": [
+                { "name": "Coding", "total": 0.0 },
+                { "name": "Meeting", "total": 0.0 },
+                { "name": "Building", "total": 0.0 },
+                { "name": "Debugging", "total": 0.0 }
+            ],
+            "date": "2022-09-24",
+            "total": 0.0
+        },
+        {
+            "categories": [
+                { "name": "Coding", "total": 0.0 },
+                { "name": "Meeting", "total": 0.0 },
+                { "name": "Building", "total": 0.0 },
+                { "name": "Debugging", "total": 0.0 }
+            ],
+            "date": "2022-09-25",
+            "total": 0.0
+        },
+        {
+            "categories": [
+                { "name": "Coding", "total": 7686.270487 },
+                { "name": "Meeting", "total": 0.0 },
+                { "name": "Building", "total": 0.0 },
+                { "name": "Debugging", "total": 0.0 }
+            ],
+            "date": "2022-09-26",
+            "total": 7686.270487
+        },
+        {
+            "categories": [
+                { "name": "Coding", "total": 800.03073 },
+                { "name": "Meeting", "total": 0.0 },
+                { "name": "Building", "total": 0.0 },
+                { "name": "Debugging", "total": 0.0 }
+            ],
+            "date": "2022-09-27",
+            "total": 800.03073
+        },
+        {
+            "categories": [
+                { "name": "Coding", "total": 0.0 },
+                { "name": "Meeting", "total": 0.0 },
+                { "name": "Building", "total": 0.0 },
+                { "name": "Debugging", "total": 0.0 }
+            ],
+            "date": "2022-09-28",
+            "total": 0.0
+        },
+        {
+            "categories": [
+                { "name": "Coding", "total": 342.533663 },
+                { "name": "Meeting", "total": 0.0 },
+                { "name": "Building", "total": 0.0 },
+                { "name": "Debugging", "total": 0.0 }
+            ],
+            "date": "2022-09-29",
+            "total": 342.533663
+        },
+        {
+            "categories": [
+                { "name": "Coding", "total": 0.0 },
+                { "name": "Meeting", "total": 0.0 },
+                { "name": "Building", "total": 0.0 },
+                { "name": "Debugging", "total": 0.0 }
+            ],
+            "date": "2022-09-30",
+            "total": 0.0
+        },
+        {
+            "categories": [
+                { "name": "Coding", "total": 0.0 },
+                { "name": "Meeting", "total": 0.0 },
+                { "name": "Building", "total": 0.0 },
+                { "name": "Debugging", "total": 0.0 }
+            ],
+            "date": "2022-10-01",
+            "total": 0.0
+        },
+        {
+            "categories": [
+                { "name": "Coding", "total": 0.0 },
+                { "name": "Meeting", "total": 0.0 },
+                { "name": "Building", "total": 0.0 },
+                { "name": "Debugging", "total": 0.0 }
+            ],
+            "date": "2022-10-02",
+            "total": 0.0
+        },
+        {
+            "categories": [
+                { "name": "Coding", "total": 0.0 },
+                { "name": "Meeting", "total": 0.0 },
+                { "name": "Building", "total": 0.0 },
+                { "name": "Debugging", "total": 0.0 }
+            ],
+            "date": "2022-10-03",
+            "total": 0.0
+        },
+        {
+            "categories": [
+                { "name": "Coding", "total": 0.0 },
+                { "name": "Meeting", "total": 0.0 },
+                { "name": "Building", "total": 0.0 },
+                { "name": "Debugging", "total": 0.0 }
+            ],
+            "date": "2022-10-04",
+            "total": 0.0
+        },
+        {
+            "categories": [
+                { "name": "Coding", "total": 0.0 },
+                { "name": "Meeting", "total": 0.0 },
+                { "name": "Building", "total": 0.0 },
+                { "name": "Debugging", "total": 0.0 }
+            ],
+            "date": "2022-10-05",
+            "total": 0.0
+        },
+        {
+            "categories": [
+                { "name": "Coding", "total": 0.0 },
+                { "name": "Meeting", "total": 0.0 },
+                { "name": "Building", "total": 0.0 },
+                { "name": "Debugging", "total": 0.0 }
+            ],
+            "date": "2022-10-06",
+            "total": 0.0
+        },
+        {
+            "categories": [
+                { "name": "Coding", "total": 0.0 },
+                { "name": "Meeting", "total": 0.0 },
+                { "name": "Building", "total": 0.0 },
+                { "name": "Debugging", "total": 0.0 }
+            ],
+            "date": "2022-10-07",
+            "total": 0.0
+        },
+        {
+            "categories": [
+                { "name": "Coding", "total": 0.0 },
+                { "name": "Meeting", "total": 0.0 },
+                { "name": "Building", "total": 0.0 },
+                { "name": "Debugging", "total": 0.0 }
+            ],
+            "date": "2022-10-08",
+            "total": 0.0
+        },
+        {
+            "categories": [
+                { "name": "Coding", "total": 0.0 },
+                { "name": "Meeting", "total": 0.0 },
+                { "name": "Building", "total": 0.0 },
+                { "name": "Debugging", "total": 0.0 }
+            ],
+            "date": "2022-10-09",
+            "total": 0.0
+        },
+        {
+            "categories": [
+                { "name": "Coding", "total": 0.0 },
+                { "name": "Meeting", "total": 0.0 },
+                { "name": "Building", "total": 0.0 },
+                { "name": "Debugging", "total": 0.0 }
+            ],
+            "date": "2022-10-10",
+            "total": 0.0
+        },
+        {
+            "categories": [
+                { "name": "Coding", "total": 0.0 },
+                { "name": "Meeting", "total": 0.0 },
+                { "name": "Building", "total": 0.0 },
+                { "name": "Debugging", "total": 0.0 }
+            ],
+            "date": "2022-10-11",
+            "total": 0.0
+        },
+        {
+            "categories": [
+                { "name": "Coding", "total": 0.0 },
+                { "name": "Meeting", "total": 0.0 },
+                { "name": "Building", "total": 0.0 },
+                { "name": "Debugging", "total": 0.0 }
+            ],
+            "date": "2022-10-12",
+            "total": 0.0
+        },
+        {
+            "categories": [
+                { "name": "Coding", "total": 0.0 },
+                { "name": "Meeting", "total": 0.0 },
+                { "name": "Building", "total": 0.0 },
+                { "name": "Debugging", "total": 0.0 }
+            ],
+            "date": "2022-10-13",
+            "total": 0.0
+        },
+        {
+            "categories": [
+                { "name": "Coding", "total": 0.0 },
+                { "name": "Meeting", "total": 0.0 },
+                { "name": "Building", "total": 0.0 },
+                { "name": "Debugging", "total": 0.0 }
+            ],
+            "date": "2022-10-14",
+            "total": 0.0
+        },
+        {
+            "categories": [
+                { "name": "Coding", "total": 0.0 },
+                { "name": "Meeting", "total": 0.0 },
+                { "name": "Building", "total": 0.0 },
+                { "name": "Debugging", "total": 0.0 }
+            ],
+            "date": "2022-10-15",
+            "total": 0.0
+        },
+        {
+            "categories": [
+                { "name": "Coding", "total": 0.0 },
+                { "name": "Meeting", "total": 0.0 },
+                { "name": "Building", "total": 0.0 },
+                { "name": "Debugging", "total": 0.0 }
+            ],
+            "date": "2022-10-16",
+            "total": 0.0
+        },
+        {
+            "categories": [
+                { "name": "Coding", "total": 0.0 },
+                { "name": "Meeting", "total": 0.0 },
+                { "name": "Building", "total": 0.0 },
+                { "name": "Debugging", "total": 0.0 }
+            ],
+            "date": "2022-10-17",
+            "total": 0.0
+        },
+        {
+            "categories": [
+                { "name": "Coding", "total": 0.0 },
+                { "name": "Meeting", "total": 0.0 },
+                { "name": "Building", "total": 0.0 },
+                { "name": "Debugging", "total": 0.0 }
+            ],
+            "date": "2022-10-18",
+            "total": 0.0
+        },
+        {
+            "categories": [
+                { "name": "Coding", "total": 0.0 },
+                { "name": "Meeting", "total": 0.0 },
+                { "name": "Building", "total": 0.0 },
+                { "name": "Debugging", "total": 0.0 }
+            ],
+            "date": "2022-10-19",
+            "total": 0.0
+        },
+        {
+            "categories": [
+                { "name": "Coding", "total": 0.0 },
+                { "name": "Meeting", "total": 0.0 },
+                { "name": "Building", "total": 0.0 },
+                { "name": "Debugging", "total": 0.0 }
+            ],
+            "date": "2022-10-20",
+            "total": 0.0
+        },
+        {
+            "categories": [
+                { "name": "Coding", "total": 0.0 },
+                { "name": "Meeting", "total": 0.0 },
+                { "name": "Building", "total": 0.0 },
+                { "name": "Debugging", "total": 0.0 }
+            ],
+            "date": "2022-10-21",
+            "total": 0.0
+        },
+        {
+            "categories": [
+                { "name": "Coding", "total": 0.0 },
+                { "name": "Meeting", "total": 0.0 },
+                { "name": "Building", "total": 0.0 },
+                { "name": "Debugging", "total": 0.0 }
+            ],
+            "date": "2022-10-22",
+            "total": 0.0
+        },
+        {
+            "categories": [
+                { "name": "Coding", "total": 0.0 },
+                { "name": "Meeting", "total": 0.0 },
+                { "name": "Building", "total": 0.0 },
+                { "name": "Debugging", "total": 0.0 }
+            ],
+            "date": "2022-10-23",
+            "total": 0.0
+        },
+        {
+            "categories": [
+                { "name": "Coding", "total": 0.0 },
+                { "name": "Meeting", "total": 0.0 },
+                { "name": "Building", "total": 0.0 },
+                { "name": "Debugging", "total": 0.0 }
+            ],
+            "date": "2022-10-24",
+            "total": 0.0
+        },
+        {
+            "categories": [
+                { "name": "Coding", "total": 0.0 },
+                { "name": "Meeting", "total": 0.0 },
+                { "name": "Building", "total": 0.0 },
+                { "name": "Debugging", "total": 0.0 }
+            ],
+            "date": "2022-10-25",
+            "total": 0.0
+        },
+        {
+            "categories": [
+                { "name": "Coding", "total": 0.0 },
+                { "name": "Meeting", "total": 0.0 },
+                { "name": "Building", "total": 0.0 },
+                { "name": "Debugging", "total": 0.0 }
+            ],
+            "date": "2022-10-26",
+            "total": 0.0
+        },
+        {
+            "categories": [
+                { "name": "Coding", "total": 0.0 },
+                { "name": "Meeting", "total": 0.0 },
+                { "name": "Building", "total": 0.0 },
+                { "name": "Debugging", "total": 0.0 }
+            ],
+            "date": "2022-10-27",
+            "total": 0.0
+        },
+        {
+            "categories": [
+                { "name": "Coding", "total": 0.0 },
+                { "name": "Meeting", "total": 0.0 },
+                { "name": "Building", "total": 0.0 },
+                { "name": "Debugging", "total": 0.0 }
+            ],
+            "date": "2022-10-28",
+            "total": 0.0
+        },
+        {
+            "categories": [
+                { "name": "Coding", "total": 0.0 },
+                { "name": "Meeting", "total": 0.0 },
+                { "name": "Building", "total": 0.0 },
+                { "name": "Debugging", "total": 0.0 }
+            ],
+            "date": "2022-10-29",
+            "total": 0.0
+        },
+        {
+            "categories": [
+                { "name": "Coding", "total": 0.0 },
+                { "name": "Meeting", "total": 0.0 },
+                { "name": "Building", "total": 0.0 },
+                { "name": "Debugging", "total": 0.0 }
+            ],
+            "date": "2022-10-30",
+            "total": 0.0
+        },
+        {
+            "categories": [
+                { "name": "Coding", "total": 0.0 },
+                { "name": "Meeting", "total": 0.0 },
+                { "name": "Building", "total": 0.0 },
+                { "name": "Debugging", "total": 0.0 }
+            ],
+            "date": "2022-10-31",
+            "total": 0.0
+        },
+        {
+            "categories": [
+                { "name": "Coding", "total": 0.0 },
+                { "name": "Meeting", "total": 0.0 },
+                { "name": "Building", "total": 0.0 },
+                { "name": "Debugging", "total": 0.0 }
+            ],
+            "date": "2022-11-01",
+            "total": 0.0
+        },
+        {
+            "categories": [
+                { "name": "Coding", "total": 0.0 },
+                { "name": "Meeting", "total": 0.0 },
+                { "name": "Building", "total": 0.0 },
+                { "name": "Debugging", "total": 0.0 }
+            ],
+            "date": "2022-11-02",
+            "total": 0.0
+        },
+        {
+            "categories": [
+                { "name": "Coding", "total": 0.0 },
+                { "name": "Meeting", "total": 0.0 },
+                { "name": "Building", "total": 0.0 },
+                { "name": "Debugging", "total": 0.0 }
+            ],
+            "date": "2022-11-03",
+            "total": 0.0
+        },
+        {
+            "categories": [
+                { "name": "Coding", "total": 0.0 },
+                { "name": "Meeting", "total": 0.0 },
+                { "name": "Building", "total": 0.0 },
+                { "name": "Debugging", "total": 0.0 }
+            ],
+            "date": "2022-11-04",
+            "total": 0.0
+        },
+        {
+            "categories": [
+                { "name": "Coding", "total": 0.0 },
+                { "name": "Meeting", "total": 0.0 },
+                { "name": "Building", "total": 0.0 },
+                { "name": "Debugging", "total": 0.0 }
+            ],
+            "date": "2022-11-05",
+            "total": 0.0
+        },
+        {
+            "categories": [
+                { "name": "Coding", "total": 0.0 },
+                { "name": "Meeting", "total": 0.0 },
+                { "name": "Building", "total": 0.0 },
+                { "name": "Debugging", "total": 0.0 }
+            ],
+            "date": "2022-11-06",
+            "total": 0.0
+        },
+        {
+            "categories": [
+                { "name": "Coding", "total": 7897.001564 },
+                { "name": "Meeting", "total": 0.0 },
+                { "name": "Building", "total": 0.0 },
+                { "name": "Debugging", "total": 0.0 }
+            ],
+            "date": "2022-11-07",
+            "total": 7897.001564
+        },
+        {
+            "categories": [
+                { "name": "Coding", "total": 0.0 },
+                { "name": "Meeting", "total": 0.0 },
+                { "name": "Building", "total": 0.0 },
+                { "name": "Debugging", "total": 0.0 }
+            ],
+            "date": "2022-11-08",
+            "total": 0.0
+        },
+        {
+            "categories": [
+                { "name": "Coding", "total": 108.122118 },
+                { "name": "Meeting", "total": 0.0 },
+                { "name": "Building", "total": 8.379261 },
+                { "name": "Debugging", "total": 0.0 }
+            ],
+            "date": "2022-11-09",
+            "total": 116.501379
+        },
+        {
+            "categories": [
+                { "name": "Coding", "total": 0.0 },
+                { "name": "Meeting", "total": 0.0 },
+                { "name": "Building", "total": 0.0 },
+                { "name": "Debugging", "total": 0.0 }
+            ],
+            "date": "2022-11-10",
+            "total": 0.0
+        },
+        {
+            "categories": [
+                { "name": "Coding", "total": 0.0 },
+                { "name": "Meeting", "total": 0.0 },
+                { "name": "Building", "total": 0.0 },
+                { "name": "Debugging", "total": 0.0 }
+            ],
+            "date": "2022-11-11",
+            "total": 0.0
+        },
+        {
+            "categories": [
+                { "name": "Coding", "total": 0.0 },
+                { "name": "Meeting", "total": 0.0 },
+                { "name": "Building", "total": 0.0 },
+                { "name": "Debugging", "total": 0.0 }
+            ],
+            "date": "2022-11-12",
+            "total": 0.0
+        },
+        {
+            "categories": [
+                { "name": "Coding", "total": 109.36704 },
+                { "name": "Meeting", "total": 0.0 },
+                { "name": "Building", "total": 0.0 },
+                { "name": "Debugging", "total": 0.0 }
+            ],
+            "date": "2022-11-13",
+            "total": 109.36704
+        },
+        {
+            "categories": [
+                { "name": "Coding", "total": 489.142369 },
+                { "name": "Meeting", "total": 0.0 },
+                { "name": "Building", "total": 815.965138 },
+                { "name": "Debugging", "total": 0.0 }
+            ],
+            "date": "2022-11-14",
+            "total": 1305.107507
+        },
+        {
+            "categories": [
+                { "name": "Coding", "total": 0.0 },
+                { "name": "Meeting", "total": 0.0 },
+                { "name": "Building", "total": 0.0 },
+                { "name": "Debugging", "total": 0.0 }
+            ],
+            "date": "2022-11-15",
+            "total": 0.0
+        },
+        {
+            "categories": [
+                { "name": "Coding", "total": 0.0 },
+                { "name": "Meeting", "total": 0.0 },
+                { "name": "Building", "total": 0.0 },
+                { "name": "Debugging", "total": 0.0 }
+            ],
+            "date": "2022-11-16",
+            "total": 0.0
+        },
+        {
+            "categories": [
+                { "name": "Coding", "total": 0.0 },
+                { "name": "Meeting", "total": 0.0 },
+                { "name": "Building", "total": 0.0 },
+                { "name": "Debugging", "total": 0.0 }
+            ],
+            "date": "2022-11-17",
+            "total": 0.0
+        },
+        {
+            "categories": [
+                { "name": "Coding", "total": 0.0 },
+                { "name": "Meeting", "total": 0.0 },
+                { "name": "Building", "total": 0.0 },
+                { "name": "Debugging", "total": 0.0 }
+            ],
+            "date": "2022-11-18",
+            "total": 0.0
+        },
+        {
+            "categories": [
+                { "name": "Coding", "total": 0.0 },
+                { "name": "Meeting", "total": 0.0 },
+                { "name": "Building", "total": 0.0 },
+                { "name": "Debugging", "total": 0.0 }
+            ],
+            "date": "2022-11-19",
+            "total": 0.0
+        },
+        {
+            "categories": [
+                { "name": "Coding", "total": 0.0 },
+                { "name": "Meeting", "total": 0.0 },
+                { "name": "Building", "total": 0.0 },
+                { "name": "Debugging", "total": 0.0 }
+            ],
+            "date": "2022-11-20",
+            "total": 0.0
+        },
+        {
+            "categories": [
+                { "name": "Coding", "total": 0.0 },
+                { "name": "Meeting", "total": 0.0 },
+                { "name": "Building", "total": 0.0 },
+                { "name": "Debugging", "total": 0.0 }
+            ],
+            "date": "2022-11-21",
+            "total": 0.0
+        },
+        {
+            "categories": [
+                { "name": "Coding", "total": 0.0 },
+                { "name": "Meeting", "total": 0.0 },
+                { "name": "Building", "total": 0.0 },
+                { "name": "Debugging", "total": 0.0 }
+            ],
+            "date": "2022-11-22",
+            "total": 0.0
+        },
+        {
+            "categories": [
+                { "name": "Coding", "total": 0.0 },
+                { "name": "Meeting", "total": 0.0 },
+                { "name": "Building", "total": 0.0 },
+                { "name": "Debugging", "total": 0.0 }
+            ],
+            "date": "2022-11-23",
+            "total": 0.0
+        },
+        {
+            "categories": [
+                { "name": "Coding", "total": 0.0 },
+                { "name": "Meeting", "total": 0.0 },
+                { "name": "Building", "total": 0.0 },
+                { "name": "Debugging", "total": 0.0 }
+            ],
+            "date": "2022-11-24",
+            "total": 0.0
+        },
+        {
+            "categories": [
+                { "name": "Coding", "total": 0.0 },
+                { "name": "Meeting", "total": 0.0 },
+                { "name": "Building", "total": 0.0 },
+                { "name": "Debugging", "total": 0.0 }
+            ],
+            "date": "2022-11-25",
+            "total": 0.0
+        },
+        {
+            "categories": [
+                { "name": "Coding", "total": 0.0 },
+                { "name": "Meeting", "total": 0.0 },
+                { "name": "Building", "total": 0.0 },
+                { "name": "Debugging", "total": 0.0 }
+            ],
+            "date": "2022-11-26",
+            "total": 0.0
+        },
+        {
+            "categories": [
+                { "name": "Coding", "total": 0.0 },
+                { "name": "Meeting", "total": 0.0 },
+                { "name": "Building", "total": 0.0 },
+                { "name": "Debugging", "total": 0.0 }
+            ],
+            "date": "2022-11-27",
+            "total": 0.0
+        },
+        {
+            "categories": [
+                { "name": "Coding", "total": 0.0 },
+                { "name": "Meeting", "total": 0.0 },
+                { "name": "Building", "total": 0.0 },
+                { "name": "Debugging", "total": 0.0 }
+            ],
+            "date": "2022-11-28",
+            "total": 0.0
+        },
+        {
+            "categories": [
+                { "name": "Coding", "total": 1102.64 },
+                { "name": "Meeting", "total": 0.0 },
+                { "name": "Building", "total": 0.0 },
+                { "name": "Debugging", "total": 0.0 }
+            ],
+            "date": "2022-11-29",
+            "total": 1102.64
+        },
+        {
+            "categories": [
+                { "name": "Coding", "total": 0.0 },
+                { "name": "Meeting", "total": 0.0 },
+                { "name": "Building", "total": 0.0 },
+                { "name": "Debugging", "total": 0.0 }
+            ],
+            "date": "2022-11-30",
+            "total": 0.0
+        },
+        {
+            "categories": [
+                { "name": "Coding", "total": 0.0 },
+                { "name": "Meeting", "total": 0.0 },
+                { "name": "Building", "total": 0.0 },
+                { "name": "Debugging", "total": 0.0 }
+            ],
+            "date": "2022-12-01",
+            "total": 0.0
+        },
+        {
+            "categories": [
+                { "name": "Coding", "total": 0.0 },
+                { "name": "Meeting", "total": 0.0 },
+                { "name": "Building", "total": 0.0 },
+                { "name": "Debugging", "total": 0.0 }
+            ],
+            "date": "2022-12-02",
+            "total": 0.0
+        },
+        {
+            "categories": [
+                { "name": "Coding", "total": 0.0 },
+                { "name": "Meeting", "total": 0.0 },
+                { "name": "Building", "total": 0.0 },
+                { "name": "Debugging", "total": 0.0 }
+            ],
+            "date": "2022-12-03",
+            "total": 0.0
+        },
+        {
+            "categories": [
+                { "name": "Coding", "total": 0.0 },
+                { "name": "Meeting", "total": 0.0 },
+                { "name": "Building", "total": 0.0 },
+                { "name": "Debugging", "total": 0.0 }
+            ],
+            "date": "2022-12-04",
+            "total": 0.0
+        },
+        {
+            "categories": [
+                { "name": "Coding", "total": 0.0 },
+                { "name": "Meeting", "total": 0.0 },
+                { "name": "Building", "total": 0.0 },
+                { "name": "Debugging", "total": 0.0 }
+            ],
+            "date": "2022-12-05",
+            "total": 0.0
+        },
+        {
+            "categories": [
+                { "name": "Coding", "total": 10.60241 },
+                { "name": "Meeting", "total": 0.0 },
+                { "name": "Building", "total": 0.0 },
+                { "name": "Debugging", "total": 0.0 }
+            ],
+            "date": "2022-12-06",
+            "total": 10.60241
+        },
+        {
+            "categories": [
+                { "name": "Coding", "total": 6350.807933 },
+                { "name": "Meeting", "total": 0.0 },
+                { "name": "Building", "total": 2571.902338 },
+                { "name": "Debugging", "total": 0.0 }
+            ],
+            "date": "2022-12-07",
+            "total": 8922.710271
+        },
+        {
+            "categories": [
+                { "name": "Coding", "total": 0.0 },
+                { "name": "Meeting", "total": 0.0 },
+                { "name": "Building", "total": 0.0 },
+                { "name": "Debugging", "total": 0.0 }
+            ],
+            "date": "2022-12-08",
+            "total": 0.0
+        },
+        {
+            "categories": [
+                { "name": "Coding", "total": 0.0 },
+                { "name": "Meeting", "total": 0.0 },
+                { "name": "Building", "total": 0.0 },
+                { "name": "Debugging", "total": 0.0 }
+            ],
+            "date": "2022-12-09",
+            "total": 0.0
+        },
+        {
+            "categories": [
+                { "name": "Coding", "total": 0.0 },
+                { "name": "Meeting", "total": 0.0 },
+                { "name": "Building", "total": 0.0 },
+                { "name": "Debugging", "total": 0.0 }
+            ],
+            "date": "2022-12-10",
+            "total": 0.0
+        },
+        {
+            "categories": [
+                { "name": "Coding", "total": 2841.911655 },
+                { "name": "Meeting", "total": 0.0 },
+                { "name": "Building", "total": 21.106759 },
+                { "name": "Debugging", "total": 6.761654 }
+            ],
+            "date": "2022-12-11",
+            "total": 2869.780068
+        },
+        {
+            "categories": [
+                { "name": "Coding", "total": 0.0 },
+                { "name": "Meeting", "total": 0.0 },
+                { "name": "Building", "total": 0.0 },
+                { "name": "Debugging", "total": 0.0 }
+            ],
+            "date": "2022-12-12",
+            "total": 0.0
+        },
+        {
+            "categories": [
+                { "name": "Coding", "total": 7241.941144 },
+                { "name": "Meeting", "total": 0.0 },
+                { "name": "Building", "total": 5853.57861 },
+                { "name": "Debugging", "total": 0.0 }
+            ],
+            "date": "2022-12-13",
+            "total": 13095.519754
+        },
+        {
+            "categories": [
+                { "name": "Coding", "total": 0.0 },
+                { "name": "Meeting", "total": 0.0 },
+                { "name": "Building", "total": 0.0 },
+                { "name": "Debugging", "total": 0.0 }
+            ],
+            "date": "2022-12-14",
+            "total": 0.0
+        },
+        {
+            "categories": [
+                { "name": "Coding", "total": 6237.789104 },
+                { "name": "Meeting", "total": 0.0 },
+                { "name": "Building", "total": 9856.699694 },
+                { "name": "Debugging", "total": 0.0 }
+            ],
+            "date": "2022-12-15",
+            "total": 16094.488798
+        },
+        {
+            "categories": [
+                { "name": "Coding", "total": 6246.647773 },
+                { "name": "Meeting", "total": 0.0 },
+                { "name": "Building", "total": 4140.438477 },
+                { "name": "Debugging", "total": 0.0 }
+            ],
+            "date": "2022-12-16",
+            "total": 10387.08625
+        },
+        {
+            "categories": [
+                { "name": "Coding", "total": 8833.670812 },
+                { "name": "Meeting", "total": 0.0 },
+                { "name": "Building", "total": 3101.883348 },
+                { "name": "Debugging", "total": 4.307313 }
+            ],
+            "date": "2022-12-17",
+            "total": 11939.861473
+        },
+        {
+            "categories": [
+                { "name": "Coding", "total": 146.58186 },
+                { "name": "Meeting", "total": 0.0 },
+                { "name": "Building", "total": 615.309733 },
+                { "name": "Debugging", "total": 0.0 }
+            ],
+            "date": "2022-12-18",
+            "total": 761.891593
+        },
+        {
+            "categories": [
+                { "name": "Coding", "total": 845.432793 },
+                { "name": "Meeting", "total": 0.0 },
+                { "name": "Building", "total": 1228.083902 },
+                { "name": "Debugging", "total": 0.0 }
+            ],
+            "date": "2022-12-19",
+            "total": 2073.516695
+        },
+        {
+            "categories": [
+                { "name": "Coding", "total": 379.847989 },
+                { "name": "Meeting", "total": 0.0 },
+                { "name": "Building", "total": 806.072121 },
+                { "name": "Debugging", "total": 0.0 }
+            ],
+            "date": "2022-12-20",
+            "total": 1185.92011
+        },
+        {
+            "categories": [
+                { "name": "Coding", "total": 3973.263396 },
+                { "name": "Meeting", "total": 0.0 },
+                { "name": "Building", "total": 5897.917322 },
+                { "name": "Debugging", "total": 0.0 }
+            ],
+            "date": "2022-12-21",
+            "total": 9871.180718
+        },
+        {
+            "categories": [
+                { "name": "Coding", "total": 0.0 },
+                { "name": "Meeting", "total": 0.0 },
+                { "name": "Building", "total": 826.810894 },
+                { "name": "Debugging", "total": 0.0 }
+            ],
+            "date": "2022-12-22",
+            "total": 826.810894
+        },
+        {
+            "categories": [
+                { "name": "Coding", "total": 17475.657139 },
+                { "name": "Meeting", "total": 0.0 },
+                { "name": "Building", "total": 24668.286462 },
+                { "name": "Debugging", "total": 344.081299 }
+            ],
+            "date": "2022-12-23",
+            "total": 42488.0249
+        },
+        {
+            "categories": [
+                { "name": "Coding", "total": 224.116335 },
+                { "name": "Meeting", "total": 0.0 },
+                { "name": "Building", "total": 819.15423 },
+                { "name": "Debugging", "total": 0.0 }
+            ],
+            "date": "2022-12-24",
+            "total": 1043.270565
+        },
+        {
+            "categories": [
+                { "name": "Coding", "total": 1758.501896 },
+                { "name": "Meeting", "total": 0.0 },
+                { "name": "Building", "total": 95.06075 },
+                { "name": "Debugging", "total": 0.0 }
+            ],
+            "date": "2022-12-25",
+            "total": 1853.562646
+        },
+        {
+            "categories": [
+                { "name": "Coding", "total": 1746.637007 },
+                { "name": "Meeting", "total": 0.0 },
+                { "name": "Building", "total": 0.0 },
+                { "name": "Debugging", "total": 0.0 }
+            ],
+            "date": "2022-12-26",
+            "total": 1746.637007
+        },
+        {
+            "categories": [
+                { "name": "Coding", "total": 279.462974 },
+                { "name": "Meeting", "total": 0.0 },
+                { "name": "Building", "total": 159.836655 },
+                { "name": "Debugging", "total": 1.833693 }
+            ],
+            "date": "2022-12-27",
+            "total": 441.133322
+        },
+        {
+            "categories": [
+                { "name": "Coding", "total": 3809.938976 },
+                { "name": "Meeting", "total": 0.0 },
+                { "name": "Building", "total": 12627.860999 },
+                { "name": "Debugging", "total": 0.0 }
+            ],
+            "date": "2022-12-28",
+            "total": 16437.799975
+        },
+        {
+            "categories": [
+                { "name": "Coding", "total": 2507.858977 },
+                { "name": "Meeting", "total": 0.0 },
+                { "name": "Building", "total": 2028.0004 },
+                { "name": "Debugging", "total": 0.0 }
+            ],
+            "date": "2022-12-29",
+            "total": 4535.859377
+        },
+        {
+            "categories": [
+                { "name": "Coding", "total": 895.439933 },
+                { "name": "Meeting", "total": 0.0 },
+                { "name": "Building", "total": 2979.106847 },
+                { "name": "Debugging", "total": 0.0 }
+            ],
+            "date": "2022-12-30",
+            "total": 3874.54678
+        },
+        {
+            "categories": [
+                { "name": "Coding", "total": 0.0 },
+                { "name": "Meeting", "total": 0.0 },
+                { "name": "Building", "total": 660.04414 },
+                { "name": "Debugging", "total": 0.0 }
+            ],
+            "date": "2022-12-31",
+            "total": 660.04414
+        },
+        {
+            "categories": [
+                { "name": "Coding", "total": 3611.427238 },
+                { "name": "Meeting", "total": 0.0 },
+                { "name": "Building", "total": 13620.487217 },
+                { "name": "Debugging", "total": 0.0 }
+            ],
+            "date": "2023-01-01",
+            "total": 17231.914455
+        },
+        {
+            "categories": [
+                { "name": "Coding", "total": 168.835306 },
+                { "name": "Meeting", "total": 0.0 },
+                { "name": "Building", "total": 8946.586295 },
+                { "name": "Debugging", "total": 0.0 }
+            ],
+            "date": "2023-01-02",
+            "total": 9115.421601
+        },
+        {
+            "categories": [
+                { "name": "Coding", "total": 0.0 },
+                { "name": "Meeting", "total": 0.0 },
+                { "name": "Building", "total": 0.0 },
+                { "name": "Debugging", "total": 0.0 }
+            ],
+            "date": "2023-01-03",
+            "total": 0.0
+        },
+        {
+            "categories": [
+                { "name": "Coding", "total": 8.334665 },
+                { "name": "Meeting", "total": 0.0 },
+                { "name": "Building", "total": 8497.670453 },
+                { "name": "Debugging", "total": 0.0 }
+            ],
+            "date": "2023-01-04",
+            "total": 8506.005118
+        },
+        {
+            "categories": [
+                { "name": "Coding", "total": 1736.514423 },
+                { "name": "Meeting", "total": 0.0 },
+                { "name": "Building", "total": 47.536665 },
+                { "name": "Debugging", "total": 0.0 }
+            ],
+            "date": "2023-01-05",
+            "total": 1784.051088
+        },
+        {
+            "categories": [
+                { "name": "Coding", "total": 1929.649596 },
+                { "name": "Meeting", "total": 0.0 },
+                { "name": "Building", "total": 3175.837166 },
+                { "name": "Debugging", "total": 0.0 }
+            ],
+            "date": "2023-01-06",
+            "total": 5105.486762
+        },
+        {
+            "categories": [
+                { "name": "Coding", "total": 0.0 },
+                { "name": "Meeting", "total": 0.0 },
+                { "name": "Building", "total": 0.0 },
+                { "name": "Debugging", "total": 0.0 }
+            ],
+            "date": "2023-01-07",
+            "total": 0.0
+        }
+    ],
+    "human_readable_range": "since Jan 27 2022",
+    "is_already_updating": false,
+    "is_including_today": false,
+    "is_stuck": false,
+    "is_up_to_date": true,
+    "is_up_to_date_pending_future": false,
+    "percent_calculated": 100,
+    "range": "all_time",
+    "status": "ok",
+    "user_id": "e28968b8-239d-45f9-bc7a-037d6eef5382",
+    "writes_only": false
+}

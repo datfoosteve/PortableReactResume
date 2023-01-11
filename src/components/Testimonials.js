@@ -16,7 +16,7 @@ const Testimonials = ({ data }) => {
   return (
     <section id="testimonials" className="testimonial">
       <div className="heading2">Client Testimonials</div>
-      <div className="md:flex">
+        <div className="flex-items-center mx-auto mt-12 mb-18 max-w-4xl md:grid md:grid-cols-2 md:space-x-8 md:px-8 xl:max-w-6xl"> 
         <AnnotationIcon className="annotationIcon text-slate" />
         <ul className="testimonialList">{testimonials}</ul>
       </div>

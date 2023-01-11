@@ -8,6 +8,7 @@ import Resume from '../components/Resume';
 import Contact from '../components/Contact';
 import Portfolio from '../components/Portfolio';
 import Testimonials from '../components/Testimonials';
+import WakatimeCalendar from '../components/WakaTimeCalender';
 
 const PDFViewer = dynamic(() => import('../components/pdf-viewer'), {
     ssr: false,
@@ -31,10 +32,9 @@ export default function Home() {
                 <link rel="icon" href="/two.png" />
             </Head>
             <Header data={resumeData.main} />
-
             <About data={resumeData.main} />
-
             <Portfolio data={resumeData.portfolio} />
+             <WakatimeCalendar /> 
             <Testimonials data={resumeData.testimonials} />
             <Contact data={resumeData.main} />
             <Resume data={resumeData.resume} />
