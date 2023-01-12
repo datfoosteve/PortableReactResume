@@ -78,7 +78,7 @@ If you would like to contribute to the project, please feel free to fork the rep
 
 Authors
 -------
-
+-   Original layout taken from - [https://github.com/sonofmagic]
 -   [Your Name] - *Initial work*
 
 License
