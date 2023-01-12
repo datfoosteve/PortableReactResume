@@ -185,15 +185,15 @@
           },
           {
             "title": "Weatherstein",
-            "description": "Example Description",
-            "category": "Example Catagory",
+            "description": "The WeatherApi is a weather application that utilizes an open weather API to provide real-time weather information for the user's location or any specified city. The user interface displays current weather conditions such as temperature, humidity, and wind speed, as well as a 5-day forecast. The application also allows the user to switch between Celsius and Fahrenheit and search for any city weather. It demonstrates proficiency in using React.js and integrating APIs to create a functional and user-friendly weather application.",
+            "category": "SPA - Weather API, React.js, Bootstrap, HTML, CSS, JavaScript",
             "image": "Weatherstein.gif",
             "url": "https://github.com/datfoosteve"
           },
           {
             "title": "Social-Network",
-            "description": "Example Description",
-            "category": "Example Catagory",
+            "description": "The Social-Network-API repository is a server-side project that implements the backend for a social network application. It uses Node.js and Express.js to handle server-side logic, routing, and API endpoints. The project uses MongoDB as the database and Mongoose as the Object Document Mapper(ODM) to interact with the database. It also uses JSON Web Token (JWT) for user authentication and authorization. The project exposes a set of RESTful API endpoints to handle user registration, login, posting, and other social network functionality. Overall, it's a well-structured and secure backend for a social network application built using popular technologies like Node.js, Express.js, MongoDB, Mongoose and JWT.",
+            "category": "Backend API",
             "image": "SocialNetwork.gif",
             "url": "https://github.com/datfoosteve"
           }
@@ -204,6 +204,14 @@
           {
             "text": "As the CEO of Momenta Tech, I have had the pleasure of working with Stephen on the development, maintenance, and deployment of our company website, PunchListZero. Using WordPress, Stephen played a crucial role in ensuring that our website was user-friendly, visually appealing, and consistently updated with new content. Stephen is an extremely talented and reliable developer who consistently delivers high-quality work. I highly recommend Stephen for any web development projects and am confident that He will exceed expectations.",
             "user": "Travis Z"
+          },
+          {
+            "text": "Stephen Puthenpurackal is an outstanding student, I had the pleasure of teaching him in my classes at Midwestern State University. He displayed a remarkable level of improvement throughout the course, starting from struggling to grasp the material to excelling in all of his assignments and exams. He demonstrated a strong work ethic and determination to succeed, which is evident in his exceptional performance. He was always eager to learn and improve, and his hard work paid off as he became one of the top students in the class. I have no doubt that Stephen will be a valuable asset to any team or organization he joins in the future.",
+            "user": "Dr Bernard - Professor as Midwestern State University"
+          },
+          {
+            "text": "Stephen is a hardworking and dedicated professional. I had the pleasure of working with Stephen on a project and I was impressed with their ability to understand the requirements, their attention to detail, and their ability to communicate and collaborate with the team. They were always willing to lend a hand and go the extra mile to ensure the success of the project. Their technical skills and their ability to think outside the box made them a valuable asset to the teamI would not hesitate to recommend Stephen for any project, as they have proven to be a dedicated and hardworking professional, with exceptional technical skills, attention to detail and ability to collaborate effectively with the team.",
+            "user": "Sam Thomas"
           }
         ]
       }
