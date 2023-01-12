@@ -1,8 +1,10 @@
 {
   "index.js -> ../components/pdf-viewer": {
-    "id": "index.js -> ../components/pdf-viewer",
+    "id": 5673,
     "files": [
-      "static/chunks/src_components_pdf-viewer_js.js"
+      "static/chunks/2b7b2d2a.80bc0dc333dc8476.js",
+      "static/chunks/536.af525fd37be4227a.js",
+      "static/chunks/990.09aba788a5b8b044.js"
     ]
   }
 }
