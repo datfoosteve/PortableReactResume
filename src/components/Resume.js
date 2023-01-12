@@ -45,7 +45,7 @@ const Resume = ({ data }) => {
     var certificates = data.certificates.map(function (certificate) {
       var src = '/images/certificates/' + certificate.src
       return (
-        <div key={certificate.name} className=" md:h-40">
+        <div key={certificate.name} className=" md:h40">
           <div className="">
             <a href={certificate.url} name={certificate.name}>
               <img
