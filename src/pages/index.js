@@ -9,6 +9,9 @@ import Contact from '../components/Contact';
 import Portfolio from '../components/Portfolio';
 import Testimonials from '../components/Testimonials';
 import WakatimeCalendar from '../components/WakaTimeCalender';
+import Parallax from '../components/Parallax';
+import { ParallaxProvider } from 'react-scroll-parallax';
+<link rel="stylesheet" href="globals.css"></link>
 
 const PDFViewer = dynamic(() => import('../components/pdf-viewer'), {
     ssr: false,
@@ -31,15 +34,18 @@ export default function Home() {
                 <title>Stephen</title>
                 <link rel="icon" href="/two.png" />
             </Head>
+            <ParallaxProvider>
+            <Parallax/>
             <Header data={resumeData.main} />
             <About data={resumeData.main} />
             <Portfolio data={resumeData.portfolio} />
              <WakatimeCalendar /> 
             <Testimonials data={resumeData.testimonials} />
-            <Contact data={resumeData.main} />
             <Resume data={resumeData.resume} />
             <PDFViewer />
+            <Contact data={resumeData.main} />
             <Footer data={resumeData.main} />
+            </ParallaxProvider>
         </div>
     );
 }

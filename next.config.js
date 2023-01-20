@@ -14,6 +14,14 @@ module.exports = {
       ]
     });
 
+    config.module.rules.unshift({
+      test: /\.svg$/,
+      use: [
+        {
+          loader: 'svg-inline-loader'
+        }
+      ]
+    });
     return config;
   }
 };

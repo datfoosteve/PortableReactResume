@@ -75,13 +75,13 @@
   /* ------------------------------------------------------------------ */
 
   .floatingTabs {
-    @apply sticky top-0 items-center bg-transparent;
+    @apply sticky top-0 items-center bg-transparent z-50;
   }
   .tabList {
-    @apply relative top-0 space-x-6 text-center text-[12px] text-black md:h-10 md:bg-white backdrop:invert md:backdrop-brightness-50 md:backdrop-blur-md backdrop-invert md:bg-opacity-5 ring-amber-100 ring-2 ring-offset-2 ring-offset-white ring-opacity-20;
+    @apply relative top-0 space-x-6 text-center text-[12px] text-black md:h-10 md:bg-white backdrop:invert md:backdrop-brightness-50 md:backdrop-blur-md backdrop-invert md:bg-opacity-5 ring-amber-100 ring-2 ring-offset-2 ring-offset-white ring-opacity-20 z-50;
   }
   .tab {
-    @apply mt-3 hidden uppercase md:flex;
+    @apply mt-4 hidden uppercase md:flex z-50 ;
   }
 
   /* ------------------------------------------------------------------ */
@@ -327,5 +327,22 @@
   }
   .madeBy {
     @apply text-sm text-gray-600;
+  }
+
+  .ParallaxProvider {
+    height: 100vh;
+    overflow-y: auto !important;
+    overflow-x: hidden !important;
+    perspective: 200px;
+
+  }
+
+  .parallax{
+    height: 100%;
+    width: 100%;
+    position: relative;
+    transform-style: preserve-3d;
+    transform-origin: center center;
+    transform: translateZ(-200px);
   }
 }
