@@ -1,11 +1,11 @@
 import { useState, useEffect } from 'react';
-import { LinkAnnotation, Document, Page, pdfjs } from 'react-pdf';
+import { Document, Page, pdfjs } from 'react-pdf';
 import workerSrc from '../../pdf-worker.js';
 
 // Set the workerSrc property of the GlobalWorkerOptions object to use a custom worker
 pdfjs.GlobalWorkerOptions.workerSrc = workerSrc;
 
-<LinkAnnotation source={{ type: 'URL', url: 'http://example.com' }} />;
+
 
 export default function PDFViewer() {
     // Declare state variables to store the file, the number of pages in the file, and the URL of the file
@@ -71,7 +71,6 @@ export default function PDFViewer() {
                             renderAnnotationLayer={false}
                             renderInteractiveForms
                             renderTextLayer={false}
-                            customTextRenderer={false}
                             fixed={true}
                         />
                     ))}

@@ -219,6 +219,23 @@
 import React from 'react';
 
 import { ParallaxBanner, ParallaxBannerLayer } from 'react-scroll-parallax';
+import svg_15 from 'public/images/svgasset/svg_15.svg';
+import svg_14 from 'public/images/svgasset/svg_14.svg';
+import svg_13 from 'public/images/svgasset/svg_13.svg';
+import svg_12 from 'public/images/svgasset/svg_12.svg';
+import svg_11 from 'public/images/svgasset/svg_11.svg';
+import svg_10 from 'public/images/svgasset/svg_10.svg';
+import svg_9 from 'public/images/svgasset/svg_9.svg';
+import svg_8 from 'public/images/svgasset/svg_8.svg';
+import svg_7 from 'public/images/svgasset/svg_7.svg';
+import svg_6 from 'public/images/svgasset/svg_6.svg';
+import svg_5 from 'public/images/svgasset/svg_5.svg';
+import svg_4 from 'public/images/svgasset/svg_4.svg';
+import svg_3 from 'public/images/svgasset/svg_3.svg';
+import svg_2 from 'public/images/svgasset/svg_2.svg';
+import svg_1 from 'public/images/svgasset/svg_1.svg';
+
+
 
 const Parallax = () => {
     return (
@@ -226,47 +243,47 @@ const Parallax = () => {
 <ParallaxBanner
 layers={[
     {
-      image : "../../public/images/svgasset/svg_15.svg",
+      image : svg_15,
       speed: -150,
     },
     {
-        image : "../../public/images/svgasset/svg_14.svg",
+        image : svg_14,
         speed: -140,
       },
       {
-        image : "../../public/images/svgasset/svg_13.svg",
+        image : svg_13,
         speed: -130,
       },
       {
-        image : "../../public/images/svgasset/svg_12.svg",
+        image : svg_12,
         speed: -120,
       },
       {
-        image : "../../public/images/svgasset/svg_11.svg",
+        image : svg_11,
         speed: -110,
       },
       {
-        image : "../../public/images/svgasset/svg_10.svg",
+        image : svg_10,
         speed: -100,
       },
       {
-        image : "../../public/images/svgasset/svg_9.svg",
+        image : svg_9,
         speed: -90,
       },
       {
-        image : "../../public/images/svgasset/svg_8.svg",
+        image : svg_8,
         speed: -80,
       },
       {
-        image : "../../public/images/svgasset/svg_7.svg",
+        image : svg_7,
         speed: -70,
       },
       {
-        image : "../../public/images/svgasset/svg_6.svg",
+        image : svg_6,
         speed: -60,
       },
       {
-        image : "../../public/images/svgasset/svg_5.svg",
+        image : svg_5,
         speed: -50,
       },
   ]}

@@ -1,4 +1,10 @@
 module.exports = {
+
+  images: {
+    dangerouslyAllowSVG: true,
+    contentSecurityPolicy: "default-src 'self'; script-src 'none'; sandbox;",
+  },
+
   webpack: (config) => {
     config.module.rules.unshift({
       test: /pdf\.worker\.(min\.)?js/,
@@ -22,6 +28,6 @@ module.exports = {
         }
       ]
     });
+    
     return config;
-  }
-};
+  }};
