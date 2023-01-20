@@ -10,7 +10,7 @@ class MyDocument extends Document {
     return (
       <Html>
         <Head>
-        <link rel="stylesheet" href= "../styles/globals.css"/>
+        <link rel="stylesheet" href= 'src/styles/globals.css'/>
         </Head>
         <body>
           <Main />
