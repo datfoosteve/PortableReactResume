@@ -1,6 +1,6 @@
 import { useState, useEffect } from 'react';
 import { Document, Page, pdfjs } from 'react-pdf';
-import workerSrc from '../../pdf-worker.js';
+import workerSrc from '../../public/pdf-worker.js';
 
 // Set the workerSrc property of the GlobalWorkerOptions object to use a custom worker
 pdfjs.GlobalWorkerOptions.workerSrc = workerSrc;

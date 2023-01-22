@@ -1,12 +1,16 @@
 import React from 'react';
 import Layout from '../components/Layout';
 import MyDocument from './_document';
-import Head from 'next/head'
-import 'src/styles/globals.css'
+import Head from 'next/head';
+import '../styles/globals.css';
+
+
 
 
 function MyApp({ Component, pageProps })  {
-  return( <Layout>
+  return( 
+
+  <Layout>
    <Head>
     <title>My Portfolio App</title>
   </Head>
@@ -23,6 +27,6 @@ MyApp.getInitialProps = async ({ Component, ctx }) => {
 
   return { pageProps };
 }
-MyApp.renderDocument = MyDocument.render
+MyApp.renderDocument = MyDocument.render;
 
 export default MyApp;

@@ -7,7 +7,7 @@ module.exports = {
 
   webpack: (config) => {
     config.module.rules.unshift({
-      test: /pdf\.worker\.(min\.)?js/,
+      test:  /pdf\.worker\.(min\.)?js/,
       use: [
         {
           loader: "file-loader",

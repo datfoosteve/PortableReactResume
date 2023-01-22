@@ -15,21 +15,23 @@ import { ParallaxProvider } from 'react-scroll-parallax';
 
 
 
+
 const PDFViewer = dynamic(() => import('../components/pdf-viewer'), {
     ssr: false,
     
 });
 
-export default function Home() {
-    const [resumeData, setResumeData] = useState({});
+    export default function Home() {
+        const [resumeData, setResumeData] = useState({});
+    
+        useEffect(() => {
+            fetch('/resumeData.json')
+                .then((res) => res.json())
+                .then((data) => {
+                    setResumeData(data);
+                });
+        }, []);
 
-    useEffect(() => {
-        fetch('/resumeData.json')
-            .then((res) => res.json())
-            .then((data) => {
-                setResumeData(data);
-            });
-    }, []);
 
     return (
         <div>
