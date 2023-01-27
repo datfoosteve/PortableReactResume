@@ -3,6 +3,9 @@ import toast, { Toaster } from 'react-hot-toast'
 import { MailIcon } from '@heroicons/react/outline'
 import Details from './Details'
 
+
+
+
 const Contact = ({ data }) => {
   const [name, setName] = useState('')
   const [email, setEmail] = useState('')
@@ -19,6 +22,7 @@ const Contact = ({ data }) => {
     var contactEmail = data.email
     var contactMessage = data.contactmessage
   }
+
 
   const submitForm = () => {
     window.open(
@@ -57,7 +61,7 @@ const Contact = ({ data }) => {
                 onChange={(e) => setName(e.target.value)}
               />
             </div>
-
+      
             <div className="formMedium">
               <label htmlFor="contactEmail" className="label">
                 Email <span className="text-orange">*</span>

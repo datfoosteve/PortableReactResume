@@ -17,7 +17,7 @@ import { ParallaxProvider } from 'react-scroll-parallax';
 
 
 const PDFViewer = dynamic(() => import('../components/pdf-viewer'), {
-    ssr: false,
+    ssr: true,
     
 });
 
@@ -25,7 +25,7 @@ const PDFViewer = dynamic(() => import('../components/pdf-viewer'), {
         const [resumeData, setResumeData] = useState({});
     
         useEffect(() => {
-            fetch('/resumeData.json')
+            fetch("/resumeData.json")
                 .then((res) => res.json())
                 .then((data) => {
                     setResumeData(data);

@@ -10,7 +10,7 @@ class MyDocument extends Document {
     return (
       <Html>
         <Head>
-        <link rel="stylesheet" href='/public/resumeData.json'/>
+        <link rel="styleSheet" href='../styles/globals.css'/>
         </Head>
         <body>
           <Main />
